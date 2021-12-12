@@ -1,0 +1,96 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61DA2765D875008E177A /* 6. Zigzag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. Zigzag Conversion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61DB2765D896008E177A /* 1306. Jump Game III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1306. Jump Game III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8255322764EF4000EE47F0 /* _8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9F82552A2764D01100EE47F0 = {
+			isa = PBXGroup;
+			children = (
+				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
+				9F8255322764EF4000EE47F0 /* _8. String to Integer (atoi).playground */,
+				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
+				9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */,
+				9F4E61DA2765D875008E177A /* 6. Zigzag Conversion.playground */,
+				9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */,
+				9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */,
+				9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */,
+				9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */,
+				9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */,
+				9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */,
+				9F4E61DB2765D896008E177A /* 1306. Jump Game III.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		9F82552B2764D01100EE47F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+			};
+			buildConfigurationList = 9F82552E2764D01100EE47F0 /* Build configuration list for PBXProject "Leetcode" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F82552A2764D01100EE47F0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		9F82552F2764D01100EE47F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		9F8255302764D01100EE47F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F82552E2764D01100EE47F0 /* Build configuration list for PBXProject "Leetcode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F82552F2764D01100EE47F0 /* Debug */,
+				9F8255302764D01100EE47F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9F82552B2764D01100EE47F0 /* Project object */;
+}
