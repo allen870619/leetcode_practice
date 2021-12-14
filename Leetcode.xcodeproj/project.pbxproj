@@ -16,6 +16,7 @@
 		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -27,20 +28,21 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
-				9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */,
-				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
-				9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
+				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
 				9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */,
 				9F4E61DA2765D875008E177A /* 6. Zigzag Conversion.playground */,
+				9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */,
+				9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */,
 				9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */,
 				9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */,
 				9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */,
 				9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */,
 				9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */,
 				9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */,
+				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
 				9F4E61DB2765D896008E177A /* 1306. Jump Game III.playground */,
+				9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */,
 			);
 			sourceTree = "<group>";
 		};
