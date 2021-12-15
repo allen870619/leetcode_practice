@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -28,6 +29,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
 				9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */,
