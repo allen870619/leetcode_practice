@@ -25,12 +25,14 @@
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FC9FCBB276C0E8D00B80C3E /* 221. Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221. Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FC9FCBB276C0E8D00B80C3E /* 221. Maximal Square.playground */,
 				9F3EA7BE276ABD5500BBAF83 /* _310. Minimum Height Trees.playground */,
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
 				9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */,
