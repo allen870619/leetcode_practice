@@ -23,7 +23,7 @@ class Solution {
             setList.append(tmpSet)
             reCal.append(tmp)
         }
-
+        
         var result = 0
         for i in 0..<reCal.count{
             for j in setList[i].sorted(){
