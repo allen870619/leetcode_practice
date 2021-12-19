@@ -23,7 +23,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>18</integer>
 		</dict>
 		<key>122. Best Time to Buy and Sell Stock II (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>0</integer>
 		</dict>
 		<key>13. Roman to Integer (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +86,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>17</integer>
 		</dict>
 		<key>1446. Consecutive Characters (Playground) 1.xcscheme</key>
 		<dict>
@@ -107,7 +107,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>3</integer>
 		</dict>
 		<key>147. Insertion Sort List (Playground) 1.xcscheme</key>
 		<dict>
@@ -128,7 +128,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>7</integer>
 		</dict>
 		<key>17. Letter Combinations of a Phone Number (Playground) 1.xcscheme</key>
 		<dict>
@@ -149,7 +149,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>10</integer>
 		</dict>
 		<key>2. Add Two Numbers (Playground) 1.xcscheme</key>
 		<dict>
@@ -170,7 +170,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>11</integer>
 		</dict>
 		<key>221. Maximal Square (Playground) 1.xcscheme</key>
 		<dict>
@@ -212,7 +212,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>2</integer>
 		</dict>
 		<key>258. Add Digits (Playground) 1.xcscheme</key>
 		<dict>
@@ -233,7 +233,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>20</integer>
 		</dict>
 		<key>3. Longest Substring Without Repeating Characters (Playground) 1.xcscheme</key>
 		<dict>
@@ -254,7 +254,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>5</integer>
 		</dict>
 		<key>310. Minimum Height Trees (Playground) 1.xcscheme</key>
 		<dict>
@@ -277,6 +277,27 @@
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
+		<key>394. Decode String (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>394. Decode String (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>394. Decode String (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
 		<key>416. Partition Equal Subset Sum (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -296,7 +317,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>4</integer>
 		</dict>
 		<key>5. Longest Palindromic Substring (Playground) 1.xcscheme</key>
 		<dict>
@@ -317,7 +338,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>19</integer>
 		</dict>
 		<key>6. Zigzag Conversion (Playground) 1.xcscheme</key>
 		<dict>
@@ -338,7 +359,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>1</integer>
 		</dict>
 		<key>624. Maximum Distance in Arrays (Playground) 1.xcscheme</key>
 		<dict>
@@ -359,7 +380,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>9</integer>
 		</dict>
 		<key>721. Accounts Merge (Playground) 1.xcscheme</key>
 		<dict>
@@ -380,7 +401,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>13</integer>
 		</dict>
 		<key>8. String to Integer (atoi) (Playground) 1.xcscheme</key>
 		<dict>
@@ -401,7 +422,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>15</integer>
 		</dict>
 		<key>878. Nth Magical Number (Playground) 1.xcscheme</key>
 		<dict>
@@ -422,7 +443,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>8</integer>
 		</dict>
 		<key>9. Palindrome Number (Playground) 1.xcscheme</key>
 		<dict>
@@ -443,21 +464,49 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>16</integer>
+		</dict>
+		<key>902. Numbers At Most N Given Digit Set (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
 		</dict>
 		<key>938. Range Sum of BST (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>6</integer>
+		</dict>
+		<key>MyPlayground (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>MyPlayground (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>MyPlayground (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>20</integer>
 		</dict>
 		<key>_310. Minimum Height Trees (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>12</integer>
 		</dict>
 		<key>_8. String to Integer (atoi) (Playground).xcscheme</key>
 		<dict>
