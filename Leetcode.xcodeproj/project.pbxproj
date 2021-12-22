@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1200. Minimum Absolute Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3EA7BE276ABD5500BBAF83 /* _310. Minimum Height Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_310. Minimum Height Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -39,6 +40,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
 				9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */,
 				9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */,
 				9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */,
