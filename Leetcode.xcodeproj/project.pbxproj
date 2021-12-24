@@ -12,6 +12,8 @@
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3EA7BE276ABD5500BBAF83 /* _310. Minimum Height Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_310. Minimum Height Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F46F7DD2773F75000038EF2 /* _210. Course Schedule II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_210. Course Schedule II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -40,6 +42,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
+				9F46F7DD2773F75000038EF2 /* _210. Course Schedule II.playground */,
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
 				9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */,
 				9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */,
