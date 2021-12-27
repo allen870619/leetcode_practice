@@ -33,6 +33,8 @@
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FA5207827799CD700B6FB9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC6992E276E19100046CC85 /* _902. Numbers At Most N Given Digit Set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_902. Numbers At Most N Given Digit Set.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -43,6 +45,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FA5207827799CD700B6FB9B /* .gitignore */,
+				9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
 				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
 				9F46F7DD2773F75000038EF2 /* _210. Course Schedule II.playground */,
