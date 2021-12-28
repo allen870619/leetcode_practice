@@ -31,6 +31,7 @@
 		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA5207827799CD700B6FB9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
@@ -45,19 +46,11 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9FA5207827799CD700B6FB9B /* .gitignore */,
-				9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */,
-				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
-				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
+				9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */,
 				9F46F7DD2773F75000038EF2 /* _210. Course Schedule II.playground */,
-				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
-				9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */,
-				9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */,
-				9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */,
-				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
-				9F578283276EC84D00A492CC /* 394. Decode String.playground */,
 				9F3EA7BE276ABD5500BBAF83 /* _310. Minimum Height Trees.playground */,
 				9FC6992E276E19100046CC85 /* _902. Numbers At Most N Given Digit Set.playground */,
+				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
 				9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */,
@@ -66,16 +59,25 @@
 				9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */,
 				9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */,
 				9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */,
+				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
+				9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */,
 				9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */,
+				9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */,
 				9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */,
 				9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */,
+				9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */,
 				9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */,
+				9F578283276EC84D00A492CC /* 394. Decode String.playground */,
 				9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */,
+				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
 				9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */,
 				9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */,
 				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
+				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
+				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
 				9F4E61DB2765D896008E177A /* 1306. Jump Game III.playground */,
+				9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */,
 				9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */,
 			);
 			sourceTree = "<group>";
