@@ -11,7 +11,7 @@ public class Node {
     }
 }
 
-class Solution {
+class Solution { // O(N) S(N)
     func connect(_ root: Node?) -> Node? {
         guard let head = root else{
             return nil
@@ -43,6 +43,27 @@ class Solution {
             
             nodeStack = tmp
             tmp.removeAll()
+        }
+        return root
+    }
+}
+
+class Solution2 {  // O(N) S(1)
+    func connect(_ root: Node?) -> Node? {
+        if root == nil{
+            return nil
+        }
+        root?.next = nil
+        
+        var start = root
+        while start != nil{
+            var pointer = start
+            start = start?.left
+            while pointer != nil{
+                pointer?.left?.next = pointer?.right
+                pointer?.right?.next = pointer?.next?.left
+                pointer = pointer?.next
+            }
         }
         return root
     }
