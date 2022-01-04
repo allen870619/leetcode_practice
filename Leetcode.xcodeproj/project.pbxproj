@@ -28,6 +28,7 @@
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1009. Complement of Base 10 Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -51,6 +52,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
 				9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */,
