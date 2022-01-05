@@ -33,6 +33,7 @@
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1863. Sum of All Subset XOR Totals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -53,6 +54,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
 				9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
