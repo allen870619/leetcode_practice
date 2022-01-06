@@ -24,6 +24,7 @@
 		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "143. Reorder List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1094. Car Pooling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F578283276EC84D00A492CC /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -54,6 +55,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
 				9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */,
