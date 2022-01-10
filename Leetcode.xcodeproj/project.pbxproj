@@ -28,6 +28,7 @@
 		9F578283276EC84D00A492CC /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F754087278BB52B006E0683 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1009. Complement of Base 10 Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -56,6 +57,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F754087278BB52B006E0683 /* 67. Add Binary.playground */,
 				9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
