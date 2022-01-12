@@ -11,6 +11,7 @@
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3EA7BE276ABD5500BBAF83 /* _310. Minimum Height Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_310. Minimum Height Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -53,12 +54,15 @@
 		9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "116. Populating Next Right Pointers in Each Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1022. Sum of Root To Leaf Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFB48CE278D518F00D64117 /* _2134. Minimum Swaps to Group All 1's Together II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_2134. Minimum Swaps to Group All 1's Together II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */,
+				9FFB48CE278D518F00D64117 /* _2134. Minimum Swaps to Group All 1's Together II.playground */,
 				9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */,
 				9F762A85278BFE4500FA6F15 /* _2135. Count Words Obtained After Adding a Letter.playground */,
 				9F754087278BB52B006E0683 /* 67. Add Binary.playground */,
