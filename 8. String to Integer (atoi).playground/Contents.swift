@@ -1,4 +1,49 @@
+// Second Time
 class Solution {
+    func myAtoi(_ s: String) -> Int {
+        let nums: [Character] = ["0","1","2","3","4","5","6","7","8","9"]
+        var rec: [Character] = []
+        var hasNum = false
+        
+        for i in s{
+            if i == " "{
+                if !rec.isEmpty{
+                    break
+                }
+            }else{
+                if nums.contains(i){
+                    rec.append(i)
+                    hasNum = true
+                }else if i == "+" || i == "-"{
+                    if rec.contains("+") || rec.contains("-") || !rec.isEmpty{
+                        break
+                    }else{
+                        rec.append(i)
+                    }
+                }else{
+                    break
+                }
+            }
+        }
+        if !hasNum{
+            return 0
+        }
+        let result = String(rec)
+        if let i = Int32(result){
+            return Int(i)
+        }else{
+            if rec.contains("-"){
+                return Int(Int32.min)
+            }else{
+                return Int(Int32.max)
+            }
+        }
+        return 0
+    }
+}
+
+// First Time
+class Solution2 {
     func myAtoi(_ s: String) -> Int {
         let avil: [Character] = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "+", "-", ".", " "]
         var num: [Character] = []
