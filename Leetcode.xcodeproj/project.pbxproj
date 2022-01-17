@@ -50,6 +50,7 @@
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC6992E276E19100046CC85 /* _902. Numbers At Most N Given Digit Set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "_902. Numbers At Most N Given Digit Set.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -67,6 +68,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */,
 				9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */,
 				9F5DD7C02793D53400B000E2 /* 2139. Minimum Moves to Reach Target Score.playground */,
 				9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */,
