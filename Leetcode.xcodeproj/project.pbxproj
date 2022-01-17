@@ -32,6 +32,7 @@
 		9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "849. Maximize Distance to Closest Person.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7C02793D53400B000E2 /* 2139. Minimum Moves to Reach Target Score.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2139. Minimum Moves to Reach Target Score.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2091. Removing Minimum and Maximum From Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F754087278BB52B006E0683 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -68,6 +69,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */,
 				9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */,
 				9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */,
 				9F5DD7C02793D53400B000E2 /* 2139. Minimum Moves to Reach Target Score.playground */,
