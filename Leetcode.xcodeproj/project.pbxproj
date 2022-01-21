@@ -59,6 +59,7 @@
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCA6ED3279A347D007526E9 /* 134. Gas Station.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "134. Gas Station.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1456. Maximum Number of Vowels in a Substring of Given Length.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "382. Linked List Random Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -74,6 +75,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */,
 				9FCA6ED3279A347D007526E9 /* 134. Gas Station.playground */,
 				9F46F7DD2773F75000038EF2 /* _210. Course Schedule II.playground */,
 				9F3EA7BE276ABD5500BBAF83 /* _310. Minimum Height Trees.playground */,
