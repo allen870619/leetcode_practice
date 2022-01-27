@@ -68,6 +68,7 @@
 		9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "116. Populating Next Right Pointers in Each Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "452. Minimum Number of Arrows to Burst Balloons.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "421. Maximum XOR of Two Numbers in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1022. Sum of Root To Leaf Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -76,6 +77,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */,
 				9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
