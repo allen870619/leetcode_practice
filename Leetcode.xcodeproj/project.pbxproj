@@ -10,6 +10,7 @@
 		9F009B19279FCD68001F5AA1 /* 2149. Rearrange Array Elements by Sign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2149. Rearrange Array Elements by Sign.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1200. Minimum Absolute Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -77,6 +78,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
 				9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */,
 				9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
