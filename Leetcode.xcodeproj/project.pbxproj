@@ -55,6 +55,7 @@
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "605. Can Place Flowers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA5207827799CD700B6FB9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -78,6 +79,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */,
 				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
 				9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */,
 				9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */,
