@@ -12,6 +12,7 @@
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -84,6 +85,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */,
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FFBAFC427A6482B00115853 /* 2148. Count Elements With Strictly Smaller and Greater Elements.playground */,
 				9FFBAFC227A6464A00115853 /* 2155. All Divisions With the Highest Score of a Binary Array.playground */,
