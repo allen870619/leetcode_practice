@@ -61,6 +61,7 @@
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FBD58F227B09B090010638D /* 389. Find the Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "389. Find the Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1672. Richest Customer Wealth.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -85,6 +86,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FBD58F227B09B090010638D /* 389. Find the Difference.playground */,
 				9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */,
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FFBAFC427A6482B00115853 /* 2148. Count Elements With Strictly Smaller and Greater Elements.playground */,
