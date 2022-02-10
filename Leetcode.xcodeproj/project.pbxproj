@@ -50,6 +50,7 @@
 		9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1291. Sequential Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "560. Subarray Sum Equals K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1305. All Elements in Two Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -87,6 +88,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */,
 				9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
