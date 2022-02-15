@@ -58,6 +58,8 @@
 		9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "560. Subarray Sum Equals K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1305. All Elements in Two Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F9CF72927BB278E00519B15 /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "605. Can Place Flowers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -93,6 +95,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */,
+				9F9CF72927BB278E00519B15 /* 136. Single Number.playground */,
 				9F1DE6EE27B8BCF700A63635 /* 78. Subsets.playground */,
 				9F1DE6ED27B8BA0300A63635 /* 2171. Removing Minimum Number of Magic Beans.playground */,
 				9F1DE6EC27B8B9B900A63635 /* 2170. Minimum Operations to Make the Array Alternating.playground */,
