@@ -23,6 +23,7 @@
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "567. Permutation in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24. Swap Nodes in Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -95,6 +96,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */,
 				9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */,
 				9F9CF72927BB278E00519B15 /* 136. Single Number.playground */,
 				9F1DE6EE27B8BCF700A63635 /* 78. Subsets.playground */,
