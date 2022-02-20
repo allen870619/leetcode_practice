@@ -78,6 +78,10 @@
 		9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCA6ED3279A347D007526E9 /* 134. Gas Station.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "134. Gas Station.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1456. Maximum Number of Vowels in a Substring of Given Length.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCD982E27C1F74D00A508BF /* 1288. Remove Covered Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1288. Remove Covered Intervals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2180. Count Integers With Even Digit Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2181. Merge Nodes in Between Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2182. Construct String With Repeat Limit.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "382. Linked List Random Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -99,6 +103,10 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */,
+				9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */,
+				9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */,
+				9FCD982E27C1F74D00A508BF /* 1288. Remove Covered Intervals.playground */,
 				9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */,
 				9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */,
 				9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */,
