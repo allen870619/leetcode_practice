@@ -8,18 +8,15 @@ class Solution {
                 dict[i]! += 1
             }
         }
-        
         var arr = dict.sorted(by: {$0.key.asciiValue!>$1.key.asciiValue!})
-        print(arr)
         
         var result = ""
         var index = 0
-        var isBreak = false
         while !arr.isEmpty{
             var tmpCount = 0
             while true{
                 if tmpCount == repeatLimit{
-                    isBreak = true
+                    index += 1
                     break
                 }
                 if index == arr.count{
@@ -31,23 +28,15 @@ class Solution {
                     if arr[index].value == 0{
                         arr.remove(at: index)
                     }
-                    index -= 2
-                    isBreak = true
+                    index -= 1
                     break
                 }
                 if arr[index].value == 0{
                     arr.remove(at: index)
                     break
                 }
-
-                
                 tmpCount += 1
             }
-            if isBreak{
-                index += 1
-                isBreak = false
-            }
-            
         }
         return result
     }
