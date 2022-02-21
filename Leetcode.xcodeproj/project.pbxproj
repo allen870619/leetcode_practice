@@ -48,6 +48,7 @@
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1009. Complement of Base 10 Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -103,6 +104,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */,
 				9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */,
 				9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */,
 				9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */,
