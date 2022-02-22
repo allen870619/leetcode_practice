@@ -70,6 +70,7 @@
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FB90AE627C46186000B476A /* 171. Excel Sheet Column Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "171. Excel Sheet Column Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBD58F227B09B090010638D /* 389. Find the Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "389. Find the Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1675. Minimize Deviation in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -104,6 +105,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FB90AE627C46186000B476A /* 171. Excel Sheet Column Number.playground */,
 				9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */,
 				9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */,
 				9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */,
