@@ -10,6 +10,7 @@
 		9F009B19279FCD68001F5AA1 /* 2149. Rearrange Array Elements by Sign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2149. Rearrange Array Elements by Sign.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1200. Minimum Absolute Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6EB27B8B9AD00A63635 /* 2169. Count Operations to Obtain Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2169. Count Operations to Obtain Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -105,6 +106,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */,
 				9FB90AE627C46186000B476A /* 171. Excel Sheet Column Number.playground */,
 				9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */,
 				9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */,
