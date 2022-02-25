@@ -41,6 +41,7 @@
 		9F578283276EC84D00A492CC /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1510. Stone Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5D889F27C858190027C55D /* 165. Compare Version Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "165. Compare Version Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "849. Maximize Distance to Closest Person.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7C02793D53400B000E2 /* 2139. Minimum Moves to Reach Target Score.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2139. Minimum Moves to Reach Target Score.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -107,6 +108,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F5D889F27C858190027C55D /* 165. Compare Version Numbers.playground */,
 				9F43938927C714080009D69A /* 148. Sort List.playground */,
 				9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */,
 				9FB90AE627C46186000B476A /* 171. Excel Sheet Column Number.playground */,
