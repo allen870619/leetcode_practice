@@ -34,6 +34,7 @@
 		9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392. Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "143. Reorder List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1094. Car Pooling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F562F3D2797980F00E96D57 /* 142. Linked List Cycle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "142. Linked List Cycle II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -110,6 +111,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */,
 				9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */,
 				9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */,
 				9F5D889F27C858190027C55D /* 165. Compare Version Numbers.playground */,
