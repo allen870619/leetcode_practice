@@ -19,6 +19,13 @@
 		9F1DE6ED27B8BA0300A63635 /* 2171. Removing Minimum Number of Magic Beans.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2171. Removing Minimum Number of Magic Beans.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6EE27B8BCF700A63635 /* 78. Subsets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "78. Subsets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1359. Count All Valid Pickup and Delivery Options.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA427D46A1F00E0BC4B /* 2197. Replace Non-Coprime Numbers in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2197. Replace Non-Coprime Numbers in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA527D46A4900E0BC4B /* 2196. Create Binary Tree From Descriptions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2196. Create Binary Tree From Descriptions.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA627D46AC600E0BC4B /* 2195. Append K Integers With Minimal Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2195. Append K Integers With Minimal Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA727D46B0A00E0BC4B /* 2194. Cells in a Range on an Excel Sheet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2194. Cells in a Range on an Excel Sheet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA827D46B4500E0BC4B /* 2191. Sort the Jumbled Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2191. Sort the Jumbled Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F213EA927D46B9200E0BC4B /* 2190. Most Frequent Number Following Key In an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2190. Most Frequent Number Following Key In an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -114,6 +121,13 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F213EA927D46B9200E0BC4B /* 2190. Most Frequent Number Following Key In an Array.playground */,
+				9F213EA827D46B4500E0BC4B /* 2191. Sort the Jumbled Numbers.playground */,
+				9F213EA727D46B0A00E0BC4B /* 2194. Cells in a Range on an Excel Sheet.playground */,
+				9F213EA627D46AC600E0BC4B /* 2195. Append K Integers With Minimal Sum.playground */,
+				9F213EA527D46A4900E0BC4B /* 2196. Create Binary Tree From Descriptions.playground */,
+				9F213EA427D46A1F00E0BC4B /* 2197. Replace Non-Coprime Numbers in Array.playground */,
+				9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */,
 				9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */,
 				9F1A58DF27D1989000CC210B /* 799. Champagne Tower.playground */,
 				9F743CF527D044FB00DB2C13 /* 413. Arithmetic Slices.playground */,
