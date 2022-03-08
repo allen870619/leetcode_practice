@@ -104,6 +104,7 @@
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "382. Linked List Random Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD8181027D6DAAC00D37C55 /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "116. Populating Next Right Pointers in Each Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "452. Minimum Number of Arrows to Burst Balloons.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -122,6 +123,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FD8181027D6DAAC00D37C55 /* 141. Linked List Cycle.playground */,
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
 				9F213EA927D46B9200E0BC4B /* 2190. Most Frequent Number Following Key In an Array.playground */,
 				9F213EA827D46B4500E0BC4B /* 2191. Sort the Jumbled Numbers.playground */,
