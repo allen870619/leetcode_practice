@@ -112,6 +112,7 @@
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1022. Sum of Root To Leaf Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFB79CD27D82B7600EAD811 /* 82. Remove Duplicates from Sorted List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "82. Remove Duplicates from Sorted List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFBAFC127A645FA00115853 /* 2154. Keep Multiplying Found Values by Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2154. Keep Multiplying Found Values by Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFBAFC227A6464A00115853 /* 2155. All Divisions With the Highest Score of a Binary Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2155. All Divisions With the Highest Score of a Binary Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFBAFC427A6482B00115853 /* 2148. Count Elements With Strictly Smaller and Greater Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2148. Count Elements With Strictly Smaller and Greater Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -123,6 +124,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FFB79CD27D82B7600EAD811 /* 82. Remove Duplicates from Sorted List II.playground */,
 				9FD8181027D6DAAC00D37C55 /* 141. Linked List Cycle.playground */,
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
 				9F213EA927D46B9200E0BC4B /* 2190. Most Frequent Number Following Key In an Array.playground */,
