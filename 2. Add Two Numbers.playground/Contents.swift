@@ -6,6 +6,37 @@ public class ListNode {
     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
 }
 
+// second try @ 20220310
+class Solution2 {
+    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+        let dummyHead = ListNode()
+        var dummy: ListNode? = dummyHead
+        var l1 = l1; var l2 = l2
+        var last = 0
+        while l1 != nil || l2 != nil {
+            var val = (l1?.val ?? 0) + (l2?.val ?? 0) + last
+            last = val / 10
+            dummy?.next = ListNode(val % 10)
+            dummy = dummy?.next
+            if l1 != nil{
+                l1 = l1?.next
+            }
+            if l2 != nil{
+                l2 = l2?.next
+            }
+        }
+        while last != 0{
+            dummy?.next = ListNode(last % 10)
+            dummy = dummy?.next
+            last /= 10
+        }
+        return dummyHead.next
+    }
+}
+
+
+
+// first try @ 20211110
 class Solution {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var startNode: ListNode?
