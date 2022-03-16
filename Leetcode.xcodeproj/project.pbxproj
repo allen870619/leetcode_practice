@@ -91,6 +91,7 @@
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB90AE627C46186000B476A /* 171. Excel Sheet Column Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "171. Excel Sheet Column Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "946. Validate Stack Sequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBD58F227B09B090010638D /* 389. Find the Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "389. Find the Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1675. Minimize Deviation in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -127,9 +128,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */,
-				9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */,
-				9F30862C27DAD2180088F948 /* 61. Rotate List.playground */,
+				9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -145,7 +144,9 @@
 				9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
 				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
+				9F30862C27DAD2180088F948 /* 61. Rotate List.playground */,
 				9F754087278BB52B006E0683 /* 67. Add Binary.playground */,
+				9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */,
 				9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */,
 				9F1DE6EE27B8BCF700A63635 /* 78. Subsets.playground */,
 				9FFB79CD27D82B7600EAD811 /* 82. Remove Duplicates from Sorted List II.playground */,
@@ -208,6 +209,7 @@
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
 				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
 				9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */,
+				9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */,
 				9FCD982E27C1F74D00A508BF /* 1288. Remove Covered Intervals.playground */,
 				9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */,
 				9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */,
