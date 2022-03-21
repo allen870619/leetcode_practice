@@ -90,6 +90,8 @@
 		9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "605. Can Place Flowers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA5207827799CD700B6FB9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		9FA601BF27A622EF00FE7487 /* 189. Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "189. Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FA699F827E80031003E620F /* 763. Partition Labels.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "763. Partition Labels.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1007. Minimum Domino Rotations For Equal Row.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -131,6 +133,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */,
+				9FA699F827E80031003E620F /* 763. Partition Labels.playground */,
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
 				9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */,
 				9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */,
