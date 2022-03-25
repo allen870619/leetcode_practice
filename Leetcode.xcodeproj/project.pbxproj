@@ -31,6 +31,7 @@
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1029. Two City Scheduling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "740. Delete and Earn.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F30862C27DAD2180088F948 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "991. Broken Calculator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -136,6 +137,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */,
 				9F6E301227EBF0C40082E010 /* 881. Boats to Save People.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */,
