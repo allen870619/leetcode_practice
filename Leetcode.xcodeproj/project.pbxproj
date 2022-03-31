@@ -108,6 +108,7 @@
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBD58F227B09B090010638D /* 389. Find the Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "389. Find the Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1675. Minimize Deviation in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "410. Split Array Largest Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1672. Richest Customer Wealth.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -144,6 +145,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */,
 				9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */,
 				9FDEAA6327F287540072A412 /* 287. Find the Duplicate Number.playground */,
 				9F73641027F137E100A836A9 /* 2217. Find Palindrome With Fixed Length.playground */,
