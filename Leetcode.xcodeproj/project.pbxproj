@@ -84,6 +84,10 @@
 		9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "878. Nth Magical Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8255322764EF4000EE47F0 /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1863. Sum of All Subset XOR Totals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F82E88727F95C8B00F277B6 /* 2224. Minimum Number of Operations to Convert Time.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2224. Minimum Number of Operations to Convert Time.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F82E88827F95CA600F277B6 /* 2225. Find Players With Zero or One Losses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2225. Find Players With Zero or One Losses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F82E88927F95CBE00F277B6 /* 2226. Maximum Candies Allocated to K Children.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2226. Maximum Candies Allocated to K Children.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F82E88A27F95CD300F277B6 /* 2227. Encrypt and Decrypt Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2227. Encrypt and Decrypt Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "941. Valid Mountain Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1291. Sequential Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -146,6 +150,10 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F82E88A27F95CD300F277B6 /* 2227. Encrypt and Decrypt Strings.playground */,
+				9F82E88927F95CBE00F277B6 /* 2226. Maximum Candies Allocated to K Children.playground */,
+				9F82E88827F95CA600F277B6 /* 2225. Find Players With Zero or One Losses.playground */,
+				9F82E88727F95C8B00F277B6 /* 2224. Minimum Number of Operations to Convert Time.playground */,
 				9FC4D7D627F5556300168CC6 /* 120. Triangle.playground */,
 				9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */,
 				9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */,
