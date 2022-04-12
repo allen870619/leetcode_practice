@@ -114,6 +114,7 @@
 		9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBD58F227B09B090010638D /* 389. Find the Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "389. Find the Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1675. Minimize Deviation in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FBECC652805020B00BE9DFE /* 289. Game of Life.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "289. Game of Life.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "410. Split Array Largest Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC4D7D627F5556300168CC6 /* 120. Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "120. Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -153,6 +154,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FBECC652805020B00BE9DFE /* 289. Game of Life.playground */,
 				9FFAF29E2803AC90000224A8 /* 1260. Shift 2D Grid.playground */,
 				9F50842627FFB8A90058AEE8 /* 703. Kth Largest Element in a Stream.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
