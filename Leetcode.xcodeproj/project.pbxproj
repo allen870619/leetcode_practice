@@ -128,6 +128,7 @@
 		9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2180. Count Integers With Even Digit Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2181. Merge Nodes in Between Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2182. Construct String With Repeat Limit.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "669. Trim a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD435CA27EF38C20012B2F1 /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -156,6 +157,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
 				9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */,
 				9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */,
 				9FBECC652805020B00BE9DFE /* 289. Game of Life.playground */,
