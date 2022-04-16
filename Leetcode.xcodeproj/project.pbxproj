@@ -28,6 +28,7 @@
 		9F213EA827D46B4500E0BC4B /* 2191. Sort the Jumbled Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2191. Sort the Jumbled Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F213EA927D46B9200E0BC4B /* 2190. Most Frequent Number Following Key In an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2190. Most Frequent Number Following Key In an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1249. Minimum Remove to Make Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "538. Convert BST to Greater Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -157,6 +158,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
 				9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */,
 				9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */,
