@@ -33,6 +33,7 @@
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F2D224E280CE88700CEA159 /* 230. Kth Smallest Element in a BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "230. Kth Smallest Element in a BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1029. Two City Scheduling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "740. Delete and Earn.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F30862C27DAD2180088F948 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -158,6 +159,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F2D224E280CE88700CEA159 /* 230. Kth Smallest Element in a BST.playground */,
 				9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
 				9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */,
