@@ -13,6 +13,7 @@
 		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "923. 3Sum With Multiplicity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "173. Binary Search Tree Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1A58DF27D1989000CC210B /* 799. Champagne Tower.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "799. Champagne Tower.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6EB27B8B9AD00A63635 /* 2169. Count Operations to Obtain Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2169. Count Operations to Obtain Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -160,6 +161,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */,
 				9F85F8C9280E40A000CA5F9D /* 99. Recover Binary Search Tree.playground */,
 				9F2D224E280CE88700CEA159 /* 230. Kth Smallest Element in a BST.playground */,
 				9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */,
