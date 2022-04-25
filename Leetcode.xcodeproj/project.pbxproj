@@ -156,6 +156,7 @@
 		9FFBAFC227A6464A00115853 /* 2155. All Divisions With the Highest Score of a Binary Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2155. All Divisions With the Highest Score of a Binary Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFBAFC427A6482B00115853 /* 2148. Count Elements With Strictly Smaller and Greater Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2148. Count Elements With Strictly Smaller and Greater Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "532. K-diff Pairs in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "284. Peeking Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -163,6 +164,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */,
 				9FD3DA73281229BA00C303CD /* 706. Design HashMap.playground */,
 				9FD917942810D86900F4D592 /* 705. Design HashSet.playground */,
 				9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */,
