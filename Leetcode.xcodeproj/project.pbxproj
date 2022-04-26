@@ -69,6 +69,7 @@
 		9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "228. Summary Ranges.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "338. Counting Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1584. Min Cost to Connect All Points.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "71. Simplify Path.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2091. Removing Minimum and Maximum From Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -164,6 +165,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */,
 				9FD3DA73281229BA00C303CD /* 706. Design HashMap.playground */,
 				9FD917942810D86900F4D592 /* 705. Design HashSet.playground */,
