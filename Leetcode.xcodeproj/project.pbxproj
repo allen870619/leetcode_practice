@@ -108,6 +108,7 @@
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "605. Can Place Flowers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA5207827799CD700B6FB9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9FA5B44E28211B4C009947F7 /* 581. Shortest Unsorted Continuous Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "581. Shortest Unsorted Continuous Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA601BF27A622EF00FE7487 /* 189. Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "189. Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA699F827E80031003E620F /* 763. Partition Labels.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "763. Partition Labels.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1007. Minimum Domino Rotations For Equal Row.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -166,6 +167,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FA5B44E28211B4C009947F7 /* 581. Shortest Unsorted Continuous Subarray.playground */,
 				9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */,
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */,
