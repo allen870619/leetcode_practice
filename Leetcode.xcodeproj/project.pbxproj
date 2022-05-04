@@ -136,6 +136,7 @@
 		9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2180. Count Integers With Even Digit Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2181. Merge Nodes in Between Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2182. Construct String With Repeat Limit.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1679. Max Number of K-Sum Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "669. Trim a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -169,6 +170,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */,
 				9FA5B45028212AD1009947F7 /* 2260. Minimum Consecutive Cards to Pick Up.playground */,
 				9FA5B44F282122E8009947F7 /* 2259. Remove Digit From Number to Maximize Result.playground */,
 				9FA5B44E28211B4C009947F7 /* 581. Shortest Unsorted Continuous Subarray.playground */,
