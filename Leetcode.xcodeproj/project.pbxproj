@@ -143,6 +143,8 @@
 		9FD3DA73281229BA00C303CD /* 706. Design HashMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "706. Design HashMap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD435CA27EF38C20012B2F1 /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "382. Linked List Random Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "225. Implement Stack using Queues.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD80CDB2823513600D8BE29 /* 2255. Count Prefixes of a Given String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2255. Count Prefixes of a Given String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD8181027D6DAAC00D37C55 /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD917942810D86900F4D592 /* 705. Design HashSet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "705. Design HashSet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDEAA6327F287540072A412 /* 287. Find the Duplicate Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "287. Find the Duplicate Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -170,6 +172,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FD80CDB2823513600D8BE29 /* 2255. Count Prefixes of a Given String.playground */,
+				9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */,
 				9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */,
 				9FA5B45028212AD1009947F7 /* 2260. Minimum Consecutive Cards to Pick Up.playground */,
 				9FA5B44F282122E8009947F7 /* 2259. Remove Digit From Number to Maximize Result.playground */,
