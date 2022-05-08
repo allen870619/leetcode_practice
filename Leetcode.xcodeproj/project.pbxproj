@@ -73,6 +73,10 @@
 		9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "71. Simplify Path.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2091. Removing Minimum and Maximum From Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2264. Largest 3-Same-Digit Number in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2265. Count Nodes Equal to Average of Subtree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2266. Count Number of Texts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "341. Flatten Nested List Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6E301227EBF0C40082E010 /* 881. Boats to Save People.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "881. Boats to Save People.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F73640D27F135CF00A836A9 /* 81. Search in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "81. Search in Rotated Sorted Array II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F73640E27F1361600A836A9 /* 1337. The K Weakest Rows in a Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1337. The K Weakest Rows in a Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -173,6 +177,10 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */,
+				9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */,
+				9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */,
+				9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */,
 				9FD77F292824AB2600739DB7 /* 1209. Remove All Adjacent Duplicates in String II.playground */,
 				9FD80CDB2823513600D8BE29 /* 2255. Count Prefixes of a Given String.playground */,
 				9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */,
