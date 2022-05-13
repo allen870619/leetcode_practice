@@ -163,6 +163,7 @@
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFAF29E2803AC90000224A8 /* 1260. Shift 2D Grid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1260. Shift 2D Grid.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1022. Sum of Root To Leaf Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -180,6 +181,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */,
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
 				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
 				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
