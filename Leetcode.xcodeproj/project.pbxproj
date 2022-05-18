@@ -11,6 +11,7 @@
 		9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1200. Minimum Absolute Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1192. Critical Connections in a Network.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "923. 3Sum With Multiplicity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "173. Binary Search Tree Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -182,6 +183,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */,
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
