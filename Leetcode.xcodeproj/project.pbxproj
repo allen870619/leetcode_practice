@@ -156,6 +156,7 @@
 		9FD80CDB2823513600D8BE29 /* 2255. Count Prefixes of a Given String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2255. Count Prefixes of a Given String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD8181027D6DAAC00D37C55 /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD917942810D86900F4D592 /* 705. Design HashSet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "705. Design HashSet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "329. Longest Increasing Path in a Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDEAA6327F287540072A412 /* 287. Find the Duplicate Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "287. Find the Duplicate Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "116. Populating Next Right Pointers in Each Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "700. Search in a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -183,6 +184,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */,
 				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */,
