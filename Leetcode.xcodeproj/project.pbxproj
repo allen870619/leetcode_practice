@@ -162,6 +162,7 @@
 		9FD917942810D86900F4D592 /* 705. Design HashSet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "705. Design HashSet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "329. Longest Increasing Path in a Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDEAA6327F287540072A412 /* 287. Find the Duplicate Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "287. Find the Duplicate Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "474. Ones and Zeroes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "116. Populating Next Right Pointers in Each Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "700. Search in a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -188,6 +189,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F8EF6222839F1F2007476DA /* 2280. Minimum Lines to Represent a Line Chart.playground */,
 				9F8EF6212839F148007476DA /* 2279. Maximum Bags With Full Capacity of Rocks.playground */,
 				9F8EF6202839F10A007476DA /* 2278. Percentage of Letter in String.playground */,
