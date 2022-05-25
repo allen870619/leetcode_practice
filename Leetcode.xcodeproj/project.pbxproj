@@ -40,6 +40,7 @@
 		9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1029. Two City Scheduling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "740. Delete and Earn.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F30862C27DAD2180088F948 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "354. Russian Doll Envelopes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "991. Broken Calculator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "567. Permutation in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -190,6 +191,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */,
 				9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F8EF6222839F1F2007476DA /* 2280. Minimum Lines to Represent a Line Chart.playground */,
