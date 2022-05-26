@@ -167,6 +167,8 @@
 		9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "474. Ones and Zeroes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "116. Populating Next Right Pointers in Each Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "700. Search in a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "191. Number of 1 Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE2ED96283F0316009AFBA4 /* 190. Reverse Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "190. Reverse Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "452. Minimum Number of Arrows to Burst Balloons.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "421. Maximum XOR of Two Numbers in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -191,20 +193,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */,
-				9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */,
-				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
-				9F8EF6222839F1F2007476DA /* 2280. Minimum Lines to Represent a Line Chart.playground */,
-				9F8EF6212839F148007476DA /* 2279. Maximum Bags With Full Capacity of Rocks.playground */,
-				9F8EF6202839F10A007476DA /* 2278. Percentage of Letter in String.playground */,
-				9F1F8CD7283718EE003AC84A /* 63. Unique Paths II.playground */,
-				9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */,
-				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
-				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
-				9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */,
-				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
-				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
-				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
+				9FE2ED96283F0316009AFBA4 /* 190. Reverse Bits.playground */,
+				9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -217,11 +207,14 @@
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
 				9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */,
 				9F562F3E2797E76000E96D57 /* 31. Next Permutation.playground */,
+				9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */,
 				9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
+				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
 				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
 				9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */,
 				9F30862C27DAD2180088F948 /* 61. Rotate List.playground */,
+				9F1F8CD7283718EE003AC84A /* 63. Unique Paths II.playground */,
 				9F754087278BB52B006E0683 /* 67. Add Binary.playground */,
 				9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */,
 				9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */,
@@ -233,6 +226,7 @@
 				9F85F8C9280E40A000CA5F9D /* 99. Recover Binary Search Tree.playground */,
 				9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */,
 				9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */,
+				9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */,
 				9FC4D7D627F5556300168CC6 /* 120. Triangle.playground */,
 				9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */,
 				9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */,
@@ -251,6 +245,7 @@
 				9FA601BF27A622EF00FE7487 /* 189. Rotate Array.playground */,
 				9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */,
 				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
+				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
 				9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */,
 				9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */,
 				9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */,
@@ -262,8 +257,10 @@
 				9FBECC652805020B00BE9DFE /* 289. Game of Life.playground */,
 				9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */,
 				9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */,
+				9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */,
 				9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */,
 				9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */,
+				9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */,
 				9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */,
 				9FBD58F227B09B090010638D /* 389. Find the Difference.playground */,
 				9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */,
@@ -274,6 +271,7 @@
 				9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */,
 				9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */,
 				9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */,
+				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
 				9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */,
 				9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */,
@@ -313,8 +311,10 @@
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
 				9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */,
 				9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */,
+				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
+				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
 				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
 				9FD77F292824AB2600739DB7 /* 1209. Remove All Adjacent Duplicates in String II.playground */,
 				9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */,
@@ -332,6 +332,7 @@
 				9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */,
 				9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */,
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
+				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
 				9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */,
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */,
@@ -369,6 +370,9 @@
 				9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */,
 				9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */,
 				9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */,
+				9F8EF6202839F10A007476DA /* 2278. Percentage of Letter in String.playground */,
+				9F8EF6212839F148007476DA /* 2279. Maximum Bags With Full Capacity of Rocks.playground */,
+				9F8EF6222839F1F2007476DA /* 2280. Minimum Lines to Represent a Line Chart.playground */,
 			);
 			sourceTree = "<group>";
 		};
