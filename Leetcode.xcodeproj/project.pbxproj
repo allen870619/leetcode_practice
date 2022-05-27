@@ -172,6 +172,7 @@
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "452. Minimum Number of Arrows to Burst Balloons.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "421. Maximum XOR of Two Numbers in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE9E96B28404CB80055564A /* 1342. Number of Steps to Reduce a Number to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1342. Number of Steps to Reduce a Number to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -193,6 +194,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FE9E96B28404CB80055564A /* 1342. Number of Steps to Reduce a Number to Zero.playground */,
 				9FE2ED96283F0316009AFBA4 /* 190. Reverse Bits.playground */,
 				9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
