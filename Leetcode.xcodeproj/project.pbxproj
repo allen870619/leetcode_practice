@@ -46,6 +46,7 @@
 		9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "740. Delete and Earn.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F30862C27DAD2180088F948 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "354. Russian Doll Envelopes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1461. Check If a String Contains All Binary Codes of Size K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "991. Broken Calculator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "567. Permutation in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -199,6 +200,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9F1A7E9D28444E6300CD5FF4 /* 268. Missing Number.playground */,
 				9F1A7E9C28444E0800CD5FF4 /* 2287. Rearrange Characters to Make Target String.playground */,
 				9F1A7E9B28444C6900CD5FF4 /* 2288. Apply Discount to Prices.playground */,
