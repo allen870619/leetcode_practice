@@ -181,6 +181,7 @@
 		9FE9E96B28404CB80055564A /* 1342. Number of Steps to Reduce a Number to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1342. Number of Steps to Reduce a Number to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -200,6 +201,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9F1A7E9D28444E6300CD5FF4 /* 268. Missing Number.playground */,
 				9F1A7E9C28444E0800CD5FF4 /* 2287. Rearrange Characters to Make Target String.playground */,
