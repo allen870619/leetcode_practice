@@ -42,6 +42,8 @@
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2D224E280CE88700CEA159 /* 230. Kth Smallest Element in a BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "230. Kth Smallest Element in a BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F2DD2C8284838FA00885B87 /* 867. Transpose Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "867. Transpose Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F2DD2C9284839BB00885B87 /* 594. Longest Harmonious Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "594. Longest Harmonious Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1029. Two City Scheduling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "740. Delete and Earn.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F30862C27DAD2180088F948 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -201,6 +203,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F2DD2C9284839BB00885B87 /* 594. Longest Harmonious Subsequence.playground */,
+				9F2DD2C8284838FA00885B87 /* 867. Transpose Matrix.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9F1A7E9D28444E6300CD5FF4 /* 268. Missing Number.playground */,
