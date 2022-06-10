@@ -1,4 +1,26 @@
+// 2022/06/10
+class Solution2 {
+    func lengthOfLongestSubstring(_ s: String) -> Int {
+        let s = [Character](s)
+        var tmpArr = [Character]()
+        var maxLen = 0
+        for i in s{
+            if tmpArr.contains(i){
+                maxLen = max(maxLen, tmpArr.count)
+                while !tmpArr.isEmpty{
+                    let p = tmpArr.removeFirst()
+                    if p == i{
+                        break
+                    }
+                }
+            }
+            tmpArr.append(i)
+        }
+        return max(maxLen, tmpArr.count)
+    }
+}
 
+// 2021/11/10
 class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {
         var maxInt = 0
