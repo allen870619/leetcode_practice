@@ -1,3 +1,26 @@
+// 2022/06/13
+class Solution3 {
+    func minimumTotal(_ triangle: [[Int]]) -> Int {
+        var tri = triangle
+        if tri.count < 1{
+            return tri[0][0]
+        }
+        for i in 1..<tri.count{
+            for j in 0..<tri[i].count{
+                if j == 0{
+                    tri[i][j] += tri[i-1][j]
+                }else if j == tri[i].count - 1{
+                    tri[i][j] += tri[i-1][j-1]
+                }else{
+                    tri[i][j] += min(tri[i-1][j-1], tri[i-1][j])
+                }
+            }
+        }
+        return tri.last?.min() ?? 0
+    }
+}
+
+// 2022/03/31
 class Solution {
     func minimumTotal(_ triangle: [[Int]]) -> Int {
         if triangle.count == 0{
