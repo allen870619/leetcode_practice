@@ -85,6 +85,7 @@
 		9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "71. Simplify Path.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2091. Removing Minimum and Maximum From Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F696866285971E6001D09AC /* 1048. Longest String Chain.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "1048. Longest String Chain.playground"; path = "../../1048. Longest String Chain.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2264. Largest 3-Same-Digit Number in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2265. Count Nodes Equal to Average of Subtree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2266. Count Number of Texts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -206,7 +207,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9FD3F204285861750050C4BC /* 583. Delete Operation for Two Strings.playground */,
+				9F696866285971E6001D09AC /* 1048. Longest String Chain.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -298,6 +299,7 @@
 				9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */,
 				9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */,
 				9FA5B44E28211B4C009947F7 /* 581. Shortest Unsorted Continuous Subarray.playground */,
+				9FD3F204285861750050C4BC /* 583. Delete Operation for Two Strings.playground */,
 				9F2DD2C9284839BB00885B87 /* 594. Longest Harmonious Subsequence.playground */,
 				9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */,
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
