@@ -1,3 +1,39 @@
+// 2022/06/16
+class Solution3 {
+    func longestPalindrome(_ os: String) -> String {
+        var s = [Character("-")]
+        for i in os{
+            s.append(i)
+            s.append("-")
+        }
+        
+        var left = 0
+        var right = 0
+        for index in 0..<s.count{
+            var shift = 0
+            var l = 0, r = 0
+            while index-shift >= 0 && index+shift < s.count{
+                if s[index-shift] == s[index+shift]{
+                    l = index - shift
+                    r = index + shift
+                }else{
+                    break
+                }
+                shift += 1
+            }
+            if r-l > right-left{
+                left = l
+                right = r
+            }
+        }
+        var result = s[left...right]
+        result.removeAll{$0 == "-"}
+        return String(result)
+    }
+}
+
+
+// 2021/12/08
 class Solution {
     func longestPalindrome(_ s: String) -> String {
         var cList: [Character] = ["_"]
