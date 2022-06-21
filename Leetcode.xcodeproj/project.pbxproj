@@ -72,7 +72,6 @@
 		9F562F3E2797E76000E96D57 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F578283276EC84D00A492CC /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		9F594E7E2861501000A791B6 /* 1642. Furthest Building You Can Reach.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "1642. Furthest Building You Can Reach.playground"; path = "../../1642. Furthest Building You Can Reach.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "856. Score of Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1510. Stone Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -92,6 +91,7 @@
 		9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "341. Flatten Nested List Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6E301227EBF0C40082E010 /* 881. Boats to Save People.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "881. Boats to Save People.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6E7ECF284D854D0080263F /* 160. Intersection of Two Linked Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "160. Intersection of Two Linked Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1642. Furthest Building You Can Reach.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F73640D27F135CF00A836A9 /* 81. Search in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "81. Search in Rotated Sorted Array II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F73640E27F1361600A836A9 /* 1337. The K Weakest Rows in a Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1337. The K Weakest Rows in a Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F73640F27F1363E00A836A9 /* 2215. Find the Difference of Two Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2215. Find the Difference of Two Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -208,7 +208,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F594E7E2861501000A791B6 /* 1642. Furthest Building You Can Reach.playground */,
+				9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */,
 				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
