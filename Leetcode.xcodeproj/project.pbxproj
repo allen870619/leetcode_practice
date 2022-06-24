@@ -132,6 +132,7 @@
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1048. Longest String Chain.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1354. Construct Target Array With Multiple Sums.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "605. Can Place Flowers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA5207827799CD700B6FB9B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		9FA5B44E28211B4C009947F7 /* 581. Shortest Unsorted Continuous Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "581. Shortest Unsorted Continuous Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -211,6 +212,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */,
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */,
 				9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */,
