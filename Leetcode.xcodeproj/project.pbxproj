@@ -155,6 +155,7 @@
 		9FC4D7D627F5556300168CC6 /* 120. Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "120. Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1672. Richest Customer Wealth.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1710. Maximum Units on a Truck.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCA6ED3279A347D007526E9 /* 134. Gas Station.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "134. Gas Station.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -212,6 +213,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */,
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */,
