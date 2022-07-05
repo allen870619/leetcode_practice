@@ -194,6 +194,7 @@
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF7C7532873BB21009C4FA1 /* 128. Longest Consecutive Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "128. Longest Consecutive Sequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFAF29E2803AC90000224A8 /* 1260. Shift 2D Grid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1260. Shift 2D Grid.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -213,13 +214,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
-				9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */,
-				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
-				9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */,
-				9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */,
-				9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */,
-				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
+				9FF7C7532873BB21009C4FA1 /* 128. Longest Consecutive Sequence.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -275,6 +270,7 @@
 				9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */,
 				9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */,
 				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
+				9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */,
 				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
 				9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */,
 				9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */,
@@ -289,6 +285,7 @@
 				9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */,
 				9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */,
 				9F1A7E9A2844469F00CD5FF4 /* 318. Maximum Product of Word Lengths.playground */,
+				9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */,
 				9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */,
 				9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */,
 				9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */,
@@ -315,6 +312,7 @@
 				9F2DD2C9284839BB00885B87 /* 594. Longest Harmonious Subsequence.playground */,
 				9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */,
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
+				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
 				9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */,
 				9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */,
@@ -346,6 +344,7 @@
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
 				9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */,
 				9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */,
+				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
@@ -362,6 +361,7 @@
 				9F73640E27F1361600A836A9 /* 1337. The K Weakest Rows in a Matrix.playground */,
 				9FE9E96B28404CB80055564A /* 1342. Number of Steps to Reduce a Number to Zero.playground */,
 				9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */,
+				9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */,
 				9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */,
 				9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */,
 				9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */,
@@ -371,10 +371,12 @@
 				9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */,
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
+				9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */,
 				9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */,
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */,
 				9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */,
+				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */,
 				9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */,
