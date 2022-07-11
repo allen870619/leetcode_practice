@@ -105,6 +105,7 @@
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1009. Complement of Base 10 Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "199. Binary Tree Right Side View.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1663. Smallest String With A Given Numeric Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "895. Maximum Frequency Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -216,6 +217,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */,
 				9F740C122876685100484227 /* 97. Interleaving String.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
