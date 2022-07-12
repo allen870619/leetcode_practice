@@ -52,6 +52,7 @@
 		9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1461. Check If a String Contains All Binary Codes of Size K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "991. Broken Calculator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "567. Permutation in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "473. Matchsticks to Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "215. Kth Largest Element in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -217,6 +218,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */,
 				9F740C122876685100484227 /* 97. Interleaving String.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
