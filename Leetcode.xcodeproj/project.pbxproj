@@ -122,6 +122,7 @@
 		9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "941. Valid Mountain Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1291. Sequential Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "560. Subarray Sum Equals K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -221,6 +222,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */,
 				9FB85A2C2880E93C00125946 /* 695. Max Area of Island.playground */,
 				9FFB8F03287FA273006B777A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */,
 				9FDB6F7F287E59AA002F36F7 /* 102. Binary Tree Level Order Traversal.playground */,
