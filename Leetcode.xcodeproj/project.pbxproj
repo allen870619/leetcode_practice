@@ -59,6 +59,7 @@
 		9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "324. Wiggle Sort II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24. Swap Nodes in Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F43938927C714080009D69A /* 148. Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "148. Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "92. Reverse Linked List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "316. Remove Duplicate Letters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "792. Number of Matching Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -223,6 +224,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */,
 				9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */,
 				9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */,
 				9FB85A2C2880E93C00125946 /* 695. Max Area of Island.playground */,
