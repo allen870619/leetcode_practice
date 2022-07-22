@@ -168,6 +168,7 @@
 		9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCA6ED3279A347D007526E9 /* 134. Gas Station.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "134. Gas Station.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1456. Maximum Number of Vowels in a Substring of Given Length.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCC768E288A23D9001E925F /* 86. Partition List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "86. Partition List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD982E27C1F74D00A508BF /* 1288. Remove Covered Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1288. Remove Covered Intervals.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2180. Count Integers With Even Digit Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2181. Merge Nodes in Between Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -224,6 +225,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FCC768E288A23D9001E925F /* 86. Partition List.playground */,
 				9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */,
 				9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */,
 				9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */,
