@@ -209,6 +209,8 @@
 		9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFAF29E2803AC90000224A8 /* 1260. Shift 2D Grid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1260. Shift 2D Grid.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1022. Sum of Root To Leaf Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFB5142288E18CB00009123 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFB5143288E18EA00009123 /* 34. Find First and Last Position of Element in Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Find First and Last Position of Element in Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB79CD27D82B7600EAD811 /* 82. Remove Duplicates from Sorted List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "82. Remove Duplicates from Sorted List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFB8F03287FA273006B777A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFBAFC127A645FA00115853 /* 2154. Keep Multiplying Found Values by Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2154. Keep Multiplying Found Values by Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -225,6 +227,8 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FFB5143288E18EA00009123 /* 34. Find First and Last Position of Element in Sorted Array.playground */,
+				9FFB5142288E18CB00009123 /* 94. Binary Tree Inorder Traversal.playground */,
 				9FCC768E288A23D9001E925F /* 86. Partition List.playground */,
 				9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */,
 				9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */,
