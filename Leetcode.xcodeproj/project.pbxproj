@@ -36,6 +36,7 @@
 		9F213EA727D46B0A00E0BC4B /* 2194. Cells in a Range on an Excel Sheet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2194. Cells in a Range on an Excel Sheet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F213EA827D46B4500E0BC4B /* 2191. Sort the Jumbled Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2191. Sort the Jumbled Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F213EA927D46B9200E0BC4B /* 2190. Most Frequent Number Following Key In an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2190. Most Frequent Number Following Key In an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "236. Lowest Common Ancestor of a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1249. Minimum Remove to Make Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "538. Convert BST to Greater Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -227,6 +228,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */,
 				9FFB5143288E18EA00009123 /* 34. Find First and Last Position of Element in Sorted Array.playground */,
 				9FFB5142288E18CB00009123 /* 94. Binary Tree Inorder Traversal.playground */,
 				9FCC768E288A23D9001E925F /* 86. Partition List.playground */,
