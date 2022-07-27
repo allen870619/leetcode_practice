@@ -110,6 +110,7 @@
 		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1009. Complement of Base 10 Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "199. Binary Tree Right Side View.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F7A6FC02890C14F0028D6BB /* 114. Flatten Binary Tree to Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "114. Flatten Binary Tree to Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1663. Smallest String With A Given Numeric Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "895. Maximum Frequency Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -228,6 +229,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F7A6FC02890C14F0028D6BB /* 114. Flatten Binary Tree to Linked List.playground */,
 				9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */,
 				9FFB5143288E18EA00009123 /* 34. Find First and Last Position of Element in Sorted Array.playground */,
 				9FFB5142288E18CB00009123 /* 94. Binary Tree Inorder Traversal.playground */,
