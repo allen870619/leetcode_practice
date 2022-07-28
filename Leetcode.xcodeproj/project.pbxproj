@@ -150,6 +150,7 @@
 		9FA601BF27A622EF00FE7487 /* 189. Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "189. Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA699F827E80031003E620F /* 763. Partition Labels.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "763. Partition Labels.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1007. Minimum Domino Rotations For Equal Row.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FA81BF628920CFD00DA8D9C /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "59. Spiral Matrix II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -229,6 +230,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FA81BF628920CFD00DA8D9C /* 242. Valid Anagram.playground */,
 				9F7A6FC02890C14F0028D6BB /* 114. Flatten Binary Tree to Linked List.playground */,
 				9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */,
 				9FFB5143288E18EA00009123 /* 34. Find First and Last Position of Element in Sorted Array.playground */,
