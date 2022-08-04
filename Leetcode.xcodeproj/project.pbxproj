@@ -64,6 +64,7 @@
 		9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "92. Reverse Linked List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "316. Remove Duplicate Letters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "792. Number of Matching Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -233,6 +234,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */,
 				9F0689442899FC0200EAE156 /* 729. My Calendar I.playground */,
 				9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */,
 				9FE0A8C02897574B00C6DDB3 /* 62. Unique Paths.playground */,
