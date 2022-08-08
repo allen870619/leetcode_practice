@@ -131,6 +131,7 @@
 		9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8D8EC328A0DC6200F24DDD /* 300. Longest Increasing Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "300. Longest Increasing Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "560. Subarray Sum Equals K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8DF0E727A0CF8B008F8196 /* 1305. All Elements in Two Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1305. All Elements in Two Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8EF6202839F10A007476DA /* 2278. Percentage of Letter in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2278. Percentage of Letter in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -235,6 +236,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F8D8EC328A0DC6200F24DDD /* 300. Longest Increasing Subsequence.playground */,
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
 				9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */,
 				9F0689442899FC0200EAE156 /* 729. My Calendar I.playground */,
