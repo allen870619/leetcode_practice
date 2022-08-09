@@ -12,6 +12,7 @@
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0689442899FC0200EAE156 /* 729. My Calendar I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "729. My Calendar I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "823. Binary Trees With Factors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1192. Critical Connections in a Network.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "923. 3Sum With Multiplicity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -236,6 +237,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */,
 				9F8D8EC328A0DC6200F24DDD /* 300. Longest Increasing Subsequence.playground */,
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
 				9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */,
