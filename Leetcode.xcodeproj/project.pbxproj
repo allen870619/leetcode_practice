@@ -231,12 +231,14 @@
 		9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "284. Peeking Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "785. Is Graph Bipartite?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFF419828A33456003AA24E /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FFF419828A33456003AA24E /* 108. Convert Sorted Array to Binary Search Tree.playground */,
 				9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */,
 				9F8D8EC328A0DC6200F24DDD /* 300. Longest Increasing Subsequence.playground */,
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
