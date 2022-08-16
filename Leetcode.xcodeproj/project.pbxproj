@@ -216,6 +216,7 @@
 		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF29A7628A7FF740022B0E8 /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF74CEA28AB17AE00C8620E /* 387. First Unique Character in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "387. First Unique Character in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF7C7532873BB21009C4FA1 /* 128. Longest Consecutive Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "128. Longest Consecutive Sequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "378. Kth Smallest Element in a Sorted Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -242,6 +243,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FF74CEA28AB17AE00C8620E /* 387. First Unique Character in a String.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
