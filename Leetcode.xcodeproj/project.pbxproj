@@ -172,6 +172,7 @@
 		9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "410. Split Array Largest Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC4D7D627F5556300168CC6 /* 120. Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "120. Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FC8219E28B301B5005EE7ED /* 342. Power of Four.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "342. Power of Four.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1672. Richest Customer Wealth.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1710. Maximum Units on a Truck.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "221._ Maximal Square.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -246,6 +247,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FC8219E28B301B5005EE7ED /* 342. Power of Four.playground */,
 				9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */,
 				9F8C78F528ADBF1700EFA55C /* 1338. Reduce Array Size to The Half.playground */,
 				9FD99A8D28AC6DAA00D1365E /* 804. Unique Morse Code Words.playground */,
