@@ -143,6 +143,7 @@
 		9F8EF6212839F148007476DA /* 2279. Maximum Bags With Full Capacity of Rocks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2279. Maximum Bags With Full Capacity of Rocks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8EF6222839F1F2007476DA /* 2280. Minimum Lines to Represent a Line Chart.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2280. Minimum Lines to Represent a Line Chart.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "383. Ransom Note.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1641. Count Sorted Vowel Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CF72927BB278E00519B15 /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -249,6 +250,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */,
 				9F3ED5D028B5B56A00A27150 /* 326. Power of Three.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
