@@ -1,3 +1,42 @@
+/// 20220829 second try
+class Solution2 {
+    func numIslands(_ grid: [[Character]]) -> Int {
+        var result = 0
+        var grid = grid
+        let width = grid.first?.count ?? 0
+        let height = grid.count
+        for h in 0..<height {
+            for w in 0..<width {
+                if grid[h][w] == "1" {
+                    result += 1
+                    // change land to 2
+                    fillLand(h, w)
+                }
+            }
+        }
+        
+        func fillLand(_ h: Int, _ w: Int) {
+            if grid[h][w] == "1" {
+                grid[h][w] = "2"
+            }
+            if w + 1 < width && grid[h][w+1] == "1" {
+                fillLand(h, w+1)
+            }
+            if w - 1 >= 0 && grid[h][w-1] == "1" {
+                fillLand(h, w-1)
+            }
+            if h + 1 < height && grid[h+1][w] == "1" {
+                fillLand(h+1, w)
+            }
+            if h - 1 >= 0 && grid[h-1][w] == "1" {
+                fillLand(h-1, w)
+            }
+        }
+        return result
+    }
+}
+
+/// 20211228
 class Solution {
     func numIslands(_ agrid: [[Character]]) -> Int {
         var grid = agrid
