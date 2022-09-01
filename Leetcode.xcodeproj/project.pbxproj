@@ -134,6 +134,7 @@
 		9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1291. Sequential Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C78F528ADBF1700EFA55C /* 1338. Reduce Array Size to The Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1338. Reduce Array Size to The Half.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1448. Count Good Nodes in Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "624. Maximum Distance in Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8D8EC328A0DC6200F24DDD /* 300. Longest Increasing Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "300. Longest Increasing Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -252,6 +253,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */,
 				9FF5C25B28BEE6EF00D50347 /* 417. Pacific Atlantic Water Flow.playground */,
 				9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */,
 				9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */,
