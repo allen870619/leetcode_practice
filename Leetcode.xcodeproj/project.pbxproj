@@ -54,6 +54,7 @@
 		9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "740. Delete and Earn.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F30862C27DAD2180088F948 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "354. Russian Doll Envelopes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F34650E28C58437007F1160 /* 429. N-ary Tree Level Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "429. N-ary Tree Level Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1461. Check If a String Contains All Binary Codes of Size K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "991. Broken Calculator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "567. Permutation in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -254,6 +255,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F34650E28C58437007F1160 /* 429. N-ary Tree Level Order Traversal.playground */,
 				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
 				9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */,
 				9FF5C25B28BEE6EF00D50347 /* 417. Pacific Atlantic Water Flow.playground */,
