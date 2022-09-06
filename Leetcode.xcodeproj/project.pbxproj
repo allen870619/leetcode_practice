@@ -69,6 +69,7 @@
 		9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "92. Reverse Linked List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "316. Remove Duplicate Letters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "792. Number of Matching Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -255,13 +256,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F34650E28C58437007F1160 /* 429. N-ary Tree Level Order Traversal.playground */,
-				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
-				9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */,
-				9FF5C25B28BEE6EF00D50347 /* 417. Pacific Atlantic Water Flow.playground */,
-				9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */,
-				9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */,
-				9F3ED5D028B5B56A00A27150 /* 326. Power of Three.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -282,6 +276,7 @@
 				9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
+				9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */,
 				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
 				9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */,
 				9F30862C27DAD2180088F948 /* 61. Rotate List.playground */,
@@ -354,6 +349,7 @@
 				9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */,
 				9F1A7E9A2844469F00CD5FF4 /* 318. Maximum Product of Word Lengths.playground */,
 				9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */,
+				9F3ED5D028B5B56A00A27150 /* 326. Power of Three.playground */,
 				9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */,
 				9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */,
 				9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */,
@@ -362,6 +358,7 @@
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
 				9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */,
 				9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */,
+				9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */,
 				9FF74CEA28AB17AE00C8620E /* 387. First Unique Character in a String.playground */,
 				9FBD58F227B09B090010638D /* 389. Find the Difference.playground */,
 				9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */,
@@ -370,7 +367,9 @@
 				9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */,
 				9F743CF527D044FB00DB2C13 /* 413. Arithmetic Slices.playground */,
 				9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */,
+				9FF5C25B28BEE6EF00D50347 /* 417. Pacific Atlantic Water Flow.playground */,
 				9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */,
+				9F34650E28C58437007F1160 /* 429. N-ary Tree Level Order Traversal.playground */,
 				9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */,
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
@@ -387,6 +386,7 @@
 				9FA0B39027963F87009141AC /* 605. Can Place Flowers.playground */,
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
+				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
 				9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
 				9FB85A2C2880E93C00125946 /* 695. Max Area of Island.playground */,
@@ -404,6 +404,7 @@
 				9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */,
 				9F1A58DF27D1989000CC210B /* 799. Champagne Tower.playground */,
 				9FD99A8D28AC6DAA00D1365E /* 804. Unique Morse Code Words.playground */,
+				9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */,
 				9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */,
 				9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */,
 				9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */,
@@ -447,6 +448,7 @@
 				9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */,
 				9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */,
 				9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */,
+				9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */,
 				9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
