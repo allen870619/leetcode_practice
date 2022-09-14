@@ -229,6 +229,7 @@
 		9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "659. Split Array into Consecutive Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF29A7628A7FF740022B0E8 /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1457. Pseudo-Palindromic Paths in a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF5C25B28BEE6EF00D50347 /* 417. Pacific Atlantic Water Flow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "417. Pacific Atlantic Water Flow.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF65FD828C818EA00ABE7DC /* 606. Construct String from Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "606. Construct String from Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -261,6 +262,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */,
 				9FEA012A28D00812005DCBD2 /* 393. UTF-8 Validation.playground */,
 				9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */,
 				9F9FF71A28C96EFD0047F2FF /* 100. Same Tree.playground */,
