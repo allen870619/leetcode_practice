@@ -135,6 +135,7 @@
 		9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "941. Valid Mountain Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1291. Sequential Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1770. Maximum Score from Performing Multiplication Operations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C78F528ADBF1700EFA55C /* 1338. Reduce Array Size to The Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1338. Reduce Array Size to The Half.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1448. Count Good Nodes in Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -263,6 +264,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
 				9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */,
 				9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */,
 				9FEA012A28D00812005DCBD2 /* 393. UTF-8 Validation.playground */,
