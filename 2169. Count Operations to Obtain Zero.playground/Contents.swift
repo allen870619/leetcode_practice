@@ -3,12 +3,12 @@ class Solution {
         var num1 = num1
         var num2 = num2
         var count = 0
-        while num1 != 0 && num2 != 0{
-            if num1 >= num2{
+        while num1 != 0, num2 != 0 {
+            if num1 >= num2 {
                 let tmp = num1 - num2
                 num1 = num2
                 num2 = tmp
-            }else{
+            } else {
                 let tmp = num2 - num1
                 num2 = num1
                 num1 = tmp

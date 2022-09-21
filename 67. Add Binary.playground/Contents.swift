@@ -4,20 +4,20 @@ class Solution {
         var arrB = b
         var oneMore = false
         var result = ""
-        while arrA.count != 0 || arrB.count != 0{
+        while arrA.count != 0 || arrB.count != 0 {
             let ac = arrA.popLast()
             let bc = arrB.popLast()
-            if ac == "1" && bc == "1"{
+            if ac == "1" && bc == "1" {
                 result.insert(oneMore ? "1" : "0", at: result.startIndex)
                 oneMore = true
-            }else if ac == "1" || bc == "1"{
+            } else if ac == "1" || bc == "1" {
                 result.insert(oneMore ? "0" : "1", at: result.startIndex)
-            }else{
+            } else {
                 result.insert(oneMore ? "1" : "0", at: result.startIndex)
                 oneMore = false
             }
         }
-        if oneMore{
+        if oneMore {
             result.insert("1", at: result.startIndex)
         }
         return result

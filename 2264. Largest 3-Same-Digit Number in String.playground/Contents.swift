@@ -3,19 +3,19 @@ class Solution {
         var list = [String]()
         var last = Character(" ")
         var count = 0
-        for i in num{
-            if i == last{
+        for i in num {
+            if i == last {
                 count += 1
-                if count == 3{
+                if count == 3 {
                     list.append("\(i)\(i)\(i)")
                 }
-            }else{
+            } else {
                 last = i
                 count = 1
             }
         }
         list.sort(by: { Int($0)! < Int($1)! })
-        
+
         return list.last != nil ? list.last! : ""
     }
 }

@@ -7,12 +7,12 @@ class Solution {
                                       "L": 50,
                                       "C": 100,
                                       "D": 500,
-                                      "M": 1000,]
+                                      "M": 1000]
         var result = 0
         var last = 0
-        for i in 0..<s.count {
+        for i in 0 ..< s.count {
             var tmp = dict[s[i]] ?? 0
-            if last < tmp{
+            if last < tmp {
                 result -= last * 2
             }
             last = tmp

@@ -4,34 +4,34 @@
 ///
 class Solution {
     func decodeString(_ s: String) -> String {
-        let nums: [Character] = ["0","1","2","3","4","5","6","7","8","9"]
+        let nums: [Character] = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
         var timeStack: [Int] = []
         var strStack: [String] = []
-        
+
         var result = ""
         var numStr = ""
-        for c in s{
-            if nums.contains(c){
+        for c in s {
+            if nums.contains(c) {
                 numStr += "\(c)"
-            }else if c  == "["{
+            } else if c == "[" {
                 // rec time
                 timeStack.append(Int(numStr)!)
                 numStr = ""
-                
+
                 // start record
                 strStack.append(result) // save last result to stack
                 result = ""
-            }else if c == "]"{ // end rec this round
+            } else if c == "]" { // end rec this round
                 let part = result
                 var tmp = ""
-                for i in 0..<timeStack.removeLast(){
+                for i in 0 ..< timeStack.removeLast() {
                     tmp += part // duplicate this part
                 }
-                
+
                 // combine
                 let prev = strStack.removeLast()
-                result = prev+tmp
-            }else{
+                result = prev + tmp
+            } else {
                 result += "\(c)"
             }
         }

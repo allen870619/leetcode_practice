@@ -1,59 +1,59 @@
 class Solution {
     func countTexts(_ pressedKeys: String) -> Int {
-        func cal (_ a: Int, _ isFour: Bool) -> Int{
+        func cal(_ a: Int, _ isFour: Bool) -> Int {
             let k = isFour ? 4 : 3
-            if a > k{
-                if isFour{
-                    if let save = dictF[a]{
+            if a > k {
+                if isFour {
+                    if let save = dictF[a] {
                         return save
-                    }else{
-                        dictF[a] = (cal(a-1, true)  + cal(a-2, true)  + cal(a-3, true)  + cal(a-4, true)) % 1000000007
+                    } else {
+                        dictF[a] = (cal(a - 1, true) + cal(a - 2, true) + cal(a - 3, true) + cal(a - 4, true)) % 1_000_000_007
                         return dictF[a]!
                     }
-                }else{
-                    if let save = dict[a]{
+                } else {
+                    if let save = dict[a] {
                         return save
-                    }else{
-                        dict[a] = (cal(a-1, false) + cal(a-2, false)  + cal(a-3, false)) % 1000000007
+                    } else {
+                        dict[a] = (cal(a - 1, false) + cal(a - 2, false) + cal(a - 3, false)) % 1_000_000_007
                         return dict[a]!
                     }
                 }
-            }else{
-                if a == 1{
+            } else {
+                if a == 1 {
                     return 1
                 }
-                if a == 2{
+                if a == 2 {
                     return 2
                 }
-                if a == 3{
+                if a == 3 {
                     return 4
                 }
-                if a == 4{
+                if a == 4 {
                     return 8
                 }
             }
             return 0
         }
-        
+
         let pressedKeys = [Character](pressedKeys)
         var total = 1
         var dict = [Int: Int]()
         var dictF = [Int: Int]()
         var last = pressedKeys.first!
         var count = 1
-        for i in pressedKeys[1...]{
-            if i != last{
-                total = total * cal(count, isFour(last)) % 1000000007
+        for i in pressedKeys[1...] {
+            if i != last {
+                total = total * cal(count, isFour(last)) % 1_000_000_007
                 last = i
                 count = 1
-            }else{
+            } else {
                 count += 1
             }
         }
-        return total * cal(count, isFour(last)) % 1000000007
+        return total * cal(count, isFour(last)) % 1_000_000_007
     }
-    
-    private func isFour(_ val: Character) -> Bool{
+
+    private func isFour(_ val: Character) -> Bool {
         return val == "7" || val == "9"
     }
 }

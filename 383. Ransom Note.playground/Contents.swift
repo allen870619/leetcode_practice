@@ -4,7 +4,7 @@ class Solution {
         for i in magazine {
             dict[i, default: 0] += 1
         }
-        
+
         for i in ransomNote {
             if dict[i] == nil || dict[i] == 0 {
                 return false

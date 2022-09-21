@@ -3,20 +3,20 @@ class Solution {
         let path = "\(path)/"
         var folder = [String]()
         var tmpFolder = ""
-        for i in path{
-            if i == "/"{
-                if tmpFolder == ".."{
+        for i in path {
+            if i == "/" {
+                if tmpFolder == ".." {
                     folder.popLast()
-                }else if !tmpFolder.isEmpty && tmpFolder != "."{
+                } else if !tmpFolder.isEmpty, tmpFolder != "." {
                     folder.append(tmpFolder)
                 }
                 tmpFolder = ""
-            }else{
+            } else {
                 tmpFolder.append(i)
             }
         }
-        
-        return folder.reduce(folder.isEmpty ? "/" : "", { $0 + "/\($1)" })
+
+        return folder.reduce(folder.isEmpty ? "/" : "") { $0 + "/\($1)" }
     }
 }
 

@@ -1,40 +1,40 @@
 // Second Time
 class Solution {
     func myAtoi(_ s: String) -> Int {
-        let nums: [Character] = ["0","1","2","3","4","5","6","7","8","9"]
+        let nums: [Character] = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
         var rec: [Character] = []
         var hasNum = false
-        
-        for i in s{
-            if i == " "{
-                if !rec.isEmpty{
+
+        for i in s {
+            if i == " " {
+                if !rec.isEmpty {
                     break
                 }
-            }else{
-                if nums.contains(i){
+            } else {
+                if nums.contains(i) {
                     rec.append(i)
                     hasNum = true
-                }else if i == "+" || i == "-"{
-                    if rec.contains("+") || rec.contains("-") || !rec.isEmpty{
+                } else if i == "+" || i == "-" {
+                    if rec.contains("+") || rec.contains("-") || !rec.isEmpty {
                         break
-                    }else{
+                    } else {
                         rec.append(i)
                     }
-                }else{
+                } else {
                     break
                 }
             }
         }
-        if !hasNum{
+        if !hasNum {
             return 0
         }
         let result = String(rec)
-        if let i = Int32(result){
+        if let i = Int32(result) {
             return Int(i)
-        }else{
-            if rec.contains("-"){
+        } else {
+            if rec.contains("-") {
                 return Int(Int32.min)
-            }else{
+            } else {
                 return Int(Int32.max)
             }
         }
@@ -48,46 +48,46 @@ class Solution2 {
         let avil: [Character] = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "+", "-", ".", " "]
         var num: [Character] = []
         var sign: Character?
-        
-        for i in s{
-            if avil.contains(i){
-                if i == "+" || i == "-"{
-                    if sign == nil && num.isEmpty{
+
+        for i in s {
+            if avil.contains(i) {
+                if i == "+" || i == "-" {
+                    if sign == nil, num.isEmpty {
                         sign = i
-                    }else{
+                    } else {
                         break
                     }
-                }else{
-                    if (!num.isEmpty || sign != nil) && i == " "{
+                } else {
+                    if !num.isEmpty || sign != nil, i == " " {
                         break
-                    }else if i != " "{
+                    } else if i != " " {
                         num.append(i)
                     }
                 }
-            }else{
+            } else {
                 break
             }
         }
-        
+
         var result: Int32 = 0
-        if !num.isEmpty{
+        if !num.isEmpty {
             var snum = String(num)
-            if num.contains("."){
-                if num[0] == "."{
+            if num.contains(".") {
+                if num[0] == "." {
                     return 0
                 }
                 snum = String(snum.split(separator: ".")[0])
             }
-            
-            if let tmp = Int32(snum){
+
+            if let tmp = Int32(snum) {
                 result = tmp
-                if sign == "-"{
+                if sign == "-" {
                     result = -tmp
                 }
-            }else{
-                if sign == "-"{
+            } else {
+                if sign == "-" {
                     return Int(Int32.min)
-                }else{
+                } else {
                     return Int(Int32.max)
                 }
             }

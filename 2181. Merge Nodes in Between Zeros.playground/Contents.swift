@@ -1,9 +1,9 @@
 public class ListNode {
     public var val: Int
     public var next: ListNode?
-    public init() { self.val = 0; self.next = nil; }
-    public init(_ val: Int) { self.val = val; self.next = nil; }
-    public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
+    public init() { val = 0; next = nil }
+    public init(_ val: Int) { self.val = val; next = nil }
+    public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next }
 }
 
 class Solution {
@@ -11,20 +11,20 @@ class Solution {
         if head == nil {
             return nil
         }
-        
-        var result: ListNode? = nil
+
+        var result: ListNode?
         var resultHead = result
-        
+
         var tmp = 0
         var cur = head?.next
-        while cur != nil{
-            if cur?.val != 0{
+        while cur != nil {
+            if cur?.val != 0 {
                 tmp += cur!.val
-            }else{
-                if result == nil{
+            } else {
+                if result == nil {
                     result = ListNode(tmp)
                     resultHead = result
-                }else{
+                } else {
                     let node = ListNode(tmp)
                     resultHead?.next = node
                     resultHead = resultHead?.next

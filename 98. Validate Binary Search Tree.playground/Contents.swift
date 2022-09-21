@@ -2,8 +2,8 @@ public class TreeNode {
     public var val: Int
     public var left: TreeNode?
     public var right: TreeNode?
-    public init() { self.val = 0; self.left = nil; self.right = nil; }
-    public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+    public init() { val = 0; left = nil; right = nil }
+    public init(_ val: Int) { self.val = val; left = nil; right = nil }
     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
         self.val = val
         self.left = left
@@ -15,23 +15,23 @@ class Solution {
     func isValidBST(_ root: TreeNode?) -> Bool {
         return calBST(root, top: nil, bot: nil)
     }
-    
-    private func calBST(_ node: TreeNode?, top: Int?, bot: Int?) -> Bool{
+
+    private func calBST(_ node: TreeNode?, top: Int?, bot: Int?) -> Bool {
         guard let node = node else {
             return true
         }
         // self
         if let top = top {
-            if top <= node.val{
+            if top <= node.val {
                 return false
             }
         }
         if let bot = bot {
-            if bot >= node.val{
+            if bot >= node.val {
                 return false
             }
         }
-        
+
         // leaf
         return calBST(node.left, top: node.val, bot: bot) && calBST(node.right, top: top, bot: node.val)
     }

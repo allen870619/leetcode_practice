@@ -3,15 +3,15 @@ class MyHashSet {
     init() {
         array.removeAll()
     }
-    
+
     func add(_ key: Int) {
         array.insert(key)
     }
-    
+
     func remove(_ key: Int) {
         array.remove(key)
     }
-    
+
     func contains(_ key: Int) -> Bool {
         return array.contains(key)
     }

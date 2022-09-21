@@ -3,26 +3,26 @@ class Solution {
         var number = [Character](number)
         var ansList = [Int]()
         var lastTarget = 0
-        for i in 0..<number.count{
-            if number[i] == digit{
-                if i + 1 < number.count{
-                    if number[i+1] > digit{
+        for i in 0 ..< number.count {
+            if number[i] == digit {
+                if i + 1 < number.count {
+                    if number[i + 1] > digit {
                         number.remove(at: i)
                         lastTarget = -1
                         break
-                    }else{
+                    } else {
                         lastTarget = i
                     }
-                }else{
+                } else {
                     lastTarget = i
                 }
             }
         }
-        
-        if lastTarget != -1{
+
+        if lastTarget != -1 {
             number.remove(at: lastTarget)
         }
-        
+
         return String(number)
     }
 }

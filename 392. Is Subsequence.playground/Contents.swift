@@ -1,18 +1,18 @@
 class Solution {
     func isSubsequence(_ s: String, _ t: String) -> Bool {
-        if s.isEmpty{
+        if s.isEmpty {
             return true
         }
-        if t.isEmpty{
+        if t.isEmpty {
             return false
         }
-        
+
         let sub = [Character](s)
         var index = 0
-        for tc in t{
-            if tc == sub[index]{
+        for tc in t {
+            if tc == sub[index] {
                 index += 1
-                if index == sub.count{
+                if index == sub.count {
                     return true
                 }
             }
@@ -20,6 +20,7 @@ class Solution {
         return false
     }
 }
+
 let sol = Solution()
 print(sol.isSubsequence("", "ahbgdc"))
 print(sol.isSubsequence("abc", ""))

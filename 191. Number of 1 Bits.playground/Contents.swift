@@ -4,7 +4,7 @@ class Solution {
         // n is decimal, not binary
         var total = 0
         var n = n
-        while n > 0{
+        while n > 0 {
             total += n % 2
             n /= 2
         }

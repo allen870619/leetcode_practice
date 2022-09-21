@@ -3,7 +3,7 @@ public class ListNode {
     public var next: ListNode?
     public init(_ val: Int) {
         self.val = val
-        self.next = nil
+        next = nil
     }
 }
 
@@ -14,10 +14,10 @@ class Solution { // best
         while true {
             tur = tur?.next
             rabbit = rabbit?.next?.next
-            if tur == nil || rabbit == nil{
+            if tur == nil || rabbit == nil {
                 return false
             }
-            if tur === rabbit{
+            if tur === rabbit {
                 return true
             }
         }
@@ -29,9 +29,9 @@ class Solution2 {
     func hasCycle(_ head: ListNode?) -> Bool {
         var head = head
         var count = 0
-        while head != nil{
+        while head != nil {
             count += 1
-            if count > 10000{
+            if count > 10000 {
                 break
             }
             head = head?.next
@@ -44,8 +44,8 @@ class Solution3 { // slower
     func hasCycle(_ head: ListNode?) -> Bool {
         var head = head
         var map = [ListNode?]()
-        while head != nil{
-            if map.contains(where: {$0 === head}){
+        while head != nil {
+            if map.contains(where: { $0 === head }) {
                 return true
             }
             map.append(head)

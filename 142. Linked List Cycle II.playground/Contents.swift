@@ -3,7 +3,7 @@ public class ListNode {
     public var next: ListNode?
     public init(_ val: Int) {
         self.val = val
-        self.next = nil
+        next = nil
     }
 }
 
@@ -11,12 +11,12 @@ class Solution {
     func detectCycle(_ head: ListNode?) -> ListNode? {
         var tortoise = head?.next
         var hare = head?.next?.next
-        while tortoise !== hare{
+        while tortoise !== hare {
             tortoise = tortoise?.next
             hare = hare?.next?.next
         }
         hare = head
-        while tortoise !== hare{
+        while tortoise !== hare {
             tortoise = tortoise?.next
             hare = hare?.next
         }
@@ -28,10 +28,10 @@ class Solution2 {
     func detectCycle(_ head: ListNode?) -> ListNode? {
         var list: [ListNode] = []
         var head = head
-        while head != nil{
-            if let index = list.firstIndex(where: {$0 === head}){
+        while head != nil {
+            if let index = list.firstIndex(where: { $0 === head }) {
                 return list[index]
-            }else{
+            } else {
                 list.append(head!)
             }
             head = head?.next

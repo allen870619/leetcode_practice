@@ -4,8 +4,8 @@ class Solution {
         var min = nums[0]
         var max = nums.last!
         var count = 0
-        for i in nums{
-            if i > min && i < max{
+        for i in nums {
+            if i > min, i < max {
                 count += 1
             }
         }

@@ -1,18 +1,18 @@
 class Solution {
     func smallestRepunitDivByK(_ k: Int) -> Int {
-        if k % 2 == 0{
+        if k % 2 == 0 {
             return -1
         }
-        
+
         var remaining = 1
         var count = 1
         var appear: Set<Int> = []
-        
-        while true{
-            if remaining % k == 0{
+
+        while true {
+            if remaining % k == 0 {
                 return count
             }
-            if appear.contains(remaining){
+            if appear.contains(remaining) {
                 return -1
             }
             appear.insert(remaining)

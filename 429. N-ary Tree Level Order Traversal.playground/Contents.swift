@@ -5,7 +5,7 @@ class Solution {
         }
         var result = [[Int]]()
         var list = [root]
-        while  !list.isEmpty{
+        while !list.isEmpty {
             var tmp = [Int]()
             for i in list {
                 let n = list.removeFirst()
@@ -16,5 +16,4 @@ class Solution {
         }
         return result
     }
-    
 }

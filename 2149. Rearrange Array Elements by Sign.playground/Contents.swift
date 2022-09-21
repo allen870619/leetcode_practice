@@ -2,15 +2,15 @@ class Solution {
     func rearrangeArray(_ nums: [Int]) -> [Int] {
         var pos: [Int] = []
         var neg: [Int] = []
-        for i in nums{
-            if i > 0{
+        for i in nums {
+            if i > 0 {
                 pos.append(i)
-            }else{
+            } else {
                 neg.append(i)
             }
         }
         var result: [Int] = []
-        while !(pos.isEmpty && neg.isEmpty){
+        while !(pos.isEmpty && neg.isEmpty) {
             result.append(neg.popLast()!)
             result.append(pos.popLast()!)
         }

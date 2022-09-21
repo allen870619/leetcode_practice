@@ -2,11 +2,11 @@ class Solution {
     func countOrders(_ n: Int) -> Int {
         var pickup = 1
         var delivery = 1
-        for i in 1...n{
-            pickup = pickup * i % 1000000007
-            delivery = delivery * (i * 2 - 1) % 1000000007
+        for i in 1 ... n {
+            pickup = pickup * i % 1_000_000_007
+            delivery = delivery * (i * 2 - 1) % 1_000_000_007
         }
-        return pickup * delivery % 1000000007
+        return pickup * delivery % 1_000_000_007
     }
 }
 

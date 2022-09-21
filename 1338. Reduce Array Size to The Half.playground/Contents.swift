@@ -4,12 +4,12 @@ class Solution {
         for i in arr {
             countDict[i, default: 0] += 1
         }
-        
+
         var timeDict = [Int: Int]()
         for i in countDict.values {
             timeDict[i, default: 0] += 1
         }
-        
+
         var tmp = 0
         var result = 0
         var keys = timeDict.keys.sorted()
@@ -30,5 +30,5 @@ class Solution {
 }
 
 let sol = Solution()
-print(sol.minSetSize([3,3,3,3,5,5,5,2,2,7]))
-print(sol.minSetSize([7,7,7,7,7,7]))
+print(sol.minSetSize([3, 3, 3, 3, 5, 5, 5, 2, 2, 7]))
+print(sol.minSetSize([7, 7, 7, 7, 7, 7]))

@@ -1,28 +1,28 @@
 class Solution {
     func compareVersion(_ version1: String, _ version2: String) -> Int {
-        var ver1Arr = version1.split(separator: ".").compactMap({return Int($0)})
-        var ver2Arr = version2.split(separator: ".").compactMap({return Int($0)})
+        var ver1Arr = version1.split(separator: ".").compactMap { Int($0) }
+        var ver2Arr = version2.split(separator: ".").compactMap { Int($0) }
         let total = max(ver1Arr.count, ver2Arr.count)
-        
-        for i in ver1Arr.count..<total{
+
+        for i in ver1Arr.count ..< total {
             ver1Arr.append(-1)
         }
-        for i in ver2Arr.count..<total{
+        for i in ver2Arr.count ..< total {
             ver2Arr.append(-1)
         }
-        
-        for i in 0..<total{
-            if ver1Arr[i] == -1 && ver2Arr[i] == -1{
+
+        for i in 0 ..< total {
+            if ver1Arr[i] == -1, ver2Arr[i] == -1 {
                 return 0
             }
-            if ver1Arr[i] == -1 && ver2Arr[i] > 0{
+            if ver1Arr[i] == -1, ver2Arr[i] > 0 {
                 return -1
             }
-            if !(ver1Arr[i] == -1 && ver2Arr[i] == 0) && !(ver1Arr[i] == 0 && ver2Arr[i] == -1){
-                if ver1Arr[i] > 0 && ver2Arr[i] == -1{
+            if !(ver1Arr[i] == -1 && ver2Arr[i] == 0), !(ver1Arr[i] == 0 && ver2Arr[i] == -1) {
+                if ver1Arr[i] > 0, ver2Arr[i] == -1 {
                     return 1
                 }
-                if ver1Arr[i] != ver2Arr[i]{
+                if ver1Arr[i] != ver2Arr[i] {
                     return ver1Arr[i] > ver2Arr[i] ? 1 : -1
                 }
             }

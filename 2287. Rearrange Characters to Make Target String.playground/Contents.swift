@@ -1,14 +1,14 @@
 class Solution {
     func rearrangeCharacters(_ s: String, _ target: String) -> Int {
         var dict = [Character: Int]()
-        s.map{ dict[$0, default: 0] += 1 }
-        
+        s.map { dict[$0, default: 0] += 1 }
+
         var result = 0
-        while true{
-            for i in target{
-                if dict[i] ?? 0 > 0{
+        while true {
+            for i in target {
+                if dict[i] ?? 0 > 0 {
                     dict[i]? -= 1
-                }else{
+                } else {
                     return result
                 }
             }

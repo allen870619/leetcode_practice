@@ -2,8 +2,8 @@ public class TreeNode {
     public var val: Int
     public var left: TreeNode?
     public var right: TreeNode?
-    public init() { self.val = 0; self.left = nil; self.right = nil; }
-    public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+    public init() { val = 0; left = nil; right = nil }
+    public init(_ val: Int) { self.val = val; left = nil; right = nil }
     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
         self.val = val
         self.left = left
@@ -16,17 +16,17 @@ class Solution {
         guard let root = root else {
             return 0
         }
-        let range = low...high
-        if root.left?.val ?? low - 1 < low{
+        let range = low ... high
+        if root.left?.val ?? low - 1 < low {
             root.left?.left = nil
         }
-        if root.left?.val ?? high + 1 > high{
+        if root.left?.val ?? high + 1 > high {
             root.left?.right = nil
         }
-        if root.right?.val ?? low - 1 < low{
+        if root.right?.val ?? low - 1 < low {
             root.right?.left = nil
         }
-        if root.right?.val ?? high + 1 > high{
+        if root.right?.val ?? high + 1 > high {
             root.right?.right = nil
         }
         let me = range.contains(root.val) ? root.val : 0

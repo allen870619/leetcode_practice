@@ -1,21 +1,21 @@
 class Solution {
     func minMoves(_ t: Int, _ maxDoubles: Int) -> Int {
-        if maxDoubles == 0{
+        if maxDoubles == 0 {
             return t - 1
         }
-        if t == 1{
+        if t == 1 {
             return 0
         }
         var count = 0
         var target = t
-        for i in 0..<maxDoubles{
-            while target % 2 != 0{
+        for i in 0 ..< maxDoubles {
+            while target % 2 != 0 {
                 target -= 1
                 count += 1
             }
             target /= 2
             count += 1
-            if target == 1{
+            if target == 1 {
                 return count
             }
         }

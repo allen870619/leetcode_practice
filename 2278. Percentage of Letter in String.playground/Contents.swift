@@ -1,7 +1,7 @@
 class Solution {
     func percentageLetter(_ s: String, _ letter: Character) -> Int {
         let s = [Character](s)
-        let contain = s.filter{$0 == letter}
+        let contain = s.filter { $0 == letter }
         return contain.count * 100 / s.count
     }
 }

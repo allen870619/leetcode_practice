@@ -3,7 +3,7 @@ class Solution {
         var twoBase = 1
         var total = 1
         var ori = n
-        while ori > 1{
+        while ori > 1 {
             ori /= 2
             total += twoBase * 2
             twoBase *= 2
@@ -11,6 +11,7 @@ class Solution {
         return total - n
     }
 }
+
 let sol = Solution()
 print(sol.bitwiseComplement(0))
 print(sol.bitwiseComplement(1))

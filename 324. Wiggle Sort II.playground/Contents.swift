@@ -11,18 +11,18 @@ class Solution {
 }
 
 let sol = Solution()
-var a = [1,5,1,1,6,4]
+var a = [1, 5, 1, 1, 6, 4]
 sol.wiggleSort(&a)
 print(a)
 
-a = [1,3,2,2,3,1]
+a = [1, 3, 2, 2, 3, 1]
 sol.wiggleSort(&a)
 print(a)
 
-a = [1,1,2,1,2,2,1]
+a = [1, 1, 2, 1, 2, 2, 1]
 sol.wiggleSort(&a)
 print(a)
 
-a = [4,5,5,6]
+a = [4, 5, 5, 6]
 sol.wiggleSort(&a)
 print(a)

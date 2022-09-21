@@ -4,9 +4,10 @@ public class TreeNode {
     public var right: TreeNode?
     public init(_ val: Int) {
         self.val = val
-        self.left = nil
-        self.right = nil
+        left = nil
+        right = nil
     }
+
     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
         self.val = val
         self.left = left
@@ -14,43 +15,42 @@ public class TreeNode {
     }
 }
 
-
 class Solution {
     func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
         var pList = [TreeNode]()
         var qList = [TreeNode]()
         var list = [TreeNode]()
-        
-        func find(_ node: TreeNode?){
-            guard let node = node else{
+
+        func find(_ node: TreeNode?) {
+            guard let node = node else {
                 return
             }
-            
+
             list.append(node)
-            if node.val == p?.val{
+            if node.val == p?.val {
                 pList = list
             }
-            if node.val == q?.val{
+            if node.val == q?.val {
                 qList = list
             }
-            if pList.isEmpty || qList.isEmpty{
+            if pList.isEmpty || qList.isEmpty {
                 find(node.left)
                 find(node.right)
             }
             list.popLast()
         }
         find(root)
-        
-        while !pList.isEmpty && !qList.isEmpty{
-            if pList.last?.val == qList.last?.val{
+
+        while !pList.isEmpty, !qList.isEmpty {
+            if pList.last?.val == qList.last?.val {
                 return pList.last
             }
-            
-            if pList.count > qList.count{
+
+            if pList.count > qList.count {
                 pList.popLast()
-            }else if pList.count < qList.count{
+            } else if pList.count < qList.count {
                 qList.popLast()
-            }else{
+            } else {
                 pList.popLast()
                 qList.popLast()
             }

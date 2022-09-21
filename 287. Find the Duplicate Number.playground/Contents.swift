@@ -1,10 +1,10 @@
 class Solution {
     func findDuplicate(_ nums: [Int]) -> Int {
-        var arr = Array(repeating: 0, count: 100002)
-        for i in nums{
-            if arr[i] == 0{
+        var arr = Array(repeating: 0, count: 100_002)
+        for i in nums {
+            if arr[i] == 0 {
                 arr[i] = 1
-            }else{
+            } else {
                 return i
             }
         }
@@ -15,8 +15,8 @@ class Solution {
 class Solution2 { // set, fastest
     func findDuplicate(_ nums: [Int]) -> Int {
         var set = Set<Int>()
-        for i in nums{
-            if set.update(with: i) != nil{
+        for i in nums {
+            if set.update(with: i) != nil {
                 return i
             }
         }
@@ -27,10 +27,10 @@ class Solution2 { // set, fastest
 class Solution3 { // sort
     func findDuplicate(_ nums: [Int]) -> Int {
         var last = 0
-        for i in nums.sorted(){
-            if i != last{
+        for i in nums.sorted() {
+            if i != last {
                 last = i
-            }else{
+            } else {
                 return i
             }
         }
@@ -41,15 +41,14 @@ class Solution3 { // sort
 class Solution4 { // negative mark
     func findDuplicate(_ nums: [Int]) -> Int {
         var nums = nums
-        for i in nums{
+        for i in nums {
             let index = abs(i)
-            if nums[index] > 0{
+            if nums[index] > 0 {
                 nums[index] = -nums[index]
-            }else{
+            } else {
                 return i
             }
         }
         return -1
     }
 }
-

@@ -3,12 +3,12 @@ class Solution {
         var level = 0
         var total = 0
         var lastC: Character?
-        for i in s{
-            if i == "("{
+        for i in s {
+            if i == "(" {
                 level += 1
-            }else{
+            } else {
                 level -= 1
-                if lastC == "("{
+                if lastC == "(" {
                     total += 1 << level
                 }
             }

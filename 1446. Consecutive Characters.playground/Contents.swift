@@ -3,12 +3,12 @@ class Solution {
         var maxCount = 0
         var tmp = 0
         var tmpChar: Character?
-        for i in s{
-            if i != tmpChar{
+        for i in s {
+            if i != tmpChar {
                 maxCount = max(maxCount, tmp)
                 tmp = 1
                 tmpChar = i
-            }else{
+            } else {
                 tmp += 1
             }
         }

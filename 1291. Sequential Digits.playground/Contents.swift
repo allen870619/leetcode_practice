@@ -2,21 +2,21 @@ class Solution {
     func sequentialDigits(_ low: Int, _ high: Int) -> [Int] {
         var length = 1
         var result: [Int] = []
-        while length < 10{
-            for i in 1...10-length{
+        while length < 10 {
+            for i in 1 ... 10 - length {
                 var count = i
                 var tmp = "\(i)"
-                while tmp.count <= length && count < 9{
+                while tmp.count <= length, count < 9 {
                     count += 1
                     tmp += "\(count)"
                 }
-                if tmp.count != length + 1{
+                if tmp.count != length + 1 {
                     break
                 }
-                if let tmpInt = Int(tmp){
-                    if(low...high).contains(tmpInt){
+                if let tmpInt = Int(tmp) {
+                    if (low ... high).contains(tmpInt) {
                         result.append(tmpInt)
-                    }else if tmpInt > high{
+                    } else if tmpInt > high {
                         return result
                     }
                 }

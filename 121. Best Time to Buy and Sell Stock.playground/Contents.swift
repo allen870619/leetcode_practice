@@ -2,10 +2,10 @@ class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
         var last = prices[0]
         var profit = 0
-        for i in prices[1...]{
-            if i < last{
+        for i in prices[1...] {
+            if i < last {
                 last = i
-            }else{
+            } else {
                 profit = max(profit, i - last)
             }
         }
@@ -17,7 +17,7 @@ class Solution2 {
     func maxProfit(_ prices: [Int]) -> Int {
         var minVal = prices[0]
         var profit = 0
-        for i in prices{
+        for i in prices {
             profit = max(profit, i - minVal)
             minVal = min(minVal, i)
         }
@@ -26,5 +26,5 @@ class Solution2 {
 }
 
 let sol = Solution()
-print(sol.maxProfit([7,1,5,3,6,4]))
-print(sol.maxProfit([7,6,4,3,1]))
+print(sol.maxProfit([7, 1, 5, 3, 6, 4]))
+print(sol.maxProfit([7, 6, 4, 3, 1]))

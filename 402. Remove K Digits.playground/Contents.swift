@@ -4,37 +4,37 @@ class Solution {
             return "0"
         }
         var inum = [Int]()
-        for i in num{
+        for i in num {
             inum.append(Int("\(i)")!)
         }
-        
+
         // remove
         var stack = [Int]()
         var remove = 0
-        for i in inum{
-            if remove < k{
-                while stack.last != nil && stack.last! > i && remove < k{
+        for i in inum {
+            if remove < k {
+                while stack.last != nil, stack.last! > i, remove < k {
                     stack.removeLast()
                     remove += 1
                 }
             }
             stack.append(i)
         }
-        while remove < k{
+        while remove < k {
             stack.removeLast()
             remove += 1
         }
-        
+
         // form up
         var result = ""
         var isStart = true
-        for i in stack{
-            if isStart{
-                if i != 0{
+        for i in stack {
+            if isStart {
+                if i != 0 {
                     isStart = false
                     result += "\(i)"
                 }
-            }else{
+            } else {
                 result += "\(i)"
             }
         }

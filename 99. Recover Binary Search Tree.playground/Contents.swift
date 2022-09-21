@@ -2,8 +2,8 @@ public class TreeNode {
     public var val: Int
     public var left: TreeNode?
     public var right: TreeNode?
-    public init() { self.val = 0; self.left = nil; self.right = nil; }
-    public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }
+    public init() { val = 0; left = nil; right = nil }
+    public init(_ val: Int) { self.val = val; left = nil; right = nil }
     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
         self.val = val
         self.left = left
@@ -15,13 +15,13 @@ class Solution { // not good but AC
     func recoverTree(_ root: TreeNode?) {
         var stack = [TreeNode?]()
         var `switch` = false
-        
-        func inorder(_ node: TreeNode?){
+
+        func inorder(_ node: TreeNode?) {
             guard let node = node else { return }
             inorder(node.left)
-            if let last = stack.last{
-                if let lastNode = last{
-                    if lastNode.val > node.val{
+            if let last = stack.last {
+                if let lastNode = last {
+                    if lastNode.val > node.val {
                         `switch` = true
                         let n = stack.popLast()!
                         let tmp = n!.val
@@ -34,13 +34,13 @@ class Solution { // not good but AC
             stack.append(node)
             inorder(node.right)
         }
-        
-        while(true){
+
+        while true {
             inorder(root)
-            if `switch`{
+            if `switch` {
                 `switch` = false
                 stack.removeAll()
-            }else{
+            } else {
                 break
             }
         }
