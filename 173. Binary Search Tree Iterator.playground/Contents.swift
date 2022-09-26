@@ -40,6 +40,6 @@ class BSTIterator {
     }
 
     func hasNext() -> Bool {
-        return node != nil
+        node != nil
     }
 }

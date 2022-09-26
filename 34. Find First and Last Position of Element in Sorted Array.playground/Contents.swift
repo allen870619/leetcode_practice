@@ -1,7 +1,7 @@
 // Cheating
 class Solution {
     func searchRange(_ nums: [Int], _ target: Int) -> [Int] {
-        return [nums.firstIndex(of: target) ?? -1, nums.lastIndex(of: target) ?? -1]
+        [nums.firstIndex(of: target) ?? -1, nums.lastIndex(of: target) ?? -1]
     }
 }
 

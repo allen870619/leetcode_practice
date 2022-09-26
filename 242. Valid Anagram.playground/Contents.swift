@@ -19,6 +19,6 @@ class Solution {
 
 class Solution2 {
     func isAnagram(_ s: String, _ t: String) -> Bool {
-        return s.sorted() == t.sorted()
+        s.sorted() == t.sorted()
     }
 }

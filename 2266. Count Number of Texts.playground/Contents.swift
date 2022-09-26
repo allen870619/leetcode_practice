@@ -54,7 +54,7 @@ class Solution {
     }
 
     private func isFour(_ val: Character) -> Bool {
-        return val == "7" || val == "9"
+        val == "7" || val == "9"
     }
 }
 

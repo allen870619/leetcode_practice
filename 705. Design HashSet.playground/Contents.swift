@@ -13,6 +13,6 @@ class MyHashSet {
     }
 
     func contains(_ key: Int) -> Bool {
-        return array.contains(key)
+        array.contains(key)
     }
 }

@@ -1,8 +1,8 @@
 class Solution {
     func concatenatedBinary(_ n: Int) -> Int {
         var result = 0
-        var mod = 1000000007
-        for i in 1...n {
+        var mod = 1_000_000_007
+        for i in 1 ... n {
             let s = String(i, radix: 2)
             result <<= s.count
             result += i

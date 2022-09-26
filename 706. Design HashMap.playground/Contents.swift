@@ -10,7 +10,7 @@ class MyHashMap {
     }
 
     func get(_ key: Int) -> Int {
-        return arr[key]
+        arr[key]
     }
 
     func remove(_ key: Int) {
@@ -29,7 +29,7 @@ class MyHashMap2 {
     }
 
     func get(_ key: Int) -> Int {
-        return map[key] ?? -1
+        map[key] ?? -1
     }
 
     func remove(_ key: Int) {

@@ -29,7 +29,7 @@ class Encrypter {
     }
 
     func decrypt(_ word2: String) -> Int {
-        return ans[word2] ?? 0
+        ans[word2] ?? 0
     }
 }
 

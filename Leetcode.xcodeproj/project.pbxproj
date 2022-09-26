@@ -20,6 +20,7 @@
 		9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "948. Bag of Tokens.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1680. Concatenation of Consecutive Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "990. Satisfiability of Equality Equations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "173. Binary Search Tree Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1A58DF27D1989000CC210B /* 799. Champagne Tower.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "799. Champagne Tower.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1A7E992844431C00CD5FF4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -269,9 +270,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
-				9F5C488328DBE23C00317CCA /* 557. Reverse Words in a String III.playground */,
-				9FFB004D28DA8F0700EB10CA /* 985. Sum of Even Numbers After Queries.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -396,6 +394,7 @@
 				9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */,
 				9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */,
 				9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */,
+				9F5C488328DBE23C00317CCA /* 557. Reverse Words in a String III.playground */,
 				9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */,
 				9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */,
 				9FA5B44E28211B4C009947F7 /* 581. Shortest Unsorted Continuous Subarray.playground */,
@@ -442,6 +441,8 @@
 				9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */,
 				9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */,
 				9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */,
+				9FFB004D28DA8F0700EB10CA /* 985. Sum of Even Numbers After Queries.playground */,
+				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
 				9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */,
@@ -484,6 +485,7 @@
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */,
 				9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */,
+				9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
 				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,

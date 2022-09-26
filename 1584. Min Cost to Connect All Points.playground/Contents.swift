@@ -66,7 +66,7 @@ class Solution {
     }
 
     private func calDistance(_ a: [Int], _ b: [Int]) -> Int {
-        return abs(a[0] - b[0]) + abs(a[1] - b[1])
+        abs(a[0] - b[0]) + abs(a[1] - b[1])
     }
 }
 

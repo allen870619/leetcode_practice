@@ -108,7 +108,7 @@ class Solution3 { // TLE
     }
 
     func getSub(_ start: Int, _ end: Int) -> String {
-        return String(tarStr[start ... end])
+        String(tarStr[start ... end])
     }
 }
 

@@ -30,7 +30,7 @@ class Solution {
 
 class Solution2 { // Merge sort
     func sortList(_ head: ListNode?) -> ListNode? {
-        return devide(head)
+        devide(head)
     }
 
     private func devide(_ start: ListNode?) -> ListNode? {

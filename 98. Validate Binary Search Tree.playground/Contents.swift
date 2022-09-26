@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func isValidBST(_ root: TreeNode?) -> Bool {
-        return calBST(root, top: nil, bot: nil)
+        calBST(root, top: nil, bot: nil)
     }
 
     private func calBST(_ node: TreeNode?, top: Int?, bot: Int?) -> Bool {

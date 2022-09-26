@@ -13,7 +13,7 @@ class PeekingIterator { // Array
     }
 
     func peek() -> Int {
-        return a[pointer + 1]
+        a[pointer + 1]
     }
 
     func hasNext() -> Bool {
@@ -48,10 +48,10 @@ class PeekingIterator2 { // Node
     }
 
     func peek() -> Int {
-        return head?.next?.val ?? -1
+        head?.next?.val ?? -1
     }
 
     func hasNext() -> Bool {
-        return head?.next != nil
+        head?.next != nil
     }
 }

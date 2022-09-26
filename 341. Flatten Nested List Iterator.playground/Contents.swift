@@ -25,6 +25,6 @@ class NestedIterator {
     }
 
     func hasNext() -> Bool {
-        return index < list.count
+        index < list.count
     }
 }

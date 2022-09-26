@@ -13,7 +13,7 @@ class Solution {
 class Solution2 {
     func isPowerOfThree(_ n: Int) -> Bool {
         // 1162261467: The num cloest to Int.max(), 3^19
-        return n > 0 && 1_162_261_467 % n == 0
+        n > 0 && 1_162_261_467 % n == 0
     }
 }
 

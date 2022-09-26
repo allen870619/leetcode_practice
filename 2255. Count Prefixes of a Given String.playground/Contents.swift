@@ -24,7 +24,7 @@ class Solution {
 
 class Solution2 {
     func countPrefixes(_ words: [String], _ s: String) -> Int {
-        return words.filter { s.hasPrefix($0) }.count
+        words.filter { s.hasPrefix($0) }.count
     }
 }
 

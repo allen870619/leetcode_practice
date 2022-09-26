@@ -40,7 +40,7 @@ class Solution {
 
 class Solution2 { // TLE
     func minimumTotal(_ triangle: [[Int]]) -> Int {
-        return cal(triangle, 0, 0)
+        cal(triangle, 0, 0)
     }
 
     func cal(_ triangle: [[Int]], _ prev: Int, _ row: Int) -> Int {
