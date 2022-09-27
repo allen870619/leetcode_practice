@@ -260,6 +260,7 @@
 		9FFBAFC427A6482B00115853 /* 2148. Count Elements With Strictly Smaller and Greater Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2148. Count Elements With Strictly Smaller and Greater Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "630. Course Schedule III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "532. K-diff Pairs in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFCE2BF28E288D0001D55C1 /* 838. Push Dominoes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "838. Push Dominoes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "284. Peeking Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "785. Is Graph Bipartite?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -270,6 +271,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FFCE2BF28E288D0001D55C1 /* 838. Push Dominoes.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
