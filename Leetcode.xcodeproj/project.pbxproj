@@ -214,6 +214,7 @@
 		9FD8181027D6DAAC00D37C55 /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD917942810D86900F4D592 /* 705. Design HashSet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "705. Design HashSet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD99A8D28AC6DAA00D1365E /* 804. Unique Morse Code Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "804. Unique Morse Code Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FDA82F628E3CA8F0036D372 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDACFA228A9C89600C952A8 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDB6F7F287E59AA002F36F7 /* 102. Binary Tree Level Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "102. Binary Tree Level Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FDD8D5E2835D361009B215F /* 329. Longest Increasing Path in a Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "329. Longest Increasing Path in a Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -271,7 +272,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9FFCE2BF28E288D0001D55C1 /* 838. Push Dominoes.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -282,6 +282,7 @@
 				9FC9FCBC276C596C00B80C3E /* 11. Container With Most Water.playground */,
 				9FDACFA228A9C89600C952A8 /* 13. Roman to Integer.playground */,
 				9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */,
+				9FDA82F628E3CA8F0036D372 /* 19. Remove Nth Node From End of List.playground */,
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
 				9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */,
 				9F1A7E992844431C00CD5FF4 /* 29. Divide Two Integers.playground */,
@@ -429,6 +430,7 @@
 				9FD99A8D28AC6DAA00D1365E /* 804. Unique Morse Code Words.playground */,
 				9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */,
 				9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */,
+				9FFCE2BF28E288D0001D55C1 /* 838. Push Dominoes.playground */,
 				9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */,
 				9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */,
 				9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */,
