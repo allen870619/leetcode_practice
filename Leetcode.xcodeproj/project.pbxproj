@@ -265,6 +265,7 @@
 		9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "284. Peeking Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "785. Is Graph Bipartite?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFEBCCD28E51DD400CA920F /* 658. Find K Closest Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "658. Find K Closest Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFF419828A33456003AA24E /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -410,6 +411,7 @@
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
+				9FFEBCCD28E51DD400CA920F /* 658. Find K Closest Elements.playground */,
 				9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
 				9FB85A2C2880E93C00125946 /* 695. Max Area of Island.playground */,
