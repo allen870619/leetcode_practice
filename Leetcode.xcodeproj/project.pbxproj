@@ -72,6 +72,10 @@
 		9F43938927C714080009D69A /* 148. Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "148. Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "92. Reverse Linked List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F43DDCD27E45660004536C9 /* 316. Remove Duplicate Letters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "316. Remove Duplicate Letters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1155. Number of Dice Rolls With Target Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F44C28B28E996E90032D1BB /* 2427. Number of Common Factors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2427. Number of Common Factors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2428. Maximum Sum of an Hourglass.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2429. Minimize XOR.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "792. Number of Matching Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -274,6 +278,10 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
+				9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */,
+				9F44C28B28E996E90032D1BB /* 2427. Number of Common Factors.playground */,
+				9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */,
 				9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
