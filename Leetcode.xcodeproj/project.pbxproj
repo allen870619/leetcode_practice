@@ -87,6 +87,7 @@
 		9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1578. Minimum Time to Make Rope Colorful.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392. Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F50842627FFB8A90058AEE8 /* 703. Kth Largest Element in a Stream.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "703. Kth Largest Element in a Stream.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "143. Reorder List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -278,11 +279,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
-				9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */,
-				9F44C28B28E996E90032D1BB /* 2427. Number of Common Factors.playground */,
-				9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */,
-				9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -320,6 +316,7 @@
 				9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */,
 				9FCC768E288A23D9001E925F /* 86. Partition List.playground */,
 				9FE33285284ECFF4004D0030 /* 88. Merge Sorted Array.playground */,
+				9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */,
 				9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */,
 				9FFB5142288E18CB00009123 /* 94. Binary Tree Inorder Traversal.playground */,
 				9F740C122876685100484227 /* 97. Interleaving String.playground */,
@@ -470,6 +467,7 @@
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
+				9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */,
 				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
 				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
 				9FD77F292824AB2600739DB7 /* 1209. Remove All Adjacent Duplicates in String II.playground */,
@@ -494,6 +492,7 @@
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */,
+				9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */,
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
 				9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */,
@@ -543,6 +542,9 @@
 				9F8EF6222839F1F2007476DA /* 2280. Minimum Lines to Represent a Line Chart.playground */,
 				9F1A7E9C28444E0800CD5FF4 /* 2287. Rearrange Characters to Make Target String.playground */,
 				9F1A7E9B28444C6900CD5FF4 /* 2288. Apply Discount to Prices.playground */,
+				9F44C28B28E996E90032D1BB /* 2427. Number of Common Factors.playground */,
+				9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */,
+				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
 			);
 			sourceTree = "<group>";
 		};
