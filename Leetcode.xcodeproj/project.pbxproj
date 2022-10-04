@@ -250,6 +250,7 @@
 		9FF65FD928C81CDF00ABE7DC /* 617. Merge Two Binary Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "617. Merge Two Binary Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF74CEA28AB17AE00C8620E /* 387. First Unique Character in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "387. First Unique Character in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF7C7532873BB21009C4FA1 /* 128. Longest Consecutive Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "128. Longest Consecutive Sequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF7F6F928EBB5E7006D546C /* 112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "112. Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "637. Average of Levels in Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "378. Kth Smallest Element in a Sorted Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -327,6 +328,7 @@
 				9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */,
 				9FFB8F03287FA273006B777A /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */,
 				9FFF419828A33456003AA24E /* 108. Convert Sorted Array to Binary Search Tree.playground */,
+				9FF7F6F928EBB5E7006D546C /* 112. Path Sum.playground */,
 				9F7A6FC02890C14F0028D6BB /* 114. Flatten Binary Tree to Linked List.playground */,
 				9FE21424277BDE4900E3BC95 /* 116. Populating Next Right Pointers in Each Node.playground */,
 				9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */,
