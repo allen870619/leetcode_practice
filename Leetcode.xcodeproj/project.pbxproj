@@ -240,6 +240,7 @@
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "659. Split Array into Consecutive Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FECC27128ED058700209805 /* 623. Add One Row to Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "623. Add One Row to Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2007. Find Original Array From Doubled Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF29A7628A7FF740022B0E8 /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -417,6 +418,7 @@
 				9FF65FD828C818EA00ABE7DC /* 606. Construct String from Binary Tree.playground */,
 				9F0A51D128D7FA5C005868FD /* 609. Find Duplicate File in System.playground */,
 				9FF65FD928C81CDF00ABE7DC /* 617. Merge Two Binary Trees.playground */,
+				9FECC27128ED058700209805 /* 623. Add One Row to Tree.playground */,
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
