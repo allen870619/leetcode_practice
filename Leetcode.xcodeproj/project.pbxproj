@@ -239,6 +239,7 @@
 		9FEA012A28D00812005DCBD2 /* 393. UTF-8 Validation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "393. UTF-8 Validation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FEBE84028F7954A00C377DE /* 237. Delete Node in a Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "237. Delete Node in a Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "659. Split Array into Consecutive Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECC27128ED058700209805 /* 623. Add One Row to Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "623. Add One Row to Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "981. Time Based Key-Value Store.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -370,6 +371,7 @@
 				9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */,
 				9F28304E28A5D23F009405FD /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */,
 				9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */,
+				9FEBE84028F7954A00C377DE /* 237. Delete Node in a Linked List.playground */,
 				9FA81BF628920CFD00DA8D9C /* 242. Valid Anagram.playground */,
 				9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */,
 				9F1A7E9D28444E6300CD5FF4 /* 268. Missing Number.playground */,
