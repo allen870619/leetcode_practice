@@ -30,6 +30,7 @@
 		9F1A7E9D28444E6300CD5FF4 /* 268. Missing Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "268. Missing Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1153. String Transforms Into Another String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1BFE0228750B8400D94F58 /* 509. Fibonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "509. Fibonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6EB27B8B9AD00A63635 /* 2169. Count Operations to Obtain Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2169. Count Operations to Obtain Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6EC27B8B9B900A63635 /* 2170. Minimum Operations to Make the Array Alternating.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2170. Minimum Operations to Make the Array Alternating.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6ED27B8BA0300A63635 /* 2171. Removing Minimum Number of Magic Beans.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2171. Removing Minimum Number of Magic Beans.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -516,6 +517,7 @@
 				9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
 				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
+				9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */,
 				9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */,
