@@ -5,8 +5,8 @@ class Solution {
         }
         var result = ""
         var value = Character("a"), count = 0
-        
-        for i in countAndSay(n-1) {
+
+        for i in countAndSay(n - 1) {
             if i == value {
                 count += 1
             } else {

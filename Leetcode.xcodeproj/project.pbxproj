@@ -247,6 +247,7 @@
 		9FECC27128ED058700209805 /* 623. Add One Row to Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "623. Add One Row to Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "981. Time Based Key-Value Store.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF06A5028FF790800D7AB02 /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2007. Find Original Array From Doubled Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF19D0B28EFAAD600FF3032 /* 732. My Calendar III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "732. My Calendar III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -288,7 +289,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -307,6 +307,7 @@
 				9F562F3E2797E76000E96D57 /* 31. Next Permutation.playground */,
 				9F8CF769283C64BB00B37E7C /* 32. Longest Valid Parentheses.playground */,
 				9FFB5143288E18EA00009123 /* 34. Find First and Last Position of Element in Sorted Array.playground */,
+				9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */,
 				9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
@@ -434,6 +435,7 @@
 				9FFEBCCD28E51DD400CA920F /* 658. Find K Closest Elements.playground */,
 				9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
+				9FF06A5028FF790800D7AB02 /* 692. Top K Frequent Words.playground */,
 				9FB85A2C2880E93C00125946 /* 695. Max Area of Island.playground */,
 				9FE240ED28079CAE003EB1CE /* 700. Search in a Binary Search Tree.playground */,
 				9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */,
