@@ -183,6 +183,7 @@
 		9FAE014628D94373008948A0 /* 718. Maximum Length of Repeated Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "718. Maximum Length of Repeated Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "219. Contains Duplicate II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "997. Find the Town Judge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1015. Smallest Integer Divisible by K.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "48. Rotate Image.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -368,6 +369,7 @@
 				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
 				9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */,
 				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
+				9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */,
 				9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */,
 				9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */,
 				9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */,
@@ -575,7 +577,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastUpgradeCheck = 1320;
+				LastUpgradeCheck = 1400;
 			};
 			buildConfigurationList = 9F82552E2764D01100EE47F0 /* Build configuration list for PBXProject "Leetcode" */;
 			compatibilityVersion = "Xcode 13.0";
@@ -615,6 +617,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				DEAD_CODE_STRIPPING = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -649,6 +652,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				DEAD_CODE_STRIPPING = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
