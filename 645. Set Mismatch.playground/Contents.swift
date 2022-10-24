@@ -8,8 +8,8 @@ class Solution {
                 dup = i
             }
         }
-        
-        for i in 1...nums.count {
+
+        for i in 1 ... nums.count {
             if dict[i] == nil {
                 return [dup, i]
             }

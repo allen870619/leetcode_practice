@@ -4,7 +4,7 @@ class Solution {
         for (index, i) in nums.enumerated() {
             dict[i, default: []].append(index)
         }
-        
+
         for i in dict {
             let list = i.value
             if list.count >= 2 {

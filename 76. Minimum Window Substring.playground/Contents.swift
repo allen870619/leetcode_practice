@@ -5,20 +5,20 @@ class Solution {
         var left = 0, right = 0
         var result = ""
         var resultSize = s.count
-        
+
         for i in t {
             counter[i, default: 0] += 1
         }
-        
+
         while right < s.count {
             let rc = s[right]
-            
+
             if counter[rc] != nil {
                 counter[rc]! -= 1
                 if checkSatisty() {
                     while left <= right {
                         if resultSize >= right - left + 1 {
-                            result = String(Array(s[left...right]))
+                            result = String(Array(s[left ... right]))
                             resultSize = right - left + 1
                         }
                         let lc = s[left]
@@ -30,12 +30,11 @@ class Solution {
                             }
                         }
                     }
-                    
                 }
             }
             right += 1
         }
-        
+
         func checkSatisty() -> Bool {
             for i in counter {
                 if i.value > 0 {
@@ -44,7 +43,7 @@ class Solution {
             }
             return true
         }
-        
+
         return result
     }
 }

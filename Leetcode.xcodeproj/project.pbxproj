@@ -114,6 +114,7 @@
 		9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "476. Number Complement.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6A607629041F5F007E5F2D /* 76. Minimum Window Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "76. Minimum Window Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6A60772904D8FB007E5F2D /* 645. Set Mismatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "645. Set Mismatch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6A607829061853007E5F2D /* 1239. Maximum Length of a Concatenated String with Unique Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1239. Maximum Length of a Concatenated String with Unique Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2264. Largest 3-Same-Digit Number in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2265. Count Nodes Equal to Average of Subtree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -292,7 +293,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F6A60772904D8FB007E5F2D /* 645. Set Mismatch.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -438,6 +438,7 @@
 				9F8D24F62769B6150012654A /* 624. Maximum Distance in Arrays.playground */,
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
+				9F6A60772904D8FB007E5F2D /* 645. Set Mismatch.playground */,
 				9FFEBCCD28E51DD400CA920F /* 658. Find K Closest Elements.playground */,
 				9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
@@ -495,6 +496,7 @@
 				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
 				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
 				9FD77F292824AB2600739DB7 /* 1209. Remove All Adjacent Duplicates in String II.playground */,
+				9F6A607829061853007E5F2D /* 1239. Maximum Length of a Concatenated String with Unique Characters.playground */,
 				9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */,
 				9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */,
 				9FFAF29E2803AC90000224A8 /* 1260. Shift 2D Grid.playground */,
