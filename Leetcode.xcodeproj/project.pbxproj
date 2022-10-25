@@ -287,6 +287,8 @@
 		9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "785. Is Graph Bipartite?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFEBCCD28E51DD400CA920F /* 658. Find K Closest Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "658. Find K Closest Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFF419828A33456003AA24E /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFF7EB92907662800580FD8 /* 1662. Check If Two String Arrays are Equivalent.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1662. Check If Two String Arrays are Equivalent.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FFF7EBA2907666A00580FD8 /* 1706. Where Will the Ball Fall.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1706. Where Will the Ball Fall.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -522,11 +524,13 @@
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
 				9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */,
+				9FFF7EB92907662800580FD8 /* 1662. Check If Two String Arrays are Equivalent.playground */,
 				9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */,
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */,
 				9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */,
 				9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
+				9FFF7EBA2907666A00580FD8 /* 1706. Where Will the Ball Fall.playground */,
 				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
 				9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */,
