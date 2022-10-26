@@ -266,6 +266,7 @@
 		9FF7F6F928EBB5E7006D546C /* 112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "112. Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "637. Average of Levels in Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "378. Kth Smallest Element in a Sorted Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF856432908C1EB006A458F /* 523. Continuous Subarray Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "523. Continuous Subarray Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "377. Combination Sum IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -424,6 +425,7 @@
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
 				9F1BFE0228750B8400D94F58 /* 509. Fibonacci Number.playground */,
 				9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */,
+				9FF856432908C1EB006A458F /* 523. Continuous Subarray Sum.playground */,
 				9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */,
 				9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */,
 				9F5C488328DBE23C00317CCA /* 557. Reverse Words in a String III.playground */,
