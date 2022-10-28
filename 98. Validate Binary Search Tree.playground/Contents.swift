@@ -17,16 +17,16 @@ class Solution {
     }
 
     private func calBST(_ node: TreeNode?, top: Int?, bot: Int?) -> Bool {
-        guard let node = node else {
+        guard let node else {
             return true
         }
         // self
-        if let top = top {
+        if let top {
             if top <= node.val {
                 return false
             }
         }
-        if let bot = bot {
+        if let bot {
             if bot >= node.val {
                 return false
             }

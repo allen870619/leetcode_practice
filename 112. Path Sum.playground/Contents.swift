@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func hasPathSum(_ root: TreeNode?, _ targetSum: Int) -> Bool {
-        guard let root = root else {
+        guard let root else {
             return false
         }
         var result = [Int]()
@@ -37,7 +37,7 @@ class Solution {
 
 class Solution2 {
     func hasPathSum(_ root: TreeNode?, _ targetSum: Int) -> Bool {
-        guard let root = root else {
+        guard let root else {
             return false
         }
         var left = false, right = false

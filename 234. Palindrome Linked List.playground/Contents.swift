@@ -11,7 +11,7 @@ class Solution {
         var node = head
         var list = [ListNode]()
         while head != nil {
-            if let node = node {
+            if let node {
                 list.append(node)
             }
             node = node?.next

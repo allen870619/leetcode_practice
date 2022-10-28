@@ -19,7 +19,7 @@ class Solution {
     }
 
     private func inorder(_ node: TreeNode?) {
-        guard let node = node else { return }
+        guard let node else { return }
         inorder(node.right)
         node.val += sum
         sum = node.val

@@ -16,7 +16,7 @@ class Solution { // DFS
         if (p != nil && q == nil) || (p == nil && q != nil) {
             return false
         }
-        if let p = p, let q = q {
+        if let p, let q {
             return p.val == q.val && isSameTree(p.left, q.left) && isSameTree(p.right, q.right)
         }
         return true

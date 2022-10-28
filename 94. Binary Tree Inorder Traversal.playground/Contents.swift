@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func inorderTraversal(_ root: TreeNode?) -> [Int] {
-        guard let root = root else {
+        guard let root else {
             return []
         }
         return inorderTraversal(root.left) + [root.val] + inorderTraversal(root.right)

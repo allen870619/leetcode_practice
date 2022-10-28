@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func rightSideView(_ root: TreeNode?) -> [Int] {
-        guard let root = root else {
+        guard let root else {
             return []
         }
         var result = [root.val]

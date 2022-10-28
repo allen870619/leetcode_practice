@@ -15,7 +15,7 @@ class Solution {
     func flatten(_ root: TreeNode?) {
         var list = [TreeNode?]()
         func flatIt(_ node: TreeNode?) {
-            guard let node = node else {
+            guard let node else {
                 return
             }
             list.append(node)

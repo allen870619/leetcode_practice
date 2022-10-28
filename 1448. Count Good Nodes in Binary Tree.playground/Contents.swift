@@ -13,13 +13,13 @@ public class TreeNode {
 
 class Solution {
     func goodNodes(_ root: TreeNode?) -> Int {
-        guard let root = root else {
+        guard let root else {
             return 0
         }
         var result = 0
 
         func calResult(_ node: TreeNode?, _ maxValue: Int) {
-            guard let node = node else {
+            guard let node else {
                 return
             }
             if node.val >= maxValue {

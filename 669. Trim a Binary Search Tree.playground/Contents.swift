@@ -19,7 +19,7 @@ class Solution {
         }
 
         func isInBound(_ node: TreeNode?) -> Bool {
-            if let node = node {
+            if let node {
                 return node.val >= low && node.val <= high
             }
             return false
@@ -45,7 +45,7 @@ class Solution {
 
         // resort tree
         func setNode(_ this: TreeNode?, _ next: TreeNode?) {
-            guard let this = this, let next = next else { return }
+            guard let this, let next else { return }
             if isInBound(next) {
                 if next.val > this.val {
                     this.right = next

@@ -10,7 +10,7 @@ public class Node {
 // BFS
 class Solution {
     func cloneGraph(_ node: Node?) -> Node? {
-        guard let node = node else {
+        guard let node else {
             return nil
         }
         let newHead = Node(node.val)
@@ -25,7 +25,7 @@ class Solution {
                 }
                 let targetNode = nodeMap[node.val]!
                 for origin in node.neighbors {
-                    if let origin = origin {
+                    if let origin {
                         if nodeMap[origin.val] == nil {
                             runNode.append(origin)
                             nodeMap[origin.val] = Node(origin.val)

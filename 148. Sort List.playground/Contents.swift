@@ -8,7 +8,7 @@ public class ListNode {
 
 class Solution {
     func sortList(_ head: ListNode?) -> ListNode? {
-        guard let head = head else {
+        guard let head else {
             return nil
         }
 

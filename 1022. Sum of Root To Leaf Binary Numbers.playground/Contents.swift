@@ -14,7 +14,7 @@ public class TreeNode {
 class Solution {
     func sumRootToLeaf(_ root: TreeNode?) -> Int {
         func addDigit(_ root: TreeNode?, _ append: String) {
-            if let root = root {
+            if let root {
                 let digits = append + "\(root.val)"
 
                 if root.left == nil, root.right == nil {

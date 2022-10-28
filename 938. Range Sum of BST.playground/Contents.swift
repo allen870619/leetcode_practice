@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func rangeSumBST(_ root: TreeNode?, _ low: Int, _ high: Int) -> Int {
-        guard let root = root else {
+        guard let root else {
             return 0
         }
         let range = low ... high

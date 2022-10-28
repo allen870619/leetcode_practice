@@ -22,7 +22,7 @@ class Solution {
         var list = [TreeNode]()
 
         func find(_ node: TreeNode?) {
-            guard let node = node else {
+            guard let node else {
                 return
             }
 

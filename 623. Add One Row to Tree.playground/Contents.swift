@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func addOneRow(_ root: TreeNode?, _ val: Int, _ depth: Int) -> TreeNode? {
-        guard let root = root else {
+        guard let root else {
             return TreeNode(val)
         }
         if depth == 1 {

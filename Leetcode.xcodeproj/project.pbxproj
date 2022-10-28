@@ -14,6 +14,7 @@
 		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0A51D128D7FA5C005868FD /* 609. Find Duplicate File in System.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "609. Find Duplicate File in System.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "823. Binary Trees With Factors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1192. Critical Connections in a Network.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "923. 3Sum With Multiplicity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0FBF8928A484570096F69D /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -319,6 +320,7 @@
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
 				9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */,
+				9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */,
 				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
 				9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */,
 				9F30862C27DAD2180088F948 /* 61. Rotate List.playground */,

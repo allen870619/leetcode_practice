@@ -17,7 +17,7 @@ class Solution { // not good but AC
         var `switch` = false
 
         func inorder(_ node: TreeNode?) {
-            guard let node = node else { return }
+            guard let node else { return }
             inorder(node.left)
             if let last = stack.last {
                 if let lastNode = last {

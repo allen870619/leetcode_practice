@@ -37,7 +37,7 @@ class Solution2 { // DFS
     func kthSmallest(_ root: TreeNode?, _ k: Int) -> Int {
         var list = [Int]()
         func inorder(_ node: TreeNode?) {
-            guard let node = node else {
+            guard let node else {
                 return
             }
             inorder(node.left)

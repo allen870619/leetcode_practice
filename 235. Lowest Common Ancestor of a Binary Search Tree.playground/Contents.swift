@@ -11,7 +11,7 @@ public class TreeNode {
 
 class Solution {
     func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
-        guard let root = root, let p = p, let q = q else {
+        guard let root, let p, let q else {
             return nil
         }
 
@@ -29,7 +29,7 @@ class Solution {
 
 class Solution2 {
     func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
-        guard let p = p, let q = q else {
+        guard let p, let q else {
             return nil
         }
 

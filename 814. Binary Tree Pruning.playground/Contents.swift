@@ -14,7 +14,7 @@ public class TreeNode {
 class Solution {
     func pruneTree(_ root: TreeNode?) -> TreeNode? {
         func findLast(_ lastNode: TreeNode?, _ current: TreeNode?, fromLeft: Bool) -> Bool {
-            guard let current = current else {
+            guard let current else {
                 return true
             }
 

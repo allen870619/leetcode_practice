@@ -16,7 +16,7 @@ class Solution {
         var result = 0
 
         func checkRoute(_ node: TreeNode?, dict: [Int: Int]) {
-            guard let node = node else {
+            guard let node else {
                 return
             }
             var dict = dict

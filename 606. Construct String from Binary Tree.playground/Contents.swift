@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func tree2str(_ root: TreeNode?) -> String {
-        guard let root = root else {
+        guard let root else {
             return ""
         }
 

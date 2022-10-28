@@ -13,7 +13,7 @@ public class TreeNode {
 
 class Solution {
     func levelOrder(_ root: TreeNode?) -> [[Int]] {
-        guard let root = root else {
+        guard let root else {
             return []
         }
         var result = [[Int]]()
