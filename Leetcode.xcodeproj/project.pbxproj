@@ -98,6 +98,7 @@
 		9F562F3E2797E76000E96D57 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F578283276EC84D00A492CC /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F57E162290F671A0006F9DA /* 766. Toeplitz Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "766. Toeplitz Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F586ED528F8E516009C9456 /* 2095. Delete the Middle Node of a Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2095. Delete the Middle Node of a Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "856. Score of Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -297,6 +298,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F57E162290F671A0006F9DA /* 766. Toeplitz Matrix.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
