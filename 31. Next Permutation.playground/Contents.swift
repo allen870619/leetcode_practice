@@ -24,7 +24,7 @@ class Solution {
                 }
             }
             var afterTargetList: [Int] = []
-            for i in 0 ..< (nums.count - targetList.last! - 1) {
+            for _ in 0 ..< (nums.count - targetList.last! - 1) {
                 afterTargetList.append(nums.popLast()!)
             }
             nums += afterTargetList.sorted()

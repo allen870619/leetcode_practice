@@ -5,7 +5,7 @@ class Solution2 {
         let maxY = grid.count
         var saved: [[Int?]] = Array(repeating: Array(repeating: nil, count: maxX), count: maxY)
         var result = Array(repeating: -1, count: maxX)
-        
+
         func findRoute(_ y: Int, _ x: Int) -> Int {
             if y >= maxY {
                 return x
@@ -13,27 +13,26 @@ class Solution2 {
             if let out = saved[y][x] {
                 return out
             }
-            
-            if grid[y][x] == 1 && x + 1  < maxX && grid[y][x+1] == 1{
-                saved[y][x] = findRoute(y+1, x+1)
+
+            if grid[y][x] == 1, x + 1 < maxX, grid[y][x + 1] == 1 {
+                saved[y][x] = findRoute(y + 1, x + 1)
             }
-            if grid[y][x] == -1 && x-1 >= 0 && grid[y][x-1] == -1{
-                saved[y][x] = findRoute(y+1, x-1)
+            if grid[y][x] == -1, x - 1 >= 0, grid[y][x - 1] == -1 {
+                saved[y][x] = findRoute(y + 1, x - 1)
             }
-            
+
             if saved[y][x] == nil {
                 saved[y][x] = -1
             }
             return saved[y][x]!
         }
-        
-        for i in 0..<maxX {
+
+        for i in 0 ..< maxX {
             result[i] = findRoute(0, i)
         }
         return result
     }
 }
-
 
 /// first
 class Solution {
@@ -41,7 +40,7 @@ class Solution {
         let maxX = grid.first?.count ?? 0
         let maxY = grid.count
         var save = Array(repeating: Array(repeating: -2, count: maxX), count: maxY)
-        
+
         func findRoute(_ y: Int, _ x: Int) -> Int {
             if y >= maxY {
                 return x
@@ -49,7 +48,7 @@ class Solution {
             if save[y][x] != -2 {
                 return save[y][x]
             }
-            
+
             if grid[y][x] == 1 {
                 if x + 1 < maxX, grid[y][x + 1] == 1 {
                     save[y][x] = findRoute(y + 1, x + 1)
@@ -65,7 +64,7 @@ class Solution {
             }
             return save[y][x]
         }
-        
+
         var result = [Int]()
         for i in 0 ..< maxX {
             result.append(findRoute(0, i))
