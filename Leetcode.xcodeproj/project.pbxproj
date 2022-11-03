@@ -37,6 +37,7 @@
 		9F1DE6ED27B8BA0300A63635 /* 2171. Removing Minimum Number of Magic Beans.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2171. Removing Minimum Number of Magic Beans.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1DE6EE27B8BCF700A63635 /* 78. Subsets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "78. Subsets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F1F8CD7283718EE003AC84A /* 63. Unique Paths II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "63. Unique Paths II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F1FC1932913436200185BEA /* 2131. Longest Palindrome by Concatenating Two Letter Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2131. Longest Palindrome by Concatenating Two Letter Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1359. Count All Valid Pickup and Delivery Options.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F213EA427D46A1F00E0BC4B /* 2197. Replace Non-Coprime Numbers in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2197. Replace Non-Coprime Numbers in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -546,6 +547,7 @@
 				9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */,
 				9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */,
 				9F586ED528F8E516009C9456 /* 2095. Delete the Middle Node of a Linked List.playground */,
+				9F1FC1932913436200185BEA /* 2131. Longest Palindrome by Concatenating Two Letter Words.playground */,
 				9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */,
 				9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */,
 				9F5DD7C02793D53400B000E2 /* 2139. Minimum Moves to Reach Target Score.playground */,
