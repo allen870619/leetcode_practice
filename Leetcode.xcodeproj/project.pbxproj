@@ -120,6 +120,7 @@
 		9F6A60772904D8FB007E5F2D /* 645. Set Mismatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "645. Set Mismatch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6A607829061853007E5F2D /* 1239. Maximum Length of a Concatenated String with Unique Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1239. Maximum Length of a Concatenated String with Unique Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6B10F02914939500CB8932 /* 345. Reverse Vowels of a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "345. Reverse Vowels of a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2264. Largest 3-Same-Digit Number in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2265. Count Nodes Equal to Average of Subtree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2266. Count Number of Texts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -407,6 +408,7 @@
 				9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */,
 				9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */,
 				9FC8219E28B301B5005EE7ED /* 342. Power of Four.playground */,
+				9F6B10F02914939500CB8932 /* 345. Reverse Vowels of a String.playground */,
 				9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */,
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
 				9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */,
