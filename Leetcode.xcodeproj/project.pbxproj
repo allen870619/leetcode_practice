@@ -143,6 +143,7 @@
 		9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "199. Binary Tree Right Side View.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7A6FC02890C14F0028D6BB /* 114. Flatten Binary Tree to Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "114. Flatten Binary Tree to Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "901. Online Stock Span.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1663. Smallest String With A Given Numeric Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "895. Maximum Frequency Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -303,7 +304,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F5C4CAD2919D73E0054E763 /* 1544. Make The String Great.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -488,6 +488,7 @@
 				9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */,
 				9F6E301227EBF0C40082E010 /* 881. Boats to Save People.playground */,
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
+				9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */,
 				9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */,
 				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
 				9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */,
@@ -535,6 +536,7 @@
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */,
+				9F5C4CAD2919D73E0054E763 /* 1544. Make The String Great.playground */,
 				9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */,
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
