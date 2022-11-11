@@ -144,6 +144,7 @@
 		9F7A6FC02890C14F0028D6BB /* 114. Flatten Binary Tree to Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "114. Flatten Binary Tree to Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "901. Online Stock Span.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F7EADEC291DCB8C0036D6D7 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1663. Smallest String With A Given Numeric Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "895. Maximum Frequency Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -304,6 +305,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F7EADEC291DCB8C0036D6D7 /* 26. Remove Duplicates from Sorted Array.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
