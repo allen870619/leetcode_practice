@@ -145,6 +145,7 @@
 		9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "169. Majority Element.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "901. Online Stock Span.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F7EADEC291DCB8C0036D6D7 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F7EADED291DCD2C0036D6D7 /* 1047. Remove All Adjacent Duplicates In String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1047. Remove All Adjacent Duplicates In String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1663. Smallest String With A Given Numeric Value.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "895. Maximum Frequency Stack.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1446. Consecutive Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -305,7 +306,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F7EADEC291DCB8C0036D6D7 /* 26. Remove Duplicates from Sorted Array.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -319,6 +319,7 @@
 				9FDA82F628E3CA8F0036D372 /* 19. Remove Nth Node From End of List.playground */,
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
 				9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */,
+				9F7EADEC291DCB8C0036D6D7 /* 26. Remove Duplicates from Sorted Array.playground */,
 				9F1A7E992844431C00CD5FF4 /* 29. Divide Two Integers.playground */,
 				9FF29A7628A7FF740022B0E8 /* 30. Substring with Concatenation of All Words.playground */,
 				9F562F3E2797E76000E96D57 /* 31. Next Permutation.playground */,
@@ -507,6 +508,7 @@
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
 				9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */,
 				9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */,
+				9F7EADED291DCD2C0036D6D7 /* 1047. Remove All Adjacent Duplicates In String.playground */,
 				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
