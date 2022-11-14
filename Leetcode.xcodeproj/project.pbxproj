@@ -50,6 +50,7 @@
 		9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "236. Lowest Common Ancestor of a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1249. Minimum Remove to Make Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "538. Convert BST to Greater Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "947. Most Stones Removed with Same Row or Column.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28304E28A5D23F009405FD /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -306,6 +307,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
