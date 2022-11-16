@@ -50,6 +50,7 @@
 		9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "236. Lowest Common Ancestor of a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22859C27E0170C00646D21 /* 1249. Minimum Remove to Make Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1249. Minimum Remove to Make Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "538. Convert BST to Greater Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F2398C3292463B8007DA30E /* 374. Guess Number Higher or Lower.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "374. Guess Number Higher or Lower.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F240C492923106700177E54 /* 222. Count Complete Tree Nodes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "222. Count Complete Tree Nodes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "947. Most Stones Removed with Same Row or Column.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28304E28A5D23F009405FD /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -308,8 +309,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F240C492923106700177E54 /* 222. Count Complete Tree Nodes.playground */,
-				9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -394,6 +393,7 @@
 				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
 				9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */,
 				9FC9FCBB276C0E8D00B80C3E /* 221._ Maximal Square.playground */,
+				9F240C492923106700177E54 /* 222. Count Complete Tree Nodes.playground */,
 				9FD80CDA28234C0400D8BE29 /* 225. Implement Stack using Queues.playground */,
 				9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */,
 				9F2D224E280CE88700CEA159 /* 230. Kth Smallest Element in a BST.playground */,
@@ -420,6 +420,7 @@
 				9FC8219E28B301B5005EE7ED /* 342. Power of Four.playground */,
 				9F6B10F02914939500CB8932 /* 345. Reverse Vowels of a String.playground */,
 				9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */,
+				9F2398C3292463B8007DA30E /* 374. Guess Number Higher or Lower.playground */,
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
 				9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */,
 				9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */,
@@ -500,6 +501,7 @@
 				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
 				9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */,
 				9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */,
+				9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */,
 				9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */,
 				9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */,
 				9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */,
