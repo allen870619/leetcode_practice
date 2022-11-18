@@ -12,7 +12,7 @@ class Solution {
             } else if n % 2 == 0 {
                 n /= 2
             } else {
-                return  false
+                return false
             }
         }
         return true

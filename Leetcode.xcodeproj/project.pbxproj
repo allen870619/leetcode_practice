@@ -160,6 +160,7 @@
 		9F82E88927F95CBE00F277B6 /* 2226. Maximum Candies Allocated to K Children.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2226. Maximum Candies Allocated to K Children.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F82E88A27F95CD300F277B6 /* 2227. Encrypt and Decrypt Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2227. Encrypt and Decrypt Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F84A9C9292707FF0041F502 /* 263. Ugly Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "263. Ugly Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F84A9CA292715330041F502 /* 264. Ugly Number II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "264. Ugly Number II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F85F8C9280E40A000CA5F9D /* 99. Recover Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "99. Recover Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "941. Valid Mountain Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -312,7 +313,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F84A9C9292707FF0041F502 /* 263. Ugly Number.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -409,6 +409,8 @@
 				9FEBE84028F7954A00C377DE /* 237. Delete Node in a Linked List.playground */,
 				9FA81BF628920CFD00DA8D9C /* 242. Valid Anagram.playground */,
 				9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */,
+				9F84A9C9292707FF0041F502 /* 263. Ugly Number.playground */,
+				9F84A9CA292715330041F502 /* 264. Ugly Number II.playground */,
 				9F1A7E9D28444E6300CD5FF4 /* 268. Missing Number.playground */,
 				9FFD08E1281621C6006C2306 /* 284. Peeking Iterator.playground */,
 				9FDEAA6327F287540072A412 /* 287. Find the Duplicate Number.playground */,
