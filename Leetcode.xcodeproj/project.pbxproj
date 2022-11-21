@@ -114,6 +114,7 @@
 		9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "849. Maximize Distance to Closest Person.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7C02793D53400B000E2 /* 2139. Minimum Moves to Reach Target Score.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2139. Minimum Moves to Reach Target Score.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7C12793D66500B000E2 /* 2138. Divide a String Into Groups of Size k.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2138. Divide a String Into Groups of Size k.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1926. Nearest Exit from Entrance in Maze.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "228. Summary Ranges.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5EF7C627CDA49100B39E17 /* 338. Counting Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "338. Counting Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1584. Min Cost to Connect All Points.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -570,6 +571,7 @@
 				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
 				9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
+				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
 				9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */,
 				9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */,
 				9F586ED528F8E516009C9456 /* 2095. Delete the Middle Node of a Linked List.playground */,
