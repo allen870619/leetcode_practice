@@ -184,6 +184,7 @@
 		9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "383. Ransom Note.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1641. Count Sorted Vowel Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F9CAAF1292EF719005523F2 /* 79. Word Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "79. Word Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CF72927BB278E00519B15 /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9E01EE2765B97C00D3E1AC /* 416. Partition Equal Subset Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "416. Partition Equal Subset Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -353,6 +354,7 @@
 				9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */,
 				9F6A607629041F5F007E5F2D /* 76. Minimum Window Substring.playground */,
 				9F1DE6EE27B8BCF700A63635 /* 78. Subsets.playground */,
+				9F9CAAF1292EF719005523F2 /* 79. Word Search.playground */,
 				9F73640D27F135CF00A836A9 /* 81. Search in Rotated Sorted Array II.playground */,
 				9FFB79CD27D82B7600EAD811 /* 82. Remove Duplicates from Sorted List II.playground */,
 				9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */,
