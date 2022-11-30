@@ -85,6 +85,7 @@
 		9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2428. Maximum Sum of an Hourglass.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2429. Minimize XOR.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "792. Number of Matching Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F455CB42936DBFA0010EC31 /* 1207. Unique Number of Occurrences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1207. Unique Number of Occurrences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -539,6 +540,7 @@
 				9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */,
 				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
 				9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */,
+				9F455CB42936DBFA0010EC31 /* 1207. Unique Number of Occurrences.playground */,
 				9FD77F292824AB2600739DB7 /* 1209. Remove All Adjacent Duplicates in String II.playground */,
 				9F6A607829061853007E5F2D /* 1239. Maximum Length of a Concatenated String with Unique Characters.playground */,
 				9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */,
