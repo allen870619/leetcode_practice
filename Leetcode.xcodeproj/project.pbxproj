@@ -128,6 +128,7 @@
 		9F6A607829061853007E5F2D /* 1239. Maximum Length of a Concatenated String with Unique Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1239. Maximum Length of a Concatenated String with Unique Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6B10F02914939500CB8932 /* 345. Reverse Vowels of a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "345. Reverse Vowels of a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6BC35729382BE8001961E2 /* 1704. Determine if String Halves Are Alike.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1704. Determine if String Halves Are Alike.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2264. Largest 3-Same-Digit Number in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2265. Count Nodes Equal to Average of Subtree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2266. Count Number of Texts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -319,6 +320,7 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9F6BC35729382BE8001961E2 /* 1704. Determine if String Halves Are Alike.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
