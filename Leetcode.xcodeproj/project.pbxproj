@@ -321,8 +321,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F8515CC29397D3100138DC3 /* 1657. Determine if Two Strings Are Close.playground */,
-				9F6BC35729382BE8001961E2 /* 1704. Determine if String Halves Are Alike.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -574,12 +572,14 @@
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
 				9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */,
 				9F6F536E286150BE00068AC8 /* 1642. Furthest Building You Can Reach.playground */,
+				9F8515CC29397D3100138DC3 /* 1657. Determine if Two Strings Are Close.playground */,
 				9FFF7EB92907662800580FD8 /* 1662. Check If Two String Arrays are Equivalent.playground */,
 				9F80335627E952D7005EF905 /* 1663. Smallest String With A Given Numeric Value.playground */,
 				9FC8610F27A7B58C00163992 /* 1672. Richest Customer Wealth.playground */,
 				9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */,
 				9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */,
 				9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
+				9F6BC35729382BE8001961E2 /* 1704. Determine if String Halves Are Alike.playground */,
 				9FFF7EBA2907666A00580FD8 /* 1706. Where Will the Ball Fall.playground */,
 				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
