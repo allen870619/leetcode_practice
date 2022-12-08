@@ -264,6 +264,7 @@
 		9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "191. Number of 1 Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE2ED96283F0316009AFBA4 /* 190. Reverse Bits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "190. Reverse Bits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE33285284ECFF4004D0030 /* 88. Merge Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "88. Merge Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE3679E2941653B00E6C60B /* 872. Leaf-Similar Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "872. Leaf-Similar Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "452. Minimum Number of Arrows to Burst Balloons.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE617502935889A00913E4E /* 380. Insert Delete GetRandom O(1).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "380. Insert Delete GetRandom O(1).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -513,6 +514,7 @@
 				9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */,
 				9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */,
 				9F2DD2C8284838FA00885B87 /* 867. Transpose Matrix.playground */,
+				9FE3679E2941653B00E6C60B /* 872. Leaf-Similar Trees.playground */,
 				9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */,
 				9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */,
 				9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */,
