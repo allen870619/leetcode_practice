@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		9F009B19279FCD68001F5AA1 /* 2149. Rearrange Array Elements by Sign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2149. Rearrange Array Elements by Sign.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F02E5C02942B7FF00F55C35 /* 1026. Maximum Difference Between Node and Ancestor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1026. Maximum Difference Between Node and Ancestor.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1200. Minimum Absolute Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1400. Construct K Palindrome Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0689442899FC0200EAE156 /* 729. My Calendar I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "729. My Calendar I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -537,6 +538,7 @@
 				9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */,
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
 				9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */,
+				9F02E5C02942B7FF00F55C35 /* 1026. Maximum Difference Between Node and Ancestor.playground */,
 				9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */,
 				9F7EADED291DCD2C0036D6D7 /* 1047. Remove All Adjacent Duplicates In String.playground */,
 				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
