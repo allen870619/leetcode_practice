@@ -8,7 +8,7 @@ class Solution {
             if n <= 2 {
                 return n
             }
-            let result = dp(n-1) + dp(n-2)
+            let result = dp(n - 1) + dp(n - 2)
             dict[n] = result
             return result
         }

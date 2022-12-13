@@ -190,6 +190,7 @@
 		9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "383. Ransom Note.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1641. Count Sorted Vowel Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F9C57C8294808620099B27A /* 931. Minimum Falling Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "931. Minimum Falling Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CAAF1292EF719005523F2 /* 79. Word Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "79. Word Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CF72927BB278E00519B15 /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -325,7 +326,6 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
-				9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
@@ -358,6 +358,7 @@
 				9FE0A8C02897574B00C6DDB3 /* 62. Unique Paths.playground */,
 				9F1F8CD7283718EE003AC84A /* 63. Unique Paths II.playground */,
 				9F754087278BB52B006E0683 /* 67. Add Binary.playground */,
+				9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */,
 				9F61D9ED27DEC39F00FF49D9 /* 71. Simplify Path.playground */,
 				9FFA936F27F3DFAD0039997F /* 74. Search a 2D Matrix.playground */,
 				9FBBFFC9277988DE0076658D /* 75. Sort Colors.playground */,
@@ -525,6 +526,7 @@
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
 				9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */,
 				9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */,
+				9F9C57C8294808620099B27A /* 931. Minimum Falling Path Sum.playground */,
 				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
 				9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */,
 				9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */,
