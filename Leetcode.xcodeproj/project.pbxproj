@@ -189,6 +189,7 @@
 		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "383. Ransom Note.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F950327294AAFF500D77046 /* 1143. Longest Common Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1143. Longest Common Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1641. Count Sorted Vowel Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9C57C8294808620099B27A /* 931. Minimum Falling Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "931. Minimum Falling Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9CAAF1292EF719005523F2 /* 79. Word Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "79. Word Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -548,6 +549,7 @@
 				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
+				9F950327294AAFF500D77046 /* 1143. Longest Common Subsequence.playground */,
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
 				9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */,
 				9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */,
