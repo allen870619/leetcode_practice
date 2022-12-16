@@ -328,7 +328,18 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FD20D51294BF3D30083821A /* 1-500 */,
+				9FD20D52294BF55B0083821A /* 501-1000 */,
+				9FD20D53294BF6940083821A /* 1001-1500 */,
+				9FD20D54294BF7450083821A /* 1501-2000 */,
+				9FD20D55294BF7930083821A /* 2001-2500 */,
 				9FA5207827799CD700B6FB9B /* .gitignore */,
+			);
+			sourceTree = "<group>";
+		};
+		9FD20D51294BF3D30083821A /* 1-500 */ = {
+			isa = PBXGroup;
+			children = (
 				9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */,
 				9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */,
 				9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */,
@@ -471,6 +482,13 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+			);
+			path = "1-500";
+			sourceTree = "<group>";
+		};
+		9FD20D52294BF55B0083821A /* 501-1000 */ = {
+			isa = PBXGroup;
+			children = (
 				9F1BFE0228750B8400D94F58 /* 509. Fibonacci Number.playground */,
 				9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */,
 				9FF856432908C1EB006A458F /* 523. Continuous Subarray Sum.playground */,
@@ -541,6 +559,13 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
+			);
+			path = "501-1000";
+			sourceTree = "<group>";
+		};
+		9FD20D53294BF6940083821A /* 1001-1500 */ = {
+			isa = PBXGroup;
+			children = (
 				9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */,
 				9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */,
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
@@ -580,6 +605,13 @@
 				9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
+			);
+			path = "1001-1500";
+			sourceTree = "<group>";
+		};
+		9FD20D54294BF7450083821A /* 1501-2000 */ = {
+			isa = PBXGroup;
+			children = (
 				9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */,
 				9F5C4CAD2919D73E0054E763 /* 1544. Make The String Great.playground */,
 				9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */,
@@ -600,6 +632,13 @@
 				9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
+			);
+			path = "1501-2000";
+			sourceTree = "<group>";
+		};
+		9FD20D55294BF7930083821A /* 2001-2500 */ = {
+			isa = PBXGroup;
+			children = (
 				9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */,
 				9F633D7E279538CC009B86B7 /* 2091. Removing Minimum and Maximum From Array.playground */,
 				9F586ED528F8E516009C9456 /* 2095. Delete the Middle Node of a Linked List.playground */,
@@ -644,6 +683,7 @@
 				9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */,
 				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
 			);
+			path = "2001-2500";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
