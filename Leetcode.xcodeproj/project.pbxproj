@@ -242,6 +242,7 @@
 		9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1679. Max Number of K-Sum Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "669. Trim a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD20D50294BF1E20083821A /* 232. Implement Queue using Stacks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "232. Implement Queue using Stacks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD3DA73281229BA00C303CD /* 706. Design HashMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "706. Design HashMap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD3F204285861750050C4BC /* 583. Delete Operation for Two Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "583. Delete Operation for Two Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -420,6 +421,7 @@
 				9F5EF7C527CDA47000B39E17 /* 228. Summary Ranges.playground */,
 				9F2D224E280CE88700CEA159 /* 230. Kth Smallest Element in a BST.playground */,
 				9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */,
+				9FD20D50294BF1E20083821A /* 232. Implement Queue using Stacks.playground */,
 				9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */,
 				9F28304E28A5D23F009405FD /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */,
 				9F21B4F7288F6D9900B11C88 /* 236. Lowest Common Ancestor of a Binary Tree.playground */,
