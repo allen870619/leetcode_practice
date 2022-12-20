@@ -102,6 +102,7 @@
 		9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1578. Minimum Time to Make Rope Colorful.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392. Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F50842627FFB8A90058AEE8 /* 703. Kth Largest Element in a Stream.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "703. Kth Largest Element in a Stream.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5212F829513B3300FF75FF /* 841. Keys and Rooms.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "841. Keys and Rooms.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F52679E2772A4AD0075AA6F /* 143. Reorder List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "143. Reorder List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1094. Car Pooling.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F562F3D2797980F00E96D57 /* 142. Linked List Cycle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "142. Linked List Cycle II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -535,6 +536,7 @@
 				9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */,
 				9FD583952925B901009CF36D /* 836. Rectangle Overlap.playground */,
 				9FFCE2BF28E288D0001D55C1 /* 838. Push Dominoes.playground */,
+				9F5212F829513B3300FF75FF /* 841. Keys and Rooms.playground */,
 				9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */,
 				9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */,
 				9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */,
