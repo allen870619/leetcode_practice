@@ -133,6 +133,7 @@
 		9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6B10F02914939500CB8932 /* 345. Reverse Vowels of a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "345. Reverse Vowels of a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6BC35729382BE8001961E2 /* 1704. Determine if String Halves Are Alike.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1704. Determine if String Halves Are Alike.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F6D71F12952958500C8438D /* 886. Possible Bipartition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "886. Possible Bipartition.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD978282783EC00A059EA /* 2264. Largest 3-Same-Digit Number in String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2264. Largest 3-Same-Digit Number in String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD979282785ED00A059EA /* 2265. Count Nodes Equal to Average of Subtree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2265. Count Nodes Equal to Average of Subtree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F6DD97A282794F800A059EA /* 2266. Count Number of Texts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2266. Count Number of Texts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -546,6 +547,7 @@
 				9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */,
 				9F8255312764D0BC00EE47F0 /* 878. Nth Magical Number.playground */,
 				9F6E301227EBF0C40082E010 /* 881. Boats to Save People.playground */,
+				9F6D71F12952958500C8438D /* 886. Possible Bipartition.playground */,
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
 				9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */,
 				9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */,
