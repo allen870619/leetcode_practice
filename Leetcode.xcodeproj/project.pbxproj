@@ -150,6 +150,7 @@
 		9F754087278BB52B006E0683 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F75F5B92768644A008BC3BB /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F76E9722953E8B600C0370D /* 834. Sum of Distances in Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "834. Sum of Distances in Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1009. Complement of Base 10 Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F784FBF291885AD001ED59C /* 1323. Maximum 69 Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1323. Maximum 69 Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "199. Binary Tree Right Side View.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -563,6 +564,7 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
+				9F76E9722953E8B600C0370D /* 834. Sum of Distances in Tree.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
