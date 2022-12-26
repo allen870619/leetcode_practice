@@ -113,6 +113,7 @@
 		9F57E162290F671A0006F9DA /* 766. Toeplitz Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "766. Toeplitz Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F586ED528F8E516009C9456 /* 2095. Delete the Middle Node of a Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2095. Delete the Middle Node of a Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5B59AE29592A3700EF2584 /* 55. Jump Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "55. Jump Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "856. Score of Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5C488328DBE23C00317CCA /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5C4CAD2919D73E0054E763 /* 1544. Make The String Great.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1544. Make The String Great.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -369,6 +370,7 @@
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
 				9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */,
 				9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */,
+				9F5B59AE29592A3700EF2584 /* 55. Jump Game.playground */,
 				9F3ECE0027754B6B00253E7C /* 56. Merge Intervals.playground */,
 				9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */,
 				9F30862C27DAD2180088F948 /* 61. Rotate List.playground */,
