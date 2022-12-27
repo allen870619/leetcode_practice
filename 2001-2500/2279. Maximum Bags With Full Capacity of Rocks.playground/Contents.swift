@@ -1,3 +1,28 @@
+// second: 20221227
+class Solution2 {
+    func maximumBags(_ capacity: [Int], _ rocks: [Int], _ additionalRocks: Int) -> Int {
+        let total = capacity.count
+        var diffRock = Array(repeating: 0, count: total)
+        for i in 0 ..< total {
+            diffRock[i] = capacity[i] - rocks[i]
+        }
+        diffRock.sort()
+
+        var remain = additionalRocks, index = 0
+        while remain > 0, index < total {
+            if remain >= diffRock[index] {
+                remain -= diffRock[index]
+                diffRock[index] = 0
+            } else {
+                break
+            }
+            index += 1
+        }
+        return diffRock.filter { $0 == 0 }.count
+    }
+}
+
+// 20220522
 class Solution {
     func maximumBags(_ capacity: [Int], _ rocks: [Int], _ additionalRocks: Int) -> Int {
         let total = capacity.count
