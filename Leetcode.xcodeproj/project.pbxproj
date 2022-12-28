@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1962. Remove Stones to Minimize the Total.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F009B19279FCD68001F5AA1 /* 2149. Rearrange Array Elements by Sign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2149. Rearrange Array Elements by Sign.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F02E5C02942B7FF00F55C35 /* 1026. Maximum Difference Between Node and Ancestor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1026. Maximum Difference Between Node and Ancestor.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F033ABF2770002D0061BF76 /* 1200. Minimum Absolute Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1200. Minimum Absolute Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -642,6 +643,7 @@
 				9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
+				9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */,
 			);
 			path = "1501-2000";
 			sourceTree = "<group>";
