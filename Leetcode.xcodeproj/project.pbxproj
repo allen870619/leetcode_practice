@@ -195,6 +195,7 @@
 		9F8F717C277A8C7400EF05B5 /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F908F6D28B6F60700052FEC /* 383. Ransom Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "383. Ransom Note.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F94DFC8295D2B9F000D6786 /* 1834. Single-Threaded CPU.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1834. Single-Threaded CPU.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F950327294AAFF500D77046 /* 1143. Longest Common Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1143. Longest Common Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F973B57282B40B100C03962 /* 1641. Count Sorted Vowel Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1641. Count Sorted Vowel Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9C57C8294808620099B27A /* 931. Minimum Falling Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "931. Minimum Falling Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -644,6 +645,7 @@
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
 				9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */,
+				9F94DFC8295D2B9F000D6786 /* 1834. Single-Threaded CPU.playground */,
 			);
 			path = "1501-2000";
 			sourceTree = "<group>";
