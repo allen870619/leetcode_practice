@@ -246,6 +246,7 @@
 		9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2180. Count Integers With Even Digit Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2181. Merge Nodes in Between Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2182. Construct String With Repeat Limit.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCF82E8295E698100019EC3 /* 797. All Paths From Source to Target.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "797. All Paths From Source to Target.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1679. Max Number of K-Sum Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "669. Trim a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -335,12 +336,12 @@
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
+				9FA5207827799CD700B6FB9B /* .gitignore */,
 				9FD20D51294BF3D30083821A /* 1-500 */,
 				9FD20D52294BF55B0083821A /* 501-1000 */,
 				9FD20D53294BF6940083821A /* 1001-1500 */,
 				9FD20D54294BF7450083821A /* 1501-2000 */,
 				9FD20D55294BF7930083821A /* 2001-2500 */,
-				9FA5207827799CD700B6FB9B /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -571,6 +572,7 @@
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
 				9F76E9722953E8B600C0370D /* 834. Sum of Distances in Tree.playground */,
+				9FCF82E8295E698100019EC3 /* 797. All Paths From Source to Target.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
