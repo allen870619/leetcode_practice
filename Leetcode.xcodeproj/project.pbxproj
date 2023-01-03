@@ -255,6 +255,7 @@
 		9FD3DA73281229BA00C303CD /* 706. Design HashMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "706. Design HashMap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD3F204285861750050C4BC /* 583. Delete Operation for Two Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "583. Delete Operation for Two Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD435CA27EF38C20012B2F1 /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD469DC2963B5B9008C8E4D /* 944. Delete Columns to Make Sorted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "944. Delete Columns to Make Sorted.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD583942925B8E9009CF36D /* 223. Rectangle Area.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "223. Rectangle Area.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD583952925B901009CF36D /* 836. Rectangle Overlap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "836. Rectangle Overlap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "382. Linked List Random Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -539,10 +540,12 @@
 				9F57E162290F671A0006F9DA /* 766. Toeplitz Matrix.playground */,
 				9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */,
 				9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */,
+				9FCF82E8295E698100019EC3 /* 797. All Paths From Source to Target.playground */,
 				9F1A58DF27D1989000CC210B /* 799. Champagne Tower.playground */,
 				9FD99A8D28AC6DAA00D1365E /* 804. Unique Morse Code Words.playground */,
 				9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */,
 				9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */,
+				9F76E9722953E8B600C0370D /* 834. Sum of Distances in Tree.playground */,
 				9FD583952925B901009CF36D /* 836. Rectangle Overlap.playground */,
 				9FFCE2BF28E288D0001D55C1 /* 838. Push Dominoes.playground */,
 				9F5212F829513B3300FF75FF /* 841. Keys and Rooms.playground */,
@@ -562,6 +565,7 @@
 				9F9C57C8294808620099B27A /* 931. Minimum Falling Path Sum.playground */,
 				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
 				9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */,
+				9FD469DC2963B5B9008C8E4D /* 944. Delete Columns to Make Sorted.playground */,
 				9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */,
 				9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */,
 				9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */,
@@ -571,8 +575,6 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
-				9F76E9722953E8B600C0370D /* 834. Sum of Distances in Tree.playground */,
-				9FCF82E8295E698100019EC3 /* 797. All Paths From Source to Target.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
