@@ -231,6 +231,7 @@
 		9FBD58F227B09B090010638D /* 389. Find the Difference.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "389. Find the Difference.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBEA5DF27C128A10084A56A /* 1675. Minimize Deviation in Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1675. Minimize Deviation in Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FBECC652805020B00BE9DFE /* 289. Game of Life.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "289. Game of Life.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FC03E842964FC4800C4AFCA /* 2244. Minimum Rounds to Complete All Tasks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2244. Minimum Rounds to Complete All Tasks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC4D7D527F5404500168CC6 /* 410. Split Array Largest Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "410. Split Array Largest Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC4D7D627F5556300168CC6 /* 120. Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "120. Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FC52A082794EA5B002D504C /* 290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -686,6 +687,7 @@
 				9F82E88827F95CA600F277B6 /* 2225. Find Players With Zero or One Losses.playground */,
 				9F82E88927F95CBE00F277B6 /* 2226. Maximum Candies Allocated to K Children.playground */,
 				9F82E88A27F95CD300F277B6 /* 2227. Encrypt and Decrypt Strings.playground */,
+				9FC03E842964FC4800C4AFCA /* 2244. Minimum Rounds to Complete All Tasks.playground */,
 				9FD80CDB2823513600D8BE29 /* 2255. Count Prefixes of a Given String.playground */,
 				9FA5B44F282122E8009947F7 /* 2259. Remove Digit From Number to Maximize Result.playground */,
 				9FA5B45028212AD1009947F7 /* 2260. Minimum Consecutive Cards to Pick Up.playground */,
