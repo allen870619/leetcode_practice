@@ -1,3 +1,21 @@
+/// 20230105
+class Solution2 {
+    func findMinArrowShots(_ points: [[Int]]) -> Int {
+        let points = points.sorted(by: { $0[1] < $1[1] })
+        var right = points[0][1]
+        var result = 1
+
+        for point in points[1...] {
+            if point[0] > right {
+                result += 1
+                right = point[1]
+            }
+        }
+        return result
+    }
+}
+
+/// 20220113
 class Solution {
     func findMinArrowShots(_ points: [[Int]]) -> Int {
         if points.isEmpty {
