@@ -216,6 +216,7 @@
 		9FA699F827E80031003E620F /* 763. Partition Labels.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "763. Partition Labels.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1007. Minimum Domino Rotations For Equal Row.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FA81BF628920CFD00DA8D9C /* 242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "242. Valid Anagram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FABB82B29679E6C001793CF /* 1833. Maximum Ice Cream Bars.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1833. Maximum Ice Cream Bars.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "59. Spiral Matrix II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAE014628D94373008948A0 /* 718. Maximum Length of Repeated Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "718. Maximum Length of Repeated Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -651,6 +652,7 @@
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
 				9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */,
 				9F94DFC8295D2B9F000D6786 /* 1834. Single-Threaded CPU.playground */,
+				9FABB82B29679E6C001793CF /* 1833. Maximum Ice Cream Bars.playground */,
 			);
 			path = "1501-2000";
 			sourceTree = "<group>";
