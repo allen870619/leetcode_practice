@@ -1,3 +1,22 @@
+/// 20230107
+class Solution2 {
+    func canCompleteCircuit(_ gas: [Int], _ cost: [Int]) -> Int {
+        var total = 0, current = 0
+        var index = 0
+
+        for i in 0 ..< gas.count {
+            total += gas[i] - cost[i]
+            current += gas[i] - cost[i]
+            if current < 0 {
+                index = i + 1
+                current = 0
+            }
+        }
+        return total >= 0 ? index : -1
+    }
+}
+
+/// 20210121
 class Solution {
     func canCompleteCircuit(_ gas: [Int], _ cost: [Int]) -> Int {
         var total = 0
