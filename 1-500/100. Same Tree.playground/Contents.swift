@@ -11,6 +11,20 @@ public class TreeNode {
     }
 }
 
+/// 20230110
+class Solution3 {
+    func isSameTree(_ p: TreeNode?, _ q: TreeNode?) -> Bool {
+        if p?.val == q?.val {
+            if p != nil, q != nil {
+                return isSameTree(p?.left, q?.left) && isSameTree(p?.right, q?.right)
+            }
+            return true
+        }
+        return false
+    }
+}
+
+/// 20220906
 class Solution { // DFS
     func isSameTree(_ p: TreeNode?, _ q: TreeNode?) -> Bool {
         if (p != nil && q == nil) || (p == nil && q != nil) {
