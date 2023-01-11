@@ -57,6 +57,7 @@
 		9F240ECF292C51F200E58297 /* 279. Perfect Squares.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "279. Perfect Squares.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "947. Most Stones Removed with Same Row or Column.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F28304E28A5D23F009405FD /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F284EA8296E3C7B00DA9297 /* 1443. Minimum Time to Collect All Apples in a Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1443. Minimum Time to Collect All Apples in a Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F29B417277D2D5800130E74 /* 1244. Design A Leaderboard.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1244. Design A Leaderboard.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B0278E536000F3D029 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F2B52B1278E9FEA00F3D029 /* 2133. Check if Every Row and Column Contains All Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2133. Check if Every Row and Column Contains All Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -625,6 +626,7 @@
 				9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
+				9F284EA8296E3C7B00DA9297 /* 1443. Minimum Time to Collect All Apples in a Tree.playground */,
 			);
 			path = "1001-1500";
 			sourceTree = "<group>";
