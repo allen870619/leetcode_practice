@@ -310,6 +310,7 @@
 		9FF7C7532873BB21009C4FA1 /* 128. Longest Consecutive Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "128. Longest Consecutive Sequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF7F6F928EBB5E7006D546C /* 112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "112. Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "637. Average of Levels in Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF81C44296F90D7001151E6 /* 1519. Number of Nodes in the Sub-Tree With the Same Label.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1519. Number of Nodes in the Sub-Tree With the Same Label.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF8320E2898AC1600155C3C /* 378. Kth Smallest Element in a Sorted Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "378. Kth Smallest Element in a Sorted Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF856432908C1EB006A458F /* 523. Continuous Subarray Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "523. Continuous Subarray Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF85CC0282DDC5F00C6727E /* 117. Populating Next Right Pointers in Each Node II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "117. Populating Next Right Pointers in Each Node II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -635,6 +636,7 @@
 			isa = PBXGroup;
 			children = (
 				9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */,
+				9FF81C44296F90D7001151E6 /* 1519. Number of Nodes in the Sub-Tree With the Same Label.playground */,
 				9F5C4CAD2919D73E0054E763 /* 1544. Make The String Great.playground */,
 				9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */,
 				9F5F90F92817A29100F812A1 /* 1584. Min Cost to Connect All Points.playground */,
@@ -652,11 +654,11 @@
 				9FC99E84286E777F00BEA626 /* 1710. Maximum Units on a Truck.playground */,
 				9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */,
 				9F1D02C728FCD7BB00113EB4 /* 1832. Check if the Sentence Is Pangram.playground */,
+				9FABB82B29679E6C001793CF /* 1833. Maximum Ice Cream Bars.playground */,
+				9F94DFC8295D2B9F000D6786 /* 1834. Single-Threaded CPU.playground */,
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
 				9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */,
-				9F94DFC8295D2B9F000D6786 /* 1834. Single-Threaded CPU.playground */,
-				9FABB82B29679E6C001793CF /* 1833. Maximum Ice Cream Bars.playground */,
 			);
 			path = "1501-2000";
 			sourceTree = "<group>";
