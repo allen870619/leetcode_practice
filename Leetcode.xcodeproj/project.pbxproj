@@ -80,6 +80,7 @@
 		9F3ED5D028B5B56A00A27150 /* 326. Power of Three.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "326. Power of Three.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "215. Kth Largest Element in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F402D0028629DC600FB72B1 /* 324. Wiggle Sort II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "324. Wiggle Sort II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F41890F2970E6EB007AB5C7 /* 2246. Longest Path With Different Adjacent Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2246. Longest Path With Different Adjacent Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24. Swap Nodes in Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F43938927C714080009D69A /* 148. Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "148. Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F439DA82888DB3C000828EF /* 92. Reverse Linked List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "92. Reverse Linked List II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -710,6 +711,7 @@
 				9F44C28B28E996E90032D1BB /* 2427. Number of Common Factors.playground */,
 				9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */,
 				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
+				9F41890F2970E6EB007AB5C7 /* 2246. Longest Path With Different Adjacent Characters.playground */,
 			);
 			path = "2001-2500";
 			sourceTree = "<group>";
