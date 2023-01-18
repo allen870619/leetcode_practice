@@ -298,6 +298,7 @@
 		9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "659. Split Array into Consecutive Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECC27128ED058700209805 /* 623. Add One Row to Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "623. Add One Row to Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "981. Time Based Key-Value Store.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "918. Maximum Sum Circular Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF06A5028FF790800D7AB02 /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF0BFE628D2AFD100B6291F /* 2007. Find Original Array From Doubled Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2007. Find Original Array From Doubled Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -571,7 +572,9 @@
 				9F6D71F12952958500C8438D /* 886. Possible Bipartition.playground */,
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
 				9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */,
+				9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */,
 				9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */,
+				9F95B15A2976262F005C08F2 /* 926. Flip String to Monotone Increasing.playground */,
 				9F9C57C8294808620099B27A /* 931. Minimum Falling Path Sum.playground */,
 				9F75F5B8276816C6008BC3BB /* 938. Range Sum of BST.playground */,
 				9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */,
@@ -585,7 +588,6 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
-				9F95B15A2976262F005C08F2 /* 926. Flip String to Monotone Increasing.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
