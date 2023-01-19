@@ -18,6 +18,8 @@
 		9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "823. Binary Trees With Factors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1192. Critical Connections in a Network.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0F41FA29792D3C00432672 /* 2535. Difference Between Element Sum and Digit Sum of an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2535. Difference Between Element Sum and Digit Sum of an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0F41FB297931CE00432672 /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "923. 3Sum With Multiplicity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0FBF8928A484570096F69D /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "948. Bag of Tokens.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -344,6 +346,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		9F0F41F929792D0C00432672 /* 2501-3000 */ = {
+			isa = PBXGroup;
+			children = (
+				9F0F41FA29792D3C00432672 /* 2535. Difference Between Element Sum and Digit Sum of an Array.playground */,
+			);
+			path = "2501-3000";
+			sourceTree = "<group>";
+		};
 		9F82552A2764D01100EE47F0 = {
 			isa = PBXGroup;
 			children = (
@@ -353,6 +363,7 @@
 				9FD20D53294BF6940083821A /* 1001-1500 */,
 				9FD20D54294BF7450083821A /* 1501-2000 */,
 				9FD20D55294BF7930083821A /* 2001-2500 */,
+				9F0F41F929792D0C00432672 /* 2501-3000 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -505,6 +516,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9F0F41FB297931CE00432672 /* 15. 3Sum.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
