@@ -303,6 +303,7 @@
 		9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "981. Time Based Key-Value Store.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEED38E298627C600FEC90E /* 2550. Count Collisions of Monkeys on a Polygon.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2550. Count Collisions of Monkeys on a Polygon.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEED38F298627F900FEC90E /* 2549. Count Distinct Numbers on Board.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2549. Count Distinct Numbers on Board.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FEED3902987505F00FEC90E /* 1137. N-th Tribonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1137. N-th Tribonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "918. Maximum Sum Circular Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF06A5028FF790800D7AB02 /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -653,6 +654,7 @@
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F284EA8296E3C7B00DA9297 /* 1443. Minimum Time to Collect All Apples in a Tree.playground */,
+				9FEED3902987505F00FEC90E /* 1137. N-th Tribonacci Number.playground */,
 			);
 			path = "1001-1500";
 			sourceTree = "<group>";
