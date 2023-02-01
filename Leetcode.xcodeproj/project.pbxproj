@@ -306,6 +306,7 @@
 		9FEED3902987505F00FEC90E /* 1137. N-th Tribonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1137. N-th Tribonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEED3992989126B00FEC90E /* 1626. Best Team With No Conflicts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1626. Best Team With No Conflicts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEED39A29891D1B00FEC90E /* 2551. Put Marbles in Bags.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2551. Put Marbles in Bags.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FEED39B298AA16B00FEC90E /* 1071. Greatest Common Divisor of Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1071. Greatest Common Divisor of Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "918. Maximum Sum Circular Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF06A5028FF790800D7AB02 /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -658,6 +659,7 @@
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F284EA8296E3C7B00DA9297 /* 1443. Minimum Time to Collect All Apples in a Tree.playground */,
 				9FEED3902987505F00FEC90E /* 1137. N-th Tribonacci Number.playground */,
+				9FEED39B298AA16B00FEC90E /* 1071. Greatest Common Divisor of Strings.playground */,
 			);
 			path = "1001-1500";
 			sourceTree = "<group>";
