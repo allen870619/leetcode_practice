@@ -307,6 +307,7 @@
 		9FEED3992989126B00FEC90E /* 1626. Best Team With No Conflicts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1626. Best Team With No Conflicts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEED39A29891D1B00FEC90E /* 2551. Put Marbles in Bags.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2551. Put Marbles in Bags.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEED39B298AA16B00FEC90E /* 1071. Greatest Common Divisor of Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1071. Greatest Common Divisor of Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FEED39C298B4BD400FEC90E /* 953. Verifying an Alien Dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "953. Verifying an Alien Dictionary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "918. Maximum Sum Circular Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF06A5028FF790800D7AB02 /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -604,13 +605,14 @@
 				9FBAFDAD27E16DC800268DD8 /* 946. Validate Stack Sequences.playground */,
 				9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */,
 				9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */,
+				9FEED39C298B4BD400FEC90E /* 953. Verifying an Alien Dictionary.playground */,
+				9F268C902978C87A003178F6 /* 974. Subarray Sums Divisible by K.playground */,
 				9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */,
 				9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */,
 				9FFB004D28DA8F0700EB10CA /* 985. Sum of Even Numbers After Queries.playground */,
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
-				9F268C902978C87A003178F6 /* 974. Subarray Sums Divisible by K.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
@@ -626,8 +628,10 @@
 				9F2E446227ED5AA200536E1E /* 1029. Two City Scheduling.playground */,
 				9F7EADED291DCD2C0036D6D7 /* 1047. Remove All Adjacent Duplicates In String.playground */,
 				9F9FE3762859732A00BB8B76 /* 1048. Longest String Chain.playground */,
+				9FEED39B298AA16B00FEC90E /* 1071. Greatest Common Divisor of Strings.playground */,
 				9FD7F64E28322074006214BB /* 1091. Shortest Path in Binary Matrix.playground */,
 				9F55F6A2278670EB00BE8162 /* 1094. Car Pooling.playground */,
+				9FEED3902987505F00FEC90E /* 1137. N-th Tribonacci Number.playground */,
 				9F950327294AAFF500D77046 /* 1143. Longest Common Subsequence.playground */,
 				9F1B7CBC2772F7F9008E8923 /* 1153. String Transforms Into Another String.playground */,
 				9F44C28A28E996A60032D1BB /* 1155. Number of Dice Rolls With Target Sum.playground */,
@@ -651,15 +655,13 @@
 				9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */,
 				9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */,
 				9F033AC727704F870061BF76 /* 1400. Construct K Palindrome Strings.playground */,
+				9F284EA8296E3C7B00DA9297 /* 1443. Minimum Time to Collect All Apples in a Tree.playground */,
 				9F81A37C2766C4EB005387BD /* 1446. Consecutive Characters.playground */,
 				9F8C9CF028C0329B00CAA20F /* 1448. Count Good Nodes in Binary Tree.playground */,
 				9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */,
 				9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
-				9F284EA8296E3C7B00DA9297 /* 1443. Minimum Time to Collect All Apples in a Tree.playground */,
-				9FEED3902987505F00FEC90E /* 1137. N-th Tribonacci Number.playground */,
-				9FEED39B298AA16B00FEC90E /* 1071. Greatest Common Divisor of Strings.playground */,
 			);
 			path = "1001-1500";
 			sourceTree = "<group>";
