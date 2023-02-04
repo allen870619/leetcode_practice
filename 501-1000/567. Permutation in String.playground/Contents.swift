@@ -1,3 +1,42 @@
+/// 20230204
+class Solution2 {
+    func checkInclusion(_ s1: String, _ s2: String) -> Bool {
+        var left = 0, right = 0
+        var map = [Character: Int]()
+        for i in s1 {
+            map[i, default: 0] += 1
+        }
+
+        let s2 = [Character](s2)
+        var current = [Character: Int]()
+        let s1Len = s1.count
+        while right < s2.count {
+            if !map.keys.contains(s2[right]) {
+                right += 1
+                left = right
+                current.removeAll()
+                continue
+            }
+
+            current[s2[right], default: 0] += 1
+
+            if right - left + 1 > s1Len {
+                current[s2[left]]! -= 1
+                left += 1
+            }
+
+            // compare
+            if current == map {
+                return true
+            }
+
+            right += 1
+        }
+        return false
+    }
+}
+
+/// 20220211
 class Solution {
     func checkInclusion(_ s1: String, _ s2: String) -> Bool {
         if s1.isEmpty || s2.isEmpty || s2.count < s1.count { return false }
