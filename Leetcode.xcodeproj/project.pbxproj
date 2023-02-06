@@ -257,6 +257,9 @@
 		9FCD982F27C1F7A200A508BF /* 2180. Count Integers With Even Digit Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2180. Count Integers With Even Digit Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983027C1F81000A508BF /* 2181. Merge Nodes in Between Zeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2181. Merge Nodes in Between Zeros.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCD983127C1F83100A508BF /* 2182. Construct String With Repeat Limit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2182. Construct String With Repeat Limit.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCDCA002990FD770062A737 /* 1470. Shuffle the Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1470. Shuffle the Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCDCA012990FDA30062A737 /* 2559. Count Vowel Strings in Ranges.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2559. Count Vowel Strings in Ranges.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FCDCA022990FDC10062A737 /* 2558. Take Gifts From the Richest Pile.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2558. Take Gifts From the Richest Pile.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FCF82E8295E698100019EC3 /* 797. All Paths From Source to Target.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "797. All Paths From Source to Target.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD176942821FD670090038E /* 1679. Max Number of K-Sum Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1679. Max Number of K-Sum Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "669. Trim a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -361,6 +364,8 @@
 				9FEED38F298627F900FEC90E /* 2549. Count Distinct Numbers on Board.playground */,
 				9FEED38E298627C600FEC90E /* 2550. Count Collisions of Monkeys on a Polygon.playground */,
 				9FEED39A29891D1B00FEC90E /* 2551. Put Marbles in Bags.playground */,
+				9FCDCA022990FDC10062A737 /* 2558. Take Gifts From the Richest Pile.playground */,
+				9FCDCA012990FDA30062A737 /* 2559. Count Vowel Strings in Ranges.playground */,
 			);
 			path = "2501-3000";
 			sourceTree = "<group>";
@@ -663,6 +668,7 @@
 				9FCA6ED4279A8796007526E9 /* 1456. Maximum Number of Vowels in a Substring of Given Length.playground */,
 				9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */,
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
+				9FCDCA002990FD770062A737 /* 1470. Shuffle the Array.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 			);
 			path = "1001-1500";
