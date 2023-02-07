@@ -96,6 +96,7 @@
 		9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "792. Number of Matching Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F455CB42936DBFA0010EC31 /* 1207. Unique Number of Occurrences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1207. Unique Number of Occurrences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "904. Fruit Into Baskets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -620,6 +621,7 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
+				9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
