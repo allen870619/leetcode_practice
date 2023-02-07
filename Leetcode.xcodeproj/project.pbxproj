@@ -97,6 +97,7 @@
 		9F455CB42936DBFA0010EC31 /* 1207. Unique Number of Occurrences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1207. Unique Number of Occurrences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "904. Fruit Into Baskets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F468AFF29920D4D00137FB9 /* 2401. Longest Nice Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2401. Longest Nice Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -756,6 +757,7 @@
 				9F44C28C28E999150032D1BB /* 2428. Maximum Sum of an Hourglass.playground */,
 				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
 				9F41890F2970E6EB007AB5C7 /* 2246. Longest Path With Different Adjacent Characters.playground */,
+				9F468AFF29920D4D00137FB9 /* 2401. Longest Nice Subarray.playground */,
 			);
 			path = "2001-2500";
 			sourceTree = "<group>";
