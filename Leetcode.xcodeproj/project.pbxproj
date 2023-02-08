@@ -98,6 +98,7 @@
 		9F463E2628C6C9BC00CE4DFB /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "904. Fruit Into Baskets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F468AFF29920D4D00137FB9 /* 2401. Longest Nice Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2401. Longest Nice Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F468B002993E52B00137FB9 /* 45. Jump Game II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "45. Jump Game II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -411,6 +412,7 @@
 				9F6ACE3328FE2A7600995AC3 /* 38. Count and Say.playground */,
 				9FFD18E827BDD109001F55FB /* 39. Combination Sum.playground */,
 				9F5A961027841B07001BA86F /* 42. Trapping Rain Water.playground */,
+				9F468B002993E52B00137FB9 /* 45. Jump Game II.playground */,
 				9F57BBAA282CDCA40038D1D8 /* 47. Permutations II.playground */,
 				9FB7FC2C28BD931300BBEFCE /* 48. Rotate Image.playground */,
 				9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */,
