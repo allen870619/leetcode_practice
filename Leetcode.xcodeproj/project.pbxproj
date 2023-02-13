@@ -99,6 +99,7 @@
 		9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "904. Fruit Into Baskets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F468AFF29920D4D00137FB9 /* 2401. Longest Nice Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2401. Longest Nice Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F468B002993E52B00137FB9 /* 45. Jump Game II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "45. Jump Game II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F468B01299A74EF00137FB9 /* 1523. Count Odd Numbers in an Interval Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1523. Count Odd Numbers in an Interval Range.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -707,6 +708,7 @@
 				9F82B2012785661E00E02695 /* 1863. Sum of All Subset XOR Totals.playground */,
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
 				9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */,
+				9F468B01299A74EF00137FB9 /* 1523. Count Odd Numbers in an Interval Range.playground */,
 			);
 			path = "1501-2000";
 			sourceTree = "<group>";
