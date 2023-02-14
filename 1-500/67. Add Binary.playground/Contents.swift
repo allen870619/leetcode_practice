@@ -1,3 +1,40 @@
+// 20230214
+class Solution2 {
+    func addBinary(_ a: String, _ b: String) -> String {
+        let a = [Character](a), b = [Character](b)
+        var p1 = a.count - 1, p2 = b.count - 1
+        var nextDigit = false
+        var result = ""
+        while p1 >= 0 || p2 >= 0 {
+            var v = 0
+            if p1 >= 0, p2 >= 0 {
+                v = Int("\(a[p1])")! + Int("\(b[p2])")!
+            } else if p1 >= 0 {
+                v = Int("\(a[p1])")!
+            } else {
+                v = Int("\(b[p2])")!
+            }
+            if nextDigit {
+                v += 1
+                nextDigit = false
+            }
+            if v >= 2 {
+                nextDigit = true
+                v -= 2
+            }
+            result += "\(v)"
+            p1 -= 1
+            p2 -= 1
+        }
+        if nextDigit {
+            result.append("1")
+        }
+
+        return String(result.reversed())
+    }
+}
+
+// 20220110
 class Solution {
     func addBinary(_ a: String, _ b: String) -> String {
         var arrA = a
