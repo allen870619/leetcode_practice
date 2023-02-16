@@ -1,3 +1,41 @@
+// 20230216
+// BFS
+class Solution3 {
+    func maxDepth(_ root: TreeNode?) -> Int {
+        guard let root else {
+            return 0
+        }
+        var depth = 1
+        var list = [root]
+
+        while !list.isEmpty {
+            for i in list {
+                let node = list.removeFirst()
+                if let left = node.left {
+                    list.append(left)
+                }
+                if let right = node.right {
+                    list.append(right)
+                }
+            }
+            depth += 1
+        }
+        return depth
+    }
+}
+
+// DFS
+class Solution4 {
+    func maxDepth(_ root: TreeNode?) -> Int {
+        guard let root else {
+            return 0
+        }
+
+        return 1 + max(maxDepth(root.left), maxDepth(root.right))
+    }
+}
+
+// 20220214
 class Solution { // BFS
     func maxDepth(_ root: TreeNode?) -> Int {
         if root == nil {
