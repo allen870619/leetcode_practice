@@ -325,6 +325,7 @@
 		9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF29A7628A7FF740022B0E8 /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF410D428D158D700F62D72 /* 1457. Pseudo-Palindromic Paths in a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1457. Pseudo-Palindromic Paths in a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FF4353F299FEB0300F19A1F /* 783. Minimum Distance Between BST Nodes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "783. Minimum Distance Between BST Nodes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF4F38E277152C7002DFE91 /* 231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "231. Power of Two.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF5C25B28BEE6EF00D50347 /* 417. Pacific Atlantic Water Flow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "417. Pacific Atlantic Water Flow.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FF65FD828C818EA00ABE7DC /* 606. Construct String from Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "606. Construct String from Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -585,6 +586,7 @@
 				9F2E8EE127D3597900A76C91 /* 740. Delete and Earn.playground */,
 				9FA699F827E80031003E620F /* 763. Partition Labels.playground */,
 				9F57E162290F671A0006F9DA /* 766. Toeplitz Matrix.playground */,
+				9FF4353F299FEB0300F19A1F /* 783. Minimum Distance Between BST Nodes.playground */,
 				9FFDED7C281B754A00F7A909 /* 785. Is Graph Bipartite?.playground */,
 				9F4557D2288785DE00F9BE70 /* 792. Number of Matching Subsequences.playground */,
 				9FCF82E8295E698100019EC3 /* 797. All Paths From Source to Target.playground */,
@@ -608,6 +610,7 @@
 				9F6D71F12952958500C8438D /* 886. Possible Bipartition.playground */,
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
 				9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */,
+				9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */,
 				9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */,
 				9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */,
 				9F95B15A2976262F005C08F2 /* 926. Flip String to Monotone Increasing.playground */,
@@ -623,11 +626,10 @@
 				9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */,
 				9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */,
 				9FFB004D28DA8F0700EB10CA /* 985. Sum of Even Numbers After Queries.playground */,
+				9F468B02299C8E3600137FB9 /* 989. Add to Array-Form of Integer.playground */,
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
-				9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */,
-				9F468B02299C8E3600137FB9 /* 989. Add to Array-Form of Integer.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
