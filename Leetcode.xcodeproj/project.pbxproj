@@ -300,6 +300,7 @@
 		9FE3679E2941653B00E6C60B /* 872. Leaf-Similar Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "872. Leaf-Similar Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1345. Jump Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "452. Minimum Number of Arrows to Burst Balloons.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FE5B5A529A0C8E800CFF9BC /* 226. Invert Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "226. Invert Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE617502935889A00913E4E /* 380. Insert Delete GetRandom O(1).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "380. Insert Delete GetRandom O(1).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE77F3627A29E8500BE265F /* 421. Maximum XOR of Two Numbers in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "421. Maximum XOR of Two Numbers in an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FE9E96B28404CB80055564A /* 1342. Number of Steps to Reduce a Number to Zero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1342. Number of Steps to Reduce a Number to Zero.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -541,6 +542,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9FE5B5A529A0C8E800CFF9BC /* 226. Invert Binary Tree.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
