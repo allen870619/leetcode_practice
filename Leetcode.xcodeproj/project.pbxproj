@@ -271,6 +271,7 @@
 		9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "669. Trim a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD20D50294BF1E20083821A /* 232. Implement Queue using Stacks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "232. Implement Queue using Stacks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD374F629A4E58C003DDB86 /* 540. Single Element in a Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "540. Single Element in a Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD37ACB2799356200D9383D /* 875. Koko Eating Bananas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "875. Koko Eating Bananas.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD3DA73281229BA00C303CD /* 706. Design HashMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "706. Design HashMap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD3F204285861750050C4BC /* 583. Delete Operation for Two Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "583. Delete Operation for Two Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -636,6 +637,7 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
+				9FD374F629A4E58C003DDB86 /* 540. Single Element in a Sorted Array.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
