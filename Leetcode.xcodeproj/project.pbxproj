@@ -112,6 +112,7 @@
 		9F4E61DD2765D8F1008E177A /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E67C729AE015200B59DB5 /* 652. Find Duplicate Subtrees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "652. Find Duplicate Subtrees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E9D1D29552E920035EA31 /* 309. Best Time to Buy and Sell Stock with Cooldown.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "309. Best Time to Buy and Sell Stock with Cooldown.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1578. Minimum Time to Make Rope Colorful.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392. Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -639,6 +640,7 @@
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
 				9FD374F629A4E58C003DDB86 /* 540. Single Element in a Sorted Array.playground */,
+				9F4E67C729AE015200B59DB5 /* 652. Find Duplicate Subtrees.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
