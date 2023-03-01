@@ -113,6 +113,7 @@
 		9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61DF2765D985008E177A /* 3. Longest Substring Without Repeating Characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring Without Repeating Characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E67C729AE015200B59DB5 /* 652. Find Duplicate Subtrees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "652. Find Duplicate Subtrees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F4E67C829AF406400B59DB5 /* 912. Sort an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "912. Sort an Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E9D1D29552E920035EA31 /* 309. Best Time to Buy and Sell Stock with Cooldown.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "309. Best Time to Buy and Sell Stock with Cooldown.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4ED6BC28EA6A0A006C7920 /* 1578. Minimum Time to Make Rope Colorful.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1578. Minimum Time to Make Rope Colorful.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F501D5727CEF2B60035C47A /* 392. Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392. Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -562,6 +563,7 @@
 				9FF856432908C1EB006A458F /* 523. Continuous Subarray Sum.playground */,
 				9FFCA92227B348F700784846 /* 532. K-diff Pairs in an Array.playground */,
 				9F22B528280A7A8800BD3C90 /* 538. Convert BST to Greater Tree.playground */,
+				9FD374F629A4E58C003DDB86 /* 540. Single Element in a Sorted Array.playground */,
 				9F5C488328DBE23C00317CCA /* 557. Reverse Words in a String III.playground */,
 				9F8DE9DC27B49EE300679206 /* 560. Subarray Sum Equals K.playground */,
 				9F37CEB327B5EDA30074A4AE /* 567. Permutation in String.playground */,
@@ -577,6 +579,7 @@
 				9FFC6C3F2863F6CA00BA970C /* 630. Course Schedule III.playground */,
 				9FF80A6528C1821600501A09 /* 637. Average of Levels in Binary Tree.playground */,
 				9F6A60772904D8FB007E5F2D /* 645. Set Mismatch.playground */,
+				9F4E67C729AE015200B59DB5 /* 652. Find Duplicate Subtrees.playground */,
 				9FFEBCCD28E51DD400CA920F /* 658. Find K Closest Elements.playground */,
 				9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */,
 				9FD18B2B2808FC770028E676 /* 669. Trim a Binary Search Tree.playground */,
@@ -620,6 +623,7 @@
 				9F80F51927E5809D00938425 /* 895. Maximum Frequency Stack.playground */,
 				9F7E2972291B2A2E00289170 /* 901. Online Stock Span.playground */,
 				9F468AFE2991E1BC00137FB9 /* 904. Fruit Into Baskets.playground */,
+				9F4E67C829AF406400B59DB5 /* 912. Sort an Array.playground */,
 				9FEEEEC12977F2830062B8B6 /* 918. Maximum Sum Circular Subarray.playground */,
 				9F0F8F6A27FD1CAF003C69FE /* 923. 3Sum With Multiplicity.playground */,
 				9F95B15A2976262F005C08F2 /* 926. Flip String to Monotone Increasing.playground */,
@@ -639,8 +643,6 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
-				9FD374F629A4E58C003DDB86 /* 540. Single Element in a Sorted Array.playground */,
-				9F4E67C729AE015200B59DB5 /* 652. Find Duplicate Subtrees.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
