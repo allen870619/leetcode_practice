@@ -16,6 +16,7 @@
 		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0A51D128D7FA5C005868FD /* 609. Find Duplicate File in System.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "609. Find Duplicate File in System.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0CD90629B05CA3007DC151 /* 443. String Compression.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "443. String Compression.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0CD90729B06ADA007DC151 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "823. Binary Trees With Factors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1192. Critical Connections in a Network.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -410,6 +411,7 @@
 				9FDACFA228A9C89600C952A8 /* 13. Roman to Integer.playground */,
 				9F0F41FB297931CE00432672 /* 15. 3Sum.playground */,
 				9F9E01EF2765D1D300D3E1AC /* 17. Letter Combinations of a Phone Number.playground */,
+				9F0CD90729B06ADA007DC151 /* 18. 4Sum.playground */,
 				9FDA82F628E3CA8F0036D372 /* 19. Remove Nth Node From End of List.playground */,
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
 				9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */,
@@ -548,11 +550,11 @@
 				9F34650E28C58437007F1160 /* 429. N-ary Tree Level Order Traversal.playground */,
 				9F2151602911F7EB002A9F34 /* 433. Minimum Genetic Mutation.playground */,
 				9F9123A4298E98CF0045F06B /* 438. Find All Anagrams in a String.playground */,
+				9F0CD90629B05CA3007DC151 /* 443. String Compression.playground */,
 				9FE55242278FA4F100DCBCB9 /* 452. Minimum Number of Arrows to Burst Balloons.playground */,
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
-				9F0CD90629B05CA3007DC151 /* 443. String Compression.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
