@@ -15,6 +15,7 @@
 		9F0689442899FC0200EAE156 /* 729. My Calendar I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "729. My Calendar I.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0A51D128D7FA5C005868FD /* 609. Find Duplicate File in System.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "609. Find Duplicate File in System.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F0CD90629B05CA3007DC151 /* 443. String Compression.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "443. String Compression.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0D4B5828A1E30D00CC4EB8 /* 823. Binary Trees With Factors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "823. Binary Trees With Factors.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0D7E30290B56B700C9A817 /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F0E81562834DD72009056A5 /* 1192. Critical Connections in a Network.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1192. Critical Connections in a Network.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -551,6 +552,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9F0CD90629B05CA3007DC151 /* 443. String Compression.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
