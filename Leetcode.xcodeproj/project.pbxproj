@@ -248,6 +248,7 @@
 		9FAF06A829B64C9C00B4F92F /* 107. Binary Tree Level Order Traversal II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "107. Binary Tree Level Order Traversal II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAF06A929B64EA900B4F92F /* 151. Reverse Words in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "151. Reverse Words in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAF06AA29B64FB700B4F92F /* 260. Single Number III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "260. Single Number III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06AB29B6508400B4F92F /* 347. Top K Frequent Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "347. Top K Frequent Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "219. Contains Duplicate II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -573,6 +574,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9FAF06AB29B6508400B4F92F /* 347. Top K Frequent Elements.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
