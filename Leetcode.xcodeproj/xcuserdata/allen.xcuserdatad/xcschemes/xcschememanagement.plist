@@ -2006,6 +2006,27 @@
 			<key>orderHint</key>
 			<integer>272</integer>
 		</dict>
+		<key>151. Reverse Words in a String (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>376</integer>
+		</dict>
+		<key>151. Reverse Words in a String (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>377</integer>
+		</dict>
+		<key>151. Reverse Words in a String (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>375</integer>
+		</dict>
 		<key>1510. Stone Game IV (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -5267,6 +5288,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>65</integer>
+		</dict>
+		<key>260. Single Number III (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>379</integer>
+		</dict>
+		<key>260. Single Number III (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>380</integer>
+		</dict>
+		<key>260. Single Number III (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>378</integer>
 		</dict>
 		<key>263. Ugly Number (Playground) 1.xcscheme</key>
 		<dict>
