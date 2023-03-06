@@ -243,6 +243,9 @@
 		9FABB82B29679E6C001793CF /* 1833. Maximum Ice Cream Bars.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1833. Maximum Ice Cream Bars.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAD150F28064F92005470C1 /* 59. Spiral Matrix II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "59. Spiral Matrix II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAE014628D94373008948A0 /* 718. Maximum Length of Repeated Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "718. Maximum Length of Repeated Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06A629B64C5200B4F92F /* 1539. Kth Missing Positive Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1539. Kth Missing Positive Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06A729B64C7200B4F92F /* 2444. Count Subarrays With Fixed Bounds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2444. Count Subarrays With Fixed Bounds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06A829B64C9C00B4F92F /* 107. Binary Tree Level Order Traversal II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "107. Binary Tree Level Order Traversal II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "219. Contains Duplicate II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -565,6 +568,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9FAF06A829B64C9C00B4F92F /* 107. Binary Tree Level Order Traversal II.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
@@ -741,6 +745,7 @@
 				9F5DF46F292AFDB0007488E9 /* 1926. Nearest Exit from Entrance in Maze.playground */,
 				9F000DAA295BF8110050E763 /* 1962. Remove Stones to Minimize the Total.playground */,
 				9F468B01299A74EF00137FB9 /* 1523. Count Odd Numbers in an Interval Range.playground */,
+				9FAF06A629B64C5200B4F92F /* 1539. Kth Missing Positive Number.playground */,
 			);
 			path = "1501-2000";
 			sourceTree = "<group>";
@@ -794,6 +799,7 @@
 				9F44C28D28E9A3E70032D1BB /* 2429. Minimize XOR.playground */,
 				9F41890F2970E6EB007AB5C7 /* 2246. Longest Path With Different Adjacent Characters.playground */,
 				9F468AFF29920D4D00137FB9 /* 2401. Longest Nice Subarray.playground */,
+				9FAF06A729B64C7200B4F92F /* 2444. Count Subarrays With Fixed Bounds.playground */,
 			);
 			path = "2001-2500";
 			sourceTree = "<group>";
