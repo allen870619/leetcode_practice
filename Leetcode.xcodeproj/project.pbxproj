@@ -252,6 +252,8 @@
 		9FAF06AC29B6E53000B4F92F /* 210. Course Schedule II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "210. Course Schedule II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAF06AD29B6E55600B4F92F /* 2187. Minimum Time to Complete Trips.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2187. Minimum Time to Complete Trips.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAF06B029B6FE4900B4F92F /* 957. Prison Cells After N Days.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "957. Prison Cells After N Days.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06B329B7571E00B4F92F /* 153. Find Minimum in Rotated Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "153. Find Minimum in Rotated Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06B429B7574300B4F92F /* 154. Find Minimum in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "154. Find Minimum in Rotated Sorted Array II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "219. Contains Duplicate II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -500,6 +502,8 @@
 				9F2C1694276968B500862684 /* 147. Insertion Sort List.playground */,
 				9F43938927C714080009D69A /* 148. Sort List.playground */,
 				9FAF06A929B64EA900B4F92F /* 151. Reverse Words in a String.playground */,
+				9FAF06B329B7571E00B4F92F /* 153. Find Minimum in Rotated Sorted Array.playground */,
+				9FAF06B429B7574300B4F92F /* 154. Find Minimum in Rotated Sorted Array II.playground */,
 				9F6E7ECF284D854D0080263F /* 160. Intersection of Two Linked Lists.playground */,
 				9F5D889F27C858190027C55D /* 165. Compare Version Numbers.playground */,
 				9F7D2FB327C311BB000FE5B1 /* 169. Majority Element.playground */,
@@ -510,6 +514,7 @@
 				9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */,
 				9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */,
 				9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */,
+				9FAF06AC29B6E53000B4F92F /* 210. Course Schedule II.playground */,
 				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
 				9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */,
 				9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */,
@@ -550,6 +555,7 @@
 				9F6DD97B28279F8200A059EA /* 341. Flatten Nested List Iterator.playground */,
 				9FC8219E28B301B5005EE7ED /* 342. Power of Four.playground */,
 				9F6B10F02914939500CB8932 /* 345. Reverse Vowels of a String.playground */,
+				9FAF06AB29B6508400B4F92F /* 347. Top K Frequent Elements.playground */,
 				9F336B8D283DBE6D00B5B836 /* 354. Russian Doll Envelopes.playground */,
 				9F2398C3292463B8007DA30E /* 374. Guess Number Higher or Lower.playground */,
 				9FF94B72289C9996007A5763 /* 377. Combination Sum IV.playground */,
@@ -577,8 +583,6 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
-				9FAF06AB29B6508400B4F92F /* 347. Top K Frequent Elements.playground */,
-				9FAF06AC29B6E53000B4F92F /* 210. Course Schedule II.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
