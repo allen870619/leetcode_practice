@@ -251,6 +251,7 @@
 		9FAF06AB29B6508400B4F92F /* 347. Top K Frequent Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "347. Top K Frequent Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAF06AC29B6E53000B4F92F /* 210. Course Schedule II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "210. Course Schedule II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAF06AD29B6E55600B4F92F /* 2187. Minimum Time to Complete Trips.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2187. Minimum Time to Complete Trips.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FAF06B029B6FE4900B4F92F /* 957. Prison Cells After N Days.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "957. Prison Cells After N Days.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FAFA6BD28E8884900326EA3 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB2991B27A56C14004DFFEB /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FB572C22902212C002863C6 /* 219. Contains Duplicate II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "219. Contains Duplicate II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -670,6 +671,7 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
+				9FAF06B029B6FE4900B4F92F /* 957. Prison Cells After N Days.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
