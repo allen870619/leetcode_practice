@@ -1,3 +1,30 @@
+// 20230308
+// Time complexity: O(N^2) + O(NlogN)
+class Solution2 {
+    func scheduleCourse(_ courses: [[Int]]) -> Int {
+        var courses = courses.sorted(by: { $0[1] < $1[1] })
+        var result = 0, totalDay = 0
+        for i in 0 ..< courses.count {
+            if totalDay + courses[i][0] <= courses[i][1] {
+                result += 1
+                totalDay += courses[i][0]
+            } else {
+                var maxIndex = i
+                for j in 0 ..< i {
+                    if courses[j][0] > courses[maxIndex][0] {
+                        maxIndex = j
+                    }
+                }
+
+                totalDay += courses[i][0] - courses[maxIndex][0]
+                courses[maxIndex][0] = -1
+            }
+        }
+        return result
+    }
+}
+
+// 20220123
 class Solution {
     func scheduleCourse(_ courses: [[Int]]) -> Int {
         var newCourses = courses.sorted { $0[1] < $1[1] }

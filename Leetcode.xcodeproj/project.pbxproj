@@ -198,6 +198,7 @@
 		9F8678C1279F792C0006DAF2 /* 941. Valid Mountain Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "941. Valid Mountain Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C2279F794B0006DAF2 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8678C3279F796A0006DAF2 /* 1291. Sequential Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1291. Sequential Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F8716AC29B8213B00704816 /* 207. Course Schedule.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "207. Course Schedule.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F88C62E28D406BC0013B16E /* 1770. Maximum Score from Performing Multiplication Operations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1770. Maximum Score from Performing Multiplication Operations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C78F528ADBF1700EFA55C /* 1338. Reduce Array Size to The Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1338. Reduce Array Size to The Half.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F8C83022886309B00F11C20 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -514,6 +515,7 @@
 				9FE2ED95283F02EC009AFBA4 /* 191. Number of 1 Bits.playground */,
 				9F796FA9287BA37F00C4E9AD /* 199. Binary Tree Right Side View.playground */,
 				9FD1DAB7277A900200EADDCE /* 200. Number of Islands.playground */,
+				9F8716AC29B8213B00704816 /* 207. Course Schedule.playground */,
 				9FAF06AC29B6E53000B4F92F /* 210. Course Schedule II.playground */,
 				9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */,
 				9F402CFF2862954200FB72B1 /* 215. Kth Largest Element in an Array.playground */,

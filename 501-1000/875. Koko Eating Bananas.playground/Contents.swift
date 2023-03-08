@@ -1,3 +1,31 @@
+// 20230308
+// Time complexity: O(logN)
+class Solution2 {
+    func minEatingSpeed(_ piles: [Int], _ h: Int) -> Int {
+        let piles = piles.sorted()
+        var left = 1, right = piles.last!
+
+        while left <= right {
+            let mid = (left + right) / 2
+            let timeTotal = piles.reduce(0) { res, val in
+                var tmp = res + val / mid
+                if val % mid != 0 {
+                    tmp += 1
+                }
+                return tmp
+            }
+
+            if timeTotal > h {
+                left = mid + 1
+            } else {
+                right = mid - 1
+            }
+        }
+        return left
+    }
+}
+
+// 20220120
 class Solution {
     func minEatingSpeed(_ piles: [Int], _ h: Int) -> Int {
         if piles.count == 1 {
