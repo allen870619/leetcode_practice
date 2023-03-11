@@ -1607,6 +1607,27 @@
 			<key>orderHint</key>
 			<integer>188</integer>
 		</dict>
+		<key>140. Word Break II (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>385</integer>
+		</dict>
+		<key>140. Word Break II (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>386</integer>
+		</dict>
+		<key>140. Word Break II (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>384</integer>
+		</dict>
 		<key>1400. Construct K Palindrome Strings (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -7003,6 +7024,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>175</integer>
+		</dict>
+		<key>461. Hamming Distance (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>382</integer>
+		</dict>
+		<key>461. Hamming Distance (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>383</integer>
+		</dict>
+		<key>461. Hamming Distance (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>381</integer>
 		</dict>
 		<key>47. Permutations II (Playground) 1.xcscheme</key>
 		<dict>
