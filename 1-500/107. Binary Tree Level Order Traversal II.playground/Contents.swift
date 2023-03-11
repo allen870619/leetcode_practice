@@ -11,6 +11,34 @@ public class TreeNode {
     }
 }
 
+class Solution2 { // DFS
+    func levelOrderBottom(_ root: TreeNode?) -> [[Int]] {
+        var result = [[Int]]()
+
+        func dfs(node: TreeNode?, level: Int) {
+            guard let node else {
+                return
+            }
+            checkLevel(level: level)
+            result[level].append(node.val)
+            if let left = node.left {
+                dfs(node: left, level: level + 1)
+            }
+            if let right = node.right {
+                dfs(node: right, level: level + 1)
+            }
+        }
+
+        func checkLevel(level: Int) {
+            if result.count == level {
+                result.append([])
+            }
+        }
+        dfs(node: root, level: 0)
+        return result.reversed()
+    }
+}
+
 class Solution {
     func levelOrderBottom(_ root: TreeNode?) -> [[Int]] {
         guard let root else {
