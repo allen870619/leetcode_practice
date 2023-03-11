@@ -217,6 +217,7 @@
 		9F9268F529BC11D700350328 /* 109. Convert Sorted List to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "109. Convert Sorted List to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F9268FF29BCB12E00350328 /* 461. Hamming Distance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "461. Hamming Distance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F92690029BCB8D600350328 /* 140. Word Break II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "140. Word Break II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F92690129BCBDA900350328 /* 1344. Angle Between Hands of a Clock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1344. Angle Between Hands of a Clock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94B3FC28B4570800663474 /* 234. Palindrome Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrome Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F94DFC8295D2B9F000D6786 /* 1834. Single-Threaded CPU.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1834. Single-Threaded CPU.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F950327294AAFF500D77046 /* 1143. Longest Common Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1143. Longest Common Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -693,6 +694,7 @@
 			children = (
 				9FA699F927E80052003E620F /* 1007. Minimum Domino Rotations For Equal Row.playground */,
 				9F78465F2783C6620086C924 /* 1009. Complement of Base 10 Integer.playground */,
+				9FD374F729A5FD55003DDB86 /* 1011. Capacity To Ship Packages Within D Days.playground */,
 				9FB74A6A277D2E74003A55E9 /* 1015. Smallest Integer Divisible by K.playground */,
 				9FFB48CD278D02F500D64117 /* 1022. Sum of Root To Leaf Binary Numbers.playground */,
 				9F02E5C02942B7FF00F55C35 /* 1026. Maximum Difference Between Node and Ancestor.playground */,
@@ -722,6 +724,7 @@
 				9F73640E27F1361600A836A9 /* 1337. The K Weakest Rows in a Matrix.playground */,
 				9F8C78F528ADBF1700EFA55C /* 1338. Reduce Array Size to The Half.playground */,
 				9FE9E96B28404CB80055564A /* 1342. Number of Steps to Reduce a Number to Zero.playground */,
+				9F92690129BCBDA900350328 /* 1344. Angle Between Hands of a Clock.playground */,
 				9FE4DFA7279309BC00A37953 /* 1345. Jump Game IV.playground */,
 				9FA0AB5728653DB4007C49C6 /* 1354. Construct Target Array With Multiple Sums.playground */,
 				9F213EA327D469F400E0BC4B /* 1359. Count All Valid Pickup and Delivery Options.playground */,
@@ -734,7 +737,6 @@
 				9F36030F2845A30C000A214F /* 1461. Check If a String Contains All Binary Codes of Size K.playground */,
 				9FCDCA002990FD770062A737 /* 1470. Shuffle the Array.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
-				9FD374F729A5FD55003DDB86 /* 1011. Capacity To Ship Packages Within D Days.playground */,
 			);
 			path = "1001-1500";
 			sourceTree = "<group>";
