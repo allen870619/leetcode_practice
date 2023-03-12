@@ -27,6 +27,7 @@
 		9F0FBF8928A484570096F69D /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "948. Bag of Tokens.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F15442929BE0AE900771C99 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1680. Concatenation of Consecutive Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "990. Satisfiability of Equality Equations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "173. Binary Search Tree Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -435,6 +436,7 @@
 				9F0CD90729B06ADA007DC151 /* 18. 4Sum.playground */,
 				9FDA82F628E3CA8F0036D372 /* 19. Remove Nth Node From End of List.playground */,
 				9F3E28AA27D5849300990201 /* 21. Merge Two Sorted Lists.playground */,
+				9F15442929BE0AE900771C99 /* 23. Merge k Sorted Lists.playground */,
 				9F424FDF27BC7F7C0012BA4A /* 24. Swap Nodes in Pairs.playground */,
 				9F7EADEC291DCB8C0036D6D7 /* 26. Remove Duplicates from Sorted Array.playground */,
 				9F9D383B29B18EB500BA436C /* 28. Find the Index of the First Occurrence in a String.playground */,
