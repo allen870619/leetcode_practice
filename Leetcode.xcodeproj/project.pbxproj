@@ -28,6 +28,7 @@
 		9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "948. Bag of Tokens.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F15442929BE0AE900771C99 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F15442A29BEC10A00771C99 /* 101. Symmetric Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "101. Symmetric Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1680. Concatenation of Consecutive Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "990. Satisfiability of Equality Equations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "173. Binary Search Tree Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -594,6 +595,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9F15442A29BEC10A00771C99 /* 101. Symmetric Tree.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
