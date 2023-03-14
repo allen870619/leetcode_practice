@@ -29,6 +29,7 @@
 		9F12931727A3C1A80093C28B /* 211. Design Add and Search Words Data Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "211. Design Add and Search Words Data Structure.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F15442929BE0AE900771C99 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F15442A29BEC10A00771C99 /* 101. Symmetric Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "101. Symmetric Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F15442E29BFFA4D00771C99 /* 129. Sum Root to Leaf Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "129. Sum Root to Leaf Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F183D2B28DD3BB500926DF0 /* 1680. Concatenation of Consecutive Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1680. Concatenation of Consecutive Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "990. Satisfiability of Equality Equations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F19AE9A280F88130064EEC1 /* 173. Binary Search Tree Iterator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "173. Binary Search Tree Iterator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -484,6 +485,7 @@
 				9F0FBF8928A484570096F69D /* 98. Validate Binary Search Tree.playground */,
 				9F85F8C9280E40A000CA5F9D /* 99. Recover Binary Search Tree.playground */,
 				9F9FF71A28C96EFD0047F2FF /* 100. Same Tree.playground */,
+				9F15442A29BEC10A00771C99 /* 101. Symmetric Tree.playground */,
 				9FDB6F7F287E59AA002F36F7 /* 102. Binary Tree Level Order Traversal.playground */,
 				9FFEB48129A25721006A1D37 /* 103. Binary Tree Zigzag Level Order Traversal.playground */,
 				9F9CF72A27BB290800519B15 /* 104. Maximum Depth of Binary Tree.playground */,
@@ -501,6 +503,7 @@
 				9F20932627A8CDA50041E51A /* 121. Best Time to Buy and Sell Stock.playground */,
 				9F4E61DE2765D91F008E177A /* 122. Best Time to Buy and Sell Stock II.playground */,
 				9FF7C7532873BB21009C4FA1 /* 128. Longest Consecutive Sequence.playground */,
+				9F15442E29BFFA4D00771C99 /* 129. Sum Root to Leaf Numbers.playground */,
 				9F07B65427C5BB9000694094 /* 133. Clone Graph.playground */,
 				9FCA6ED3279A347D007526E9 /* 134. Gas Station.playground */,
 				9F9CF72927BB278E00519B15 /* 136. Single Number.playground */,
@@ -595,7 +598,6 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
-				9F15442A29BEC10A00771C99 /* 101. Symmetric Tree.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
