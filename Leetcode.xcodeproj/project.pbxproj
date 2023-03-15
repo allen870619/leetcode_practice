@@ -339,6 +339,7 @@
 		9FEA86BB27BF1F7C00F29004 /* 402. Remove K Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "402. Remove K Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEB41C62829F29400438442 /* 216. Combination Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "216. Combination Sum III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEBE84028F7954A00C377DE /* 237. Delete Node in a Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "237. Delete Node in a Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FEC758929C1F81A00273726 /* 958. Check Completeness of a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "958. Check Completeness of a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FEC7DA928AF1E1400F545F4 /* 659. Split Array into Consecutive Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "659. Split Array into Consecutive Subsequences.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECC27128ED058700209805 /* 623. Add One Row to Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "623. Add One Row to Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "981. Time Based Key-Value Store.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -682,6 +683,8 @@
 				9F26CA3B2921C41200B80A8D /* 947. Most Stones Removed with Same Row or Column.playground */,
 				9F11EFBA28CEBDB2004D8F9D /* 948. Bag of Tokens.playground */,
 				9FEED39C298B4BD400FEC90E /* 953. Verifying an Alien Dictionary.playground */,
+				9FAF06B029B6FE4900B4F92F /* 957. Prison Cells After N Days.playground */,
+				9FEC758929C1F81A00273726 /* 958. Check Completeness of a Binary Tree.playground */,
 				9F268C902978C87A003178F6 /* 974. Subarray Sums Divisible by K.playground */,
 				9FEF130D28F6418B003378D4 /* 976. Largest Perimeter Triangle.playground */,
 				9FECDC5328EE5C5B009050F7 /* 981. Time Based Key-Value Store.playground */,
@@ -690,7 +693,6 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
-				9FAF06B029B6FE4900B4F92F /* 957. Prison Cells After N Days.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
