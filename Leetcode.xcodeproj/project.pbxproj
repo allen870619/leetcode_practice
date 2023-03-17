@@ -110,6 +110,7 @@
 		9F468B02299C8E3600137FB9 /* 989. Add to Array-Form of Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "989. Add to Array-Form of Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F47B4262946AC0A00FF69BC /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4818F6289B4A42006934E3 /* 858. Mirror Reflection.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "858. Mirror Reflection.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F494C7C29C406BF00F2C8DB /* 208. Implement Trie.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "208. Implement Trie.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D72765D77E008E177A /* 721. Accounts Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "721. Accounts Merge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D82765D7C6008E177A /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F4E61D92765D7F9008E177A /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -599,6 +600,7 @@
 				9F387471287CFDBD004D0C28 /* 473. Matchsticks to Square.playground */,
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
+				9F494C7C29C406BF00F2C8DB /* 208. Implement Trie.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
