@@ -307,6 +307,7 @@
 		9FD3F204285861750050C4BC /* 583. Delete Operation for Two Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "583. Delete Operation for Two Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD435CA27EF38C20012B2F1 /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD469DC2963B5B9008C8E4D /* 944. Delete Columns to Make Sorted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "944. Delete Columns to Make Sorted.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9FD50A0E29CBE78400931AEB /* 662. Maximum Width of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "662. Maximum Width of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD583942925B8E9009CF36D /* 223. Rectangle Area.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "223. Rectangle Area.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD583952925B901009CF36D /* 836. Rectangle Overlap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "836. Rectangle Overlap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FD6C45B2787BB0700709199 /* 382. Linked List Random Node.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "382. Linked List Random Node.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -695,6 +696,7 @@
 				9F18BDC328E1541400566FAC /* 990. Satisfiability of Equality Equations.playground */,
 				9F37440727EA9F6D004D3778 /* 991. Broken Calculator.playground */,
 				9FB587C8278277080012B6ED /* 997. Find the Town Judge.playground */,
+				9FD50A0E29CBE78400931AEB /* 662. Maximum Width of Binary Tree.playground */,
 			);
 			path = "501-1000";
 			sourceTree = "<group>";
