@@ -139,6 +139,7 @@
 		9F5BF34327E2C0EE00E46A42 /* 856. Score of Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "856. Score of Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5C488328DBE23C00317CCA /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5C4CAD2919D73E0054E763 /* 1544. Make The String Great.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1544. Make The String Great.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F5C64D229DFC323007F6297 /* 430. Flatten a Multilevel Doubly Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "430. Flatten a Multilevel Doubly Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5D188F279BDA2000E918F6 /* 1510. Stone Game IV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1510. Stone Game IV.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5D889F27C858190027C55D /* 165. Compare Version Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "165. Compare Version Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F5DD7BF2793D44700B000E2 /* 849. Maximize Distance to Closest Person.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "849. Maximize Distance to Closest Person.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -602,6 +603,7 @@
 				9FE0C8CC283B5E780079CB83 /* 474. Ones and Zeroes.playground */,
 				9F65A7C627793C8200BBAA4A /* 476. Number Complement.playground */,
 				9F494C7C29C406BF00F2C8DB /* 208. Implement Trie.playground */,
+				9F5C64D229DFC323007F6297 /* 430. Flatten a Multilevel Doubly Linked List.playground */,
 			);
 			path = "1-500";
 			sourceTree = "<group>";
