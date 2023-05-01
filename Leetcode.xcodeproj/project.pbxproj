@@ -398,6 +398,7 @@
 		9FFF419828A33456003AA24E /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFF7EB92907662800580FD8 /* 1662. Check If Two String Arrays are Equivalent.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1662. Check If Two String Arrays are Equivalent.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9FFF7EBA2907666A00580FD8 /* 1706. Where Will the Ball Fall.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1706. Where Will the Ball Fall.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A84F988829FF4BE800E98EDF /* 1491. Average Salary Excluding the Minimum and Maximum Salary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1491. Average Salary Excluding the Minimum and Maximum Salary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -753,6 +754,7 @@
 				9FCDCA002990FD770062A737 /* 1470. Shuffle the Array.playground */,
 				9FF1D5492846E5A100D2491B /* 1480. Running Sum of 1d Array.playground */,
 				9F51349529DFC6E7008BB614 /* 1020. Number of Enclaves.playground */,
+				A84F988829FF4BE800E98EDF /* 1491. Average Salary Excluding the Minimum and Maximum Salary.playground */,
 			);
 			path = "1001-1500";
 			sourceTree = "<group>";
